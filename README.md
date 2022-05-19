@@ -1,4 +1,4 @@
-# UF STCC Intro Virtual Human Interaction
+# UF STCC Intro Virtual Human Interaction Task
 This is my Intro Virtual Human Interaction Task to help me get familiar with the technologies used by The University of Florida’s STEM Translational Communication Center (STCC). 
 
 #
