@@ -1,0 +1,35 @@
+{
+  "id": "b1b1500d-d3cc-4f1f-9cf5-c7b4a51c5dc1",
+  "name": "Non-Default What Is Wrong With Swallowing Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It\u0027s hard for me to eat and I\u0027m not enjoying it as much. Food feels like it\u0027s getting stuck and I end up coughing and hocking."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

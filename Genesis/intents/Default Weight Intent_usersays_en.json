@@ -1,0 +1,168 @@
+[
+  {
+    "id": "2fe9a9b9-cd72-4ac2-ad74-5ca314e0035e",
+    "data": [
+      {
+        "text": "Do you think you still weight ",
+        "userDefined": false
+      },
+      {
+        "text": "180 pounds",
+        "meta": "@sys.unit-weight",
+        "alias": "unit-weight",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da9935ca-848f-4f6c-a553-16d653272b45",
+    "data": [
+      {
+        "text": "How many pounds?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db6c3a9f-d3be-46d6-95bc-97a6bf9982bb",
+    "data": [
+      {
+        "text": "do you need to lose weight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16a9fc2a-8ccc-48f0-ad8f-0811a2293b86",
+    "data": [
+      {
+        "text": "Have you had any weight loss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "149897d9-7889-46c0-b222-d03d31b990d8",
+    "data": [
+      {
+        "text": "Is this an average weight for you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33472bca-0f5c-453f-aea2-5b6f142f1f65",
+    "data": [
+      {
+        "text": "can you please tell me your weight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39c4c06f-2a50-4760-818b-c3fc9ce8b5db",
+    "data": [
+      {
+        "text": "do you know how much you weigh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52229bae-5648-489f-b2c5-4e420b3a02d7",
+    "data": [
+      {
+        "text": "have you checked your weight recently",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3db087f9-1301-4243-941b-b08b24e5394e",
+    "data": [
+      {
+        "text": "Do you know your weight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1163fb8-5b4c-4f4c-8262-c6f050d02f19",
+    "data": [
+      {
+        "text": "have you checked your weight in the recent past",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf3f7c47-c24d-4ff0-9996-e9b4fbe753ae",
+    "data": [
+      {
+        "text": "what is your weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9640c924-e26d-4208-bce9-b4fce1865911",
+    "data": [
+      {
+        "text": "how much do you weigh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

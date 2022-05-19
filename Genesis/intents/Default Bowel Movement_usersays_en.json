@@ -1,0 +1,93 @@
+[
+  {
+    "id": "0434faba-f4ce-4890-8cef-6263da68e12b",
+    "data": [
+      {
+        "text": "Are your bowel movements normal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69c0d3cb-007b-47d7-bee8-b41480bc0c60",
+    "data": [
+      {
+        "text": "And trouble in the bathroom?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c8c59a7-114c-4435-abc0-a644936651c9",
+    "data": [
+      {
+        "text": "Are your bowels moving?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec841701-028e-4d86-9a85-d25ba57c121f",
+    "data": [
+      {
+        "text": "Bowels moving normally?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fafe513-fd49-420f-85c1-d70a38266d73",
+    "data": [
+      {
+        "text": "Can you characterize your bowels for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "429d27a8-a6d0-44b9-949a-2fa50f49cb5d",
+    "data": [
+      {
+        "text": "How are your bowel movements?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58086efb-5ce4-4a00-a8b4-be8f8e892ee1",
+    "data": [
+      {
+        "text": "Do you have normal bowels?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

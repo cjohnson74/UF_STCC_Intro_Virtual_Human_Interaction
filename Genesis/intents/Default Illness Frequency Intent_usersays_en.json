@@ -1,0 +1,145 @@
+[
+  {
+    "id": "e0288413-3cfe-4cb0-b20a-455b97b6b888",
+    "data": [
+      {
+        "text": "Any colds?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51961bc0-4c7e-48d2-a646-131bc3ccd46a",
+    "data": [
+      {
+        "text": "Have you been sick lately?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cc4bbd4-67fb-48fc-817c-31d7e12416e1",
+    "data": [
+      {
+        "text": "Have you been sick since the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "defdf905-0854-464f-a637-6517c40360e0",
+    "data": [
+      {
+        "text": "do you have a history of illness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90cef755-4314-400a-b06d-5d52f86fc557",
+    "data": [
+      {
+        "text": "how often do you have fever?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28fee559-0e63-467d-9f05-c61b692829d1",
+    "data": [
+      {
+        "text": "Do you get sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bd8153c-6d08-44e7-acac-781e2f53f6e4",
+    "data": [
+      {
+        "text": "Have you been sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eee3db05-4fbc-4f3f-b77c-e94668df41c2",
+    "data": [
+      {
+        "text": "Are you in overall poor health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7606fdf1-2420-4679-84bd-cb1ace1817b3",
+    "data": [
+      {
+        "text": "Do you get sick alot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a58b71cb-3730-4f75-8778-dd8166ab1cd5",
+    "data": [
+      {
+        "text": "Did you go to the hospital often?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75512c80-bc67-49f0-b454-b6cdc6d03da0",
+    "data": [
+      {
+        "text": "Do you get sick often?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

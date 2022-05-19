@@ -1,0 +1,28 @@
+[
+  {
+    "id": "7658ff6e-149d-4286-a135-06727493ad77",
+    "data": [
+      {
+        "text": "What kinds of foods do you have difficulty swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4985e73-90dd-4bb5-b0ef-1984de766607",
+    "data": [
+      {
+        "text": "What foods trigger your swallowing problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

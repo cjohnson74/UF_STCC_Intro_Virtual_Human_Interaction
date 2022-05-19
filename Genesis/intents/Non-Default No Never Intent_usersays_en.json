@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f88ec14e-9151-4a43-abdc-a1396d7e7a61",
+    "data": [
+      {
+        "text": "has this happened to anyone else in your family",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3145f6e-b81c-4a01-8123-c5300b4f45d8",
+    "data": [
+      {
+        "text": "Did you have respiratory problems before your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4f6af97-8fd6-46fb-93ae-6b224d53b0a8",
+    "data": [
+      {
+        "text": "Did you have any respiratory issues prior to your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c81ceeb5-62eb-499d-901b-94f1a0a39eb3",
+    "data": [
+      {
+        "text": "Have you had a heart attack?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fac064a-09f9-473d-b009-3958701fb157",
+    "data": [
+      {
+        "text": "Did you have respiratory problems prior to your stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

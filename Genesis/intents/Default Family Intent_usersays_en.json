@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e2c2818e-4bda-4d50-8863-09fe2a06bc1b",
+    "data": [
+      {
+        "text": "Are you close to your family?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e83a6391-a9ee-4738-9c37-3ee6f32893d5",
+    "data": [
+      {
+        "text": "Do you have anyone to help you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a905c0bb-1562-4804-bdd8-419776e1e7dc",
+    "data": [
+      {
+        "text": "Do you have family or friends?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ce19315-ab69-40fa-aafc-4da02004af78",
+    "data": [
+      {
+        "text": "Do you live with family currently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b63f7b3b-29ed-452b-9a3e-8798b24220fc",
+    "data": [
+      {
+        "text": "Is someone there for you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8999c612-7994-4a0a-bb66-39f86760d25f",
+    "data": [
+      {
+        "text": "Do you have a support system?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

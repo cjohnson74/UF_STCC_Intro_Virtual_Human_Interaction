@@ -1,0 +1,28 @@
+[
+  {
+    "id": "3de93195-e25b-4262-be36-0d30146bf53b",
+    "data": [
+      {
+        "text": "how have you been feeling lately?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7950d860-9882-4ecc-b637-6a52d23407b7",
+    "data": [
+      {
+        "text": "how is the recovery?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "e9b628c7-997a-4923-a5aa-7a25ad17d9f6",
+    "data": [
+      {
+        "text": "Do you have dysarthria?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc0afe95-4ad1-4c11-b8ca-35fd2a097d45",
+    "data": [
+      {
+        "text": "Did you have dysarthria?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

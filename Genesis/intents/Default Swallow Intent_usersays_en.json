@@ -1,0 +1,639 @@
+[
+  {
+    "id": "7ead171b-e196-4b41-9b57-eb64a290a6a2",
+    "data": [
+      {
+        "text": "Do you get tired more easily than you did before your big stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da722810-f3f4-4587-b001-4b766db18065",
+    "data": [
+      {
+        "text": "Tell me about your symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a64db7b-ca0d-4529-83e4-2f0ecb5d92fb",
+    "data": [
+      {
+        "text": "Do you finish your meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01041ffe-9fbe-4d08-aaa2-760de0c42528",
+    "data": [
+      {
+        "text": "What kinds of problems do you have swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "882f4735-191a-4952-b885-08119f32dc52",
+    "data": [
+      {
+        "text": "Do you feel tired after meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8b8770e-4aca-43c4-b042-df8bb8d4e60c",
+    "data": [
+      {
+        "text": "Does eating a meal make you tired?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43e7569f-f1fc-4f15-9790-7dce73fe946e",
+    "data": [
+      {
+        "text": "What kinds of problems are you having?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a350da94-22b0-43c5-bb5f-e7a072223472",
+    "data": [
+      {
+        "text": "What is the problem you\u0027re having with swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91c1d962-22bd-4dab-9898-3f8ac160e876",
+    "data": [
+      {
+        "text": "Do you get tired when you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e480619b-9c3c-43ae-95d7-4a460cffbc1a",
+    "data": [
+      {
+        "text": "What swallowing difficulty are you having?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c8cc187-bb7f-4908-8ac0-6f57c360e835",
+    "data": [
+      {
+        "text": "Can you tell me about your swallowing problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56b233af-0bd9-4b30-b285-e97abf8292b6",
+    "data": [
+      {
+        "text": "Do you get tired while eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d0704dd-6497-4d0f-a9c0-b93337934c0f",
+    "data": [
+      {
+        "text": "What symptoms can you describe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79bd7680-e8ff-41ec-8e14-d9494a7849b1",
+    "data": [
+      {
+        "text": "Do you notice the problems, or is it just your wife?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0b30030-a9db-4f67-bd08-08edc83fe1c5",
+    "data": [
+      {
+        "text": "What are the symptoms of your swallowing problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1feab77-ce5e-4a0c-a17d-a1293b8106ab",
+    "data": [
+      {
+        "text": "do you experience fatigue when eating meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "573b433b-98e1-4c0a-bd64-a92189c13868",
+    "data": [
+      {
+        "text": "Are you having problems swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3039f624-f876-4a06-b38a-e67bac2d079e",
+    "data": [
+      {
+        "text": "what problems with your swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3abd681f-3aca-4784-8c95-f3e17ab20a2d",
+    "data": [
+      {
+        "text": "tell me about your swallowing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39c34419-a6c3-4a20-af12-084ad40c8f06",
+    "data": [
+      {
+        "text": "What swallowing problems are you having?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bffa7da-99ea-4ecc-b9e8-6b240c186651",
+    "data": [
+      {
+        "text": "Tell me about the swallowing problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d5f56db-b698-48a3-bd5c-30ac60731aa6",
+    "data": [
+      {
+        "text": "when during the meal do you get tired?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9d7c184-47ff-4add-a353-d6fe47314fc6",
+    "data": [
+      {
+        "text": "are you tired all the time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c57d92e-428c-412d-8683-480ee0d68253",
+    "data": [
+      {
+        "text": "what problems have you been having",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e01cf6b4-a0b0-44a4-be67-d95bd8233ac8",
+    "data": [
+      {
+        "text": "What are the exact problems you are having?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e677326d-55a5-43fa-aeb6-9bdae77eff8e",
+    "data": [
+      {
+        "text": "What kinds of swallowing problems do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31b66d97-6b7d-45ff-bb16-07be0cf7456b",
+    "data": [
+      {
+        "text": "does it get harder to eat at the end of meals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bd38259-4498-47a0-af9e-3e17fc641009",
+    "data": [
+      {
+        "text": "do you get fatigued during meals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "711c8399-8037-4963-96bb-d73bc76e6c41",
+    "data": [
+      {
+        "text": "do you get fatigued while you eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6ed1329-5441-4b8d-b98f-6b88e1217219",
+    "data": [
+      {
+        "text": "Is pureed food easy to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34531d9c-f337-4a54-acf6-32ec6c129cc4",
+    "data": [
+      {
+        "text": "What kinds of swallowing problems are you having?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91121ed4-7301-4861-b674-bd7b310f4219",
+    "data": [
+      {
+        "text": "Are you tired at the beginning of the meal or at the end?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "653d1b2e-a9bd-445b-af97-00f9eacec5d3",
+    "data": [
+      {
+        "text": "Do you eat slowly?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af9bbd0a-68b5-4692-a314-a95a1cceacfe",
+    "data": [
+      {
+        "text": "what problems do you have swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b78e4c2-aea3-499b-9a66-82b8fb22c65b",
+    "data": [
+      {
+        "text": "do you feel tired?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8c7333f-1efc-4142-8436-7f7c565e0e32",
+    "data": [
+      {
+        "text": "Do you feed slowly?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf4de448-6e5d-4aa6-be57-b744c9660727",
+    "data": [
+      {
+        "text": "What kind of problems have you been experiencing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7cca68e-5a17-4757-890e-f3282d2dc029",
+    "data": [
+      {
+        "text": "do you show any signs of frustration during feeding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "109a3b61-a556-4d61-92f5-7386624d82a2",
+    "data": [
+      {
+        "text": "what swallowing problems do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76eff250-54d4-4a62-8270-dd4b957d42d0",
+    "data": [
+      {
+        "text": "What do you mean by swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a29a39d-343a-420b-a8fe-af1c8bf68b56",
+    "data": [
+      {
+        "text": "Are you very slow in swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59d5ef84-c615-429e-b522-b30ac4c76754",
+    "data": [
+      {
+        "text": "do you feel fatigued?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9264f79-d1ce-4f9f-a88c-e23ea0857e4b",
+    "data": [
+      {
+        "text": "Are mealtimes stressful?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee9ec41a-2cf5-4b85-85a6-142ef1ae443a",
+    "data": [
+      {
+        "text": "tell me about your feeding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "695a985f-07a6-4501-8b4d-e3261b10dcc3",
+    "data": [
+      {
+        "text": "What kind of problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77db96eb-4690-410e-85c3-6678f18282af",
+    "data": [
+      {
+        "text": "Why is your swallowing bothering you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d487dec4-715b-4a05-947b-bc492e21bb5f",
+    "data": [
+      {
+        "text": "Do you have any concerns with your swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f1a3f47-e87e-47e4-9f49-747d7fe72eeb",
+    "data": [
+      {
+        "text": "Why is swallowing a problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4dd358b7-48d9-4232-99e3-2d356be63ba1",
+    "data": [
+      {
+        "text": "What problems are you having with your swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

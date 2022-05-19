@@ -1,0 +1,249 @@
+[
+  {
+    "id": "29686f70-06c9-484e-bde7-073f392253f0",
+    "data": [
+      {
+        "text": "What changed in your diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ca41745-c3ea-4c44-b689-054f798ede42",
+    "data": [
+      {
+        "text": "What diet are you on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fddc2415-3410-4147-a653-fc3b3287e125",
+    "data": [
+      {
+        "text": "How is your diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f23f608e-132b-4c4e-8343-8bfb99467fdc",
+    "data": [
+      {
+        "text": "What helps you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "410e7602-e255-46ce-9316-9d0dc4334585",
+    "data": [
+      {
+        "text": "What helps you swallow better?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "580b60d8-d612-4bc5-8162-7d45e4c27a4d",
+    "data": [
+      {
+        "text": "Do you do anything to compensate for your swallowing problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f178847-3bf6-4460-8049-ed1c3935b538",
+    "data": [
+      {
+        "text": "What helps to swallow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3a0a115-836a-414f-8634-158b020d7746",
+    "data": [
+      {
+        "text": "What kinds of food do you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c3794e6-c51a-4030-aadb-aef3bf8324be",
+    "data": [
+      {
+        "text": "What is your diet now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4212b6e6-6156-4340-9824-1baa768e2505",
+    "data": [
+      {
+        "text": "What helps your swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5044ace6-483f-49df-b52c-64c038f78fcf",
+    "data": [
+      {
+        "text": "Do you do anything to compensate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79bed4f7-8557-460e-8132-38e1a384f3aa",
+    "data": [
+      {
+        "text": "Do you take a special diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9024cf3f-b104-4fe5-9325-164baf2410b3",
+    "data": [
+      {
+        "text": "What do you eat for breakfast?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02a4a646-bd7a-4b65-8331-16abed831231",
+    "data": [
+      {
+        "text": "tell me about your meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ccbd32c-dd4f-4dee-b5ac-4b13af1711d4",
+    "data": [
+      {
+        "text": "Have you had to modify your diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4833c1b2-f95e-463e-9b14-9f3e88e3be81",
+    "data": [
+      {
+        "text": "Did you modify your diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c22eaae6-cc94-4379-a772-fd2204d1b260",
+    "data": [
+      {
+        "text": "Has your diet changed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d3c7b55-3296-42c5-91c6-318451559125",
+    "data": [
+      {
+        "text": "Have you changed your diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "965ad59e-615c-4cca-b98e-98e2d7ea2cbd",
+    "data": [
+      {
+        "text": "tell me about your diet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

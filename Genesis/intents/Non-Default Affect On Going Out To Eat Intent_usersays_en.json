@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ef9b7710-eb2e-4464-94a1-8995d11b6e1c",
+    "data": [
+      {
+        "text": "Does your swallowing problem prevent you from socializing with your friends?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e64ba5d-edf0-4cb5-87e1-f23f24a49619",
+    "data": [
+      {
+        "text": "How does not eating when going out to eat effect you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f25c405b-72d4-46fc-aa36-b7275c0ee5c0",
+    "data": [
+      {
+        "text": "Do you have trouble at family gatherings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9722080d-4a2f-42fc-b977-e7c3543ae1b0",
+    "data": [
+      {
+        "text": "Why are you embarrassed to go our to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8cf54d3-8606-4bc2-842f-cc599a5a7e88",
+    "data": [
+      {
+        "text": "do you like to go out to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

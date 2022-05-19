@@ -1,0 +1,392 @@
+[
+  {
+    "id": "a7e22dee-6ec6-4639-9eb1-50b1c99aaf23",
+    "data": [
+      {
+        "text": "Do you smoke or drink?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71784579-7926-4bb4-9a79-2aba3721514f",
+    "data": [
+      {
+        "text": "Do you still smoke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57d513f1-7696-4f44-907c-b6ff2589de35",
+    "data": [
+      {
+        "text": "when did you stop smoking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18720c2a-b7e1-499b-ba94-05e7c99cc201",
+    "data": [
+      {
+        "text": "History of smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a935023a-446e-4b73-8cf6-4c6b6193d6b4",
+    "data": [
+      {
+        "text": "How much do you smoke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cd307c9-17e6-4ef4-b60b-8c21ac9e4620",
+    "data": [
+      {
+        "text": "did you smoke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fa8466f-7fe6-4231-80e9-4f85f9cab43a",
+    "data": [
+      {
+        "text": "do you smoke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71ddff97-0971-404a-9c7e-05855180eee0",
+    "data": [
+      {
+        "text": "Are you interested in quitting smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d863d3df-280f-4072-9922-e1aa1c6bb431",
+    "data": [
+      {
+        "text": "do you take tobacco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a7a3fce-30d5-4b1d-bebc-45be533facb3",
+    "data": [
+      {
+        "text": "do you ever use tobacco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99868275-aa84-4438-8bfb-258bdac03714",
+    "data": [
+      {
+        "text": "do you use any tobacco products",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05ec252f-2579-4fa8-816c-c454db2621f5",
+    "data": [
+      {
+        "text": "any tobacco use",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be05b7e8-55e2-415b-b49d-75512697b432",
+    "data": [
+      {
+        "text": "have you ever smoked in the past",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0398cf67-7ad9-47fb-a278-fd8a6300e850",
+    "data": [
+      {
+        "text": "do you smoke anything",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e57ec0a6-72ab-4f8f-ab8a-0304827a2fee",
+    "data": [
+      {
+        "text": "do you use smokeless tobacco?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af5a9129-6e13-43bd-99e2-afe3c702ce2d",
+    "data": [
+      {
+        "text": "do you chew tobacco by any chance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de7629ba-6863-4d06-aee8-9e8728791bcd",
+    "data": [
+      {
+        "text": "what is your experience with tobacco products?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00c37dc4-fced-4ed1-8cd2-344e54cf7982",
+    "data": [
+      {
+        "text": "now do you smoke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e41f737f-eefa-4b3b-a2c6-266e4aa2d0dc",
+    "data": [
+      {
+        "text": "how many pack a day?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04f898f6-2ae2-461a-b135-f1806f646d99",
+    "data": [
+      {
+        "text": "have you ever smoked?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8c12230-20f1-4303-87ba-9ea3c8747f01",
+    "data": [
+      {
+        "text": "do you use cigarettes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1531eebd-0ea3-4def-b30c-ccec60fcd35d",
+    "data": [
+      {
+        "text": "do you smoke tobacco?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afbcffc8-8bb5-4281-99d5-21c9c49c9219",
+    "data": [
+      {
+        "text": "do you smoke cigarettes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1045ea8e-abeb-41c4-9351-6cfe7210497d",
+    "data": [
+      {
+        "text": "do you smoke cigarettes or cigars?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb1319f0-5bd1-4846-83dc-13735aa0403a",
+    "data": [
+      {
+        "text": "do you smoke by any chance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96c6c60b-7290-4053-b401-00a5f378a505",
+    "data": [
+      {
+        "text": "do you smoke at all?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49f9a2c4-9a26-4a3a-8310-3b12c073a15d",
+    "data": [
+      {
+        "text": "do you mind if i ask you if you\u0027ve been smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ff7a5c2-0c40-4a33-ba27-6175bce65de2",
+    "data": [
+      {
+        "text": "are you a smoker?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d66c34d1-1b54-4164-a82f-6418c3f576bb",
+    "data": [
+      {
+        "text": "any smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "114d131e-0d8c-4b92-81c1-94ac1dcf7a26",
+    "data": [
+      {
+        "text": "and you smoke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

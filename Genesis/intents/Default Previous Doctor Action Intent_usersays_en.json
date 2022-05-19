@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c8751631-1ba4-4980-9100-c4dc621eb507",
+    "data": [
+      {
+        "text": "did your doctor explain everything",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51c4f815-d393-450d-99d1-363502c9a96c",
+    "data": [
+      {
+        "text": "did your doctor give you options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bb42458-6d05-4618-9291-2f1e2026f280",
+    "data": [
+      {
+        "text": "the doctor said to see a therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24fae625-c6cc-4a9d-9750-c937803504c9",
+    "data": [
+      {
+        "text": "Your doctor recommeded therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03324ffc-e3ae-4f9a-a8f3-ecaac2a4070f",
+    "data": [
+      {
+        "text": "Your doctor prescribed the therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1ba38e5-8ad6-4073-bb56-09c4124b8bcc",
+    "data": [
+      {
+        "text": "did your doctor prescribe therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

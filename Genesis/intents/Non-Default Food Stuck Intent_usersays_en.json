@@ -1,0 +1,678 @@
+[
+  {
+    "id": "31b74675-ee5f-43f4-8ec4-6e0680b3cfbd",
+    "data": [
+      {
+        "text": "does your food stay down",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "388a6779-dcab-4ce0-86dc-bf69bcdec942",
+    "data": [
+      {
+        "text": "Do you have trouble getting food to your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4b14256-dd09-432c-a7a9-1720d128f92c",
+    "data": [
+      {
+        "text": "Does food ever leak out of your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71451833-4a34-4123-ae7f-4fc79d227dfb",
+    "data": [
+      {
+        "text": "Do you have trouble with saliva or food coming out of your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bce3f1a0-9131-4117-a097-c4edf2db1eca",
+    "data": [
+      {
+        "text": "Then it goes down ok?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9df4206-3aea-476c-8af1-c2e0801a2fda",
+    "data": [
+      {
+        "text": "does food fall out of your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96e1a60d-d821-48be-8f3e-5ee33c9fa0dc",
+    "data": [
+      {
+        "text": "How does your mouth feel during swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49f377c4-1c20-4fd0-b563-0848440bb278",
+    "data": [
+      {
+        "text": "do you have trouble eating the pureed food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8372471-84d5-4c3e-a991-af40305b8568",
+    "data": [
+      {
+        "text": "Does the food stick as it goes down?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e118e7cd-9a22-44f0-94d6-8102565f1aed",
+    "data": [
+      {
+        "text": "does all your food stay in your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efecc90a-2eb8-43ba-9c0a-45aa4448730f",
+    "data": [
+      {
+        "text": "does food stick anywhere when you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a3f45fb-e8f9-4269-bac8-af4b4c6a2217",
+    "data": [
+      {
+        "text": "do you notice that there is food in your mouth after you have swallowed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15464ac5-3705-44b2-be2a-a6692f899d6b",
+    "data": [
+      {
+        "text": "how much food stays in your mouth after you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8edae000-2504-4527-ba17-30c2f805fade",
+    "data": [
+      {
+        "text": "Does food spill out of your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fd292d7-2a13-4e1a-9df6-0e2ccbfffe22",
+    "data": [
+      {
+        "text": "Does food pocket to one side of your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bef76703-b174-471f-b926-38ffa6ed3aab",
+    "data": [
+      {
+        "text": "Do you have trouble moving the food in your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41664851-c50a-45b3-815a-55427ca1a7cd",
+    "data": [
+      {
+        "text": "do you have trouble with food clearance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90bb0e08-2528-491a-873f-1e305f677a7e",
+    "data": [
+      {
+        "text": "Is it hard to chew and swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12cfb850-8362-4289-9239-b3de3c5dbda5",
+    "data": [
+      {
+        "text": "Are things sticking in your mouth or throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "914729e6-422e-4a12-bebe-7e9abbd65993",
+    "data": [
+      {
+        "text": "Are you having trouble with food going down?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98cc7f80-2464-4517-9c4e-328aca2d0eac",
+    "data": [
+      {
+        "text": "Is the food you eat sticking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e6c8601-8637-4dff-8fda-3aa0a518f5d2",
+    "data": [
+      {
+        "text": "Does your food stick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e22a9c9-f87d-4f00-89c3-85d3bfd07de7",
+    "data": [
+      {
+        "text": "Are you experience sticking with the food you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80ae3828-7612-4567-9dc1-131a21951d46",
+    "data": [
+      {
+        "text": "Is food sticking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e940320-a9ef-4ff9-84a0-73c2d8739d83",
+    "data": [
+      {
+        "text": "What does it feel like when you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df4d4863-75dc-4a5d-9be2-0e8ff93b5c07",
+    "data": [
+      {
+        "text": "Do you feel like you are breathing in the food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00928ebe-e320-48cd-a816-9e4e90fbd444",
+    "data": [
+      {
+        "text": "Do you feel like you have something stuck in your throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed6c727d-bdda-4ed4-af5a-c0d1545021b2",
+    "data": [
+      {
+        "text": "Does food ever go into the airway?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec616257-5a6d-4acc-9b46-2f53d8816be7",
+    "data": [
+      {
+        "text": "Do you have any tightness in your throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ae77dfb-b2c9-4e00-9d54-beb31a19a467",
+    "data": [
+      {
+        "text": "Does anything go down when you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec342c58-26f1-4301-8d4a-862ee8c068ca",
+    "data": [
+      {
+        "text": "Does it feel like your food is sticking in your throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23a0c09d-e210-475f-845e-dee7d198835d",
+    "data": [
+      {
+        "text": "Do you feel like food sticks in your throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5eddacde-b077-4b39-9e88-71a2ef528072",
+    "data": [
+      {
+        "text": "Do you ever feel like you have food sticking in your throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "803c4655-d7cb-47f5-8a1f-5edd27154aab",
+    "data": [
+      {
+        "text": "where is the discomfort when you swallow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf4b0e33-beb0-4366-8300-9b6db5582ba7",
+    "data": [
+      {
+        "text": "Do you feel like the food is getting stuck in your throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8f65f32-7eb5-485d-861e-9512514f5654",
+    "data": [
+      {
+        "text": "Does food stick in your throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a18cb5e-e72e-4d28-bea0-d83413102629",
+    "data": [
+      {
+        "text": "do you feel like food goes down the wrong pipe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fa6b299-f1d1-4a9a-a13a-9e6364985e4d",
+    "data": [
+      {
+        "text": "How does it feel to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33bfbeb8-fe2d-40b2-89be-93d01d2c1b9b",
+    "data": [
+      {
+        "text": "Does it feel like something is sticking in your throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "794cbad8-5346-4917-9c4d-16387bebbb91",
+    "data": [
+      {
+        "text": "Does it feel like it gets stuck in your throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae103db2-1554-4890-be35-1c97207c4ad2",
+    "data": [
+      {
+        "text": "Do you feel that food gets stuck in your throat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f07629ef-e7a2-49db-8d69-90ea0bcea5c9",
+    "data": [
+      {
+        "text": "do you have trouble getting food to the back of your throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ce6bf9f-9239-426b-86ee-d8bd8d5a6b9d",
+    "data": [
+      {
+        "text": "do you feel food sticking in your throat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "570efe01-4dd1-4e4f-b9f1-47f3f8d92eeb",
+    "data": [
+      {
+        "text": "Does it feel like food is getting stuck in your throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5d72879-2b1c-43d4-a3ac-19b56a080d71",
+    "data": [
+      {
+        "text": "What does it feel like?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62cf6e5c-1a1c-4049-a979-915961be6554",
+    "data": [
+      {
+        "text": "How does it feel when you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bef54335-5e4d-4bd9-9c92-26d41fa2a62f",
+    "data": [
+      {
+        "text": "Do you feel that food gets stuck?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbe02d33-b11a-4032-b686-88cbc6001b9b",
+    "data": [
+      {
+        "text": "How do you feel when you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "320a2848-dbfe-45c9-91ba-c6f6c76b3b24",
+    "data": [
+      {
+        "text": "Where does it feel like food gets stuck?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa1e6f60-a41b-43a2-b07c-02cf2f3b1579",
+    "data": [
+      {
+        "text": "Does it feel like food gets stuck in your throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06b4d104-d34e-4653-be6f-a67fa5aaeb99",
+    "data": [
+      {
+        "text": "Does food get stuck anywhere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bbfc4aa-a815-4401-80ed-c63e64df4e78",
+    "data": [
+      {
+        "text": "where does the food get stuck?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

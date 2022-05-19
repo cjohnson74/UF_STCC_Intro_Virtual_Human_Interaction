@@ -1,0 +1,37 @@
+{
+  "id": "72d205da-376e-40f2-a1c5-9247336da92e",
+  "name": "Non-Default Food Stuck Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I feel like food going down the wrong tube.",
+            "You know, I\u0027m not really sure if the food sticks anymore. I changed my diet completely when these problems started.",
+            "Sometimes food gets stuck in my right cheek. I poke at it with my finger to get it out."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

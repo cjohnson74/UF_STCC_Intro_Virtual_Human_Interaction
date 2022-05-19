@@ -1,0 +1,119 @@
+[
+  {
+    "id": "bae85ed3-60c7-4ac2-817c-48dcff29b9ed",
+    "data": [
+      {
+        "text": "Do any other liquids cause you to cough?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07994737-ac05-4c2b-8515-ebfa793429e0",
+    "data": [
+      {
+        "text": "Do you have any problems with liquid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4214a7f-4993-4e71-a393-1c92d673a5d9",
+    "data": [
+      {
+        "text": "Do you cough when you drink also?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50cb4a15-acf1-4aed-9ad2-a278d733c525",
+    "data": [
+      {
+        "text": "What foods make you cough?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9aacbbe-e988-445b-9b9a-5e11ccf3caf6",
+    "data": [
+      {
+        "text": "any coughing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a6f0dc7-9533-4c8b-9d4f-7bba70edec96",
+    "data": [
+      {
+        "text": "do you choke when you drink?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59fc33d8-a16e-4b99-bd5a-49780f2ac594",
+    "data": [
+      {
+        "text": "what kinds of food make you cough?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5eb8774e-6e08-47cd-ad9a-88a0ec1b67c5",
+    "data": [
+      {
+        "text": "You cough after drinking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "159b98f4-19fa-46f3-8f61-a21f66f8e496",
+    "data": [
+      {
+        "text": "tell me about your coughing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

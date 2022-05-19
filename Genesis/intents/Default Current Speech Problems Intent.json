@@ -1,0 +1,36 @@
+{
+  "id": "f865ecba-73f9-46b2-8cc3-f5f11856ec8c",
+  "name": "Default Current Speech Problems Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Originally, I couldn\u0027t talk so much. My mouth was too weak.",
+            "Some trouble, but I\u0027m not really worried about my speech. It\u0027s better than it was. My worry is only about my food."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

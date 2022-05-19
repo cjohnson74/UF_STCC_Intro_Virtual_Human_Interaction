@@ -1,0 +1,37 @@
+{
+  "id": "53349e0b-49d9-40a6-86ba-ec79adc73cbf",
+  "name": "Default Excercise Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I try to. I used to play racquetball and tennis.  Now I\u0027m a little weak. I get tired pretty soon just walking around so I\u0027m not as active as before.",
+            "I don\u0027t exercise as much as I used to. I get tired pretty soon.",
+            "I used to play raquetball and play golf, but it\u0027s harder now."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

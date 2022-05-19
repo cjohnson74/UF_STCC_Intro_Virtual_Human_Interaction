@@ -1,0 +1,28 @@
+[
+  {
+    "id": "138dbfbd-4e32-4191-8c42-e9fb06c21b08",
+    "data": [
+      {
+        "text": "Can you cough?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17faa3dd-a512-44d9-af6e-811ff3abbc95",
+    "data": [
+      {
+        "text": "Can you cough for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

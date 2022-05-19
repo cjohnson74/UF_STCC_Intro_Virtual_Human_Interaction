@@ -1,0 +1,93 @@
+[
+  {
+    "id": "aa1c69e9-31e2-452a-825a-2dd6d80eff55",
+    "data": [
+      {
+        "text": "When did you quit seeing her?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e776b3b8-9162-49f6-bedc-5f413dcd8dac",
+    "data": [
+      {
+        "text": "When did you stop seeing the speech therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f5947e1-a5ea-4d06-b02a-86c01c91822b",
+    "data": [
+      {
+        "text": "how long did you go to therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34d83202-f7d9-4fa5-9e6b-270c7bb286d1",
+    "data": [
+      {
+        "text": "how long were you in therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcdcc761-599d-4b17-b8f3-dee4db555e4f",
+    "data": [
+      {
+        "text": "when did you stop seeing your speech therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f57b37ca-8088-4a9f-ae8c-1896efaeb885",
+    "data": [
+      {
+        "text": "how long has it been since speech therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c64b303-662d-4f59-8ec0-3b38cd59fbf2",
+    "data": [
+      {
+        "text": "how long were you in speech therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

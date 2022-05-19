@@ -1,0 +1,35 @@
+{
+  "id": "1182402c-7729-4d4b-b087-2cea60555e20",
+  "name": "Non-Default Speech Excercise Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "She gave me strengthening and breathing exercises, but I don\u0027t really do them anymore. She had me say /a/ for as long as I could; I had to do this five times a day, five days a week. She was like a slave driver!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c17ca3df-4c8d-4781-a296-8f7639a57c4b",
+    "data": [
+      {
+        "text": "What kind of diet were you on in the hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14dfcdcc-cbc5-42fb-8c88-362d9d0e9f04",
+    "data": [
+      {
+        "text": "what did you eat in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d80cb2ea-58ac-4946-aa68-ab4199012769",
+    "data": [
+      {
+        "text": "What type of foods did you eat in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

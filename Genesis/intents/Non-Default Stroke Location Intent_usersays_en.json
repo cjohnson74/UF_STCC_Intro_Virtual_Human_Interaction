@@ -1,0 +1,219 @@
+[
+  {
+    "id": "c51dfe66-f494-4bdd-a215-14fc4ee4674c",
+    "data": [
+      {
+        "text": "Which side of your brain was the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d75acf4a-ca63-48c7-9415-9889641fd779",
+    "data": [
+      {
+        "text": "Where in the brainstem was the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81f5304e-1e21-4fdb-84cb-edb4b703ea83",
+    "data": [
+      {
+        "text": "Where was the TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8332c16-b827-4241-adc1-058d4199200e",
+    "data": [
+      {
+        "text": "where did the TIA affect your brain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b265b37-911d-481e-a912-8439bac50ed2",
+    "data": [
+      {
+        "text": "where did your TIA occur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6c9282c-adef-445d-8f49-3341004575f8",
+    "data": [
+      {
+        "text": "where was your TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1344209e-b74d-4dd4-98c4-41507743da74",
+    "data": [
+      {
+        "text": "where in your brainstem was the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b365f16-457c-4b9e-a5ea-07fa6468dab4",
+    "data": [
+      {
+        "text": "in the stroke ",
+        "userDefined": false
+      },
+      {
+        "text": "3 years ago",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", where did the stroke occur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6203fc00-3c81-467d-aca6-d4fa446f3921",
+    "data": [
+      {
+        "text": "Where was your stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75dc0b8a-812e-4761-b4bd-e7823f83bfac",
+    "data": [
+      {
+        "text": "where did your strokes occur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbee8197-df00-44a0-bd31-b56a75a87a2d",
+    "data": [
+      {
+        "text": "where were your strokes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d0d96cd-19a2-4e95-abb9-cfb6a9dfd03c",
+    "data": [
+      {
+        "text": "Where was the stroke located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d75cfde4-d8b8-4e88-83e6-be089f4171d6",
+    "data": [
+      {
+        "text": "Do you know where the surgery was located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75d85e0c-4348-4ebc-9538-81f2330e0838",
+    "data": [
+      {
+        "text": "Where was your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c64741b9-ffd0-493f-adec-699462d7142b",
+    "data": [
+      {
+        "text": "Where was your stoke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8834de3a-268d-427c-a070-7f60f7f2ac1b",
+    "data": [
+      {
+        "text": "Where was your brainstem stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "71e1c1e1-c22f-4ac9-8fb8-abab260abadb",
+    "data": [
+      {
+        "text": "Have you notice any problems with bad breath?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4102d54-40a2-4aa7-8621-e00ec58717f4",
+    "data": [
+      {
+        "text": "Have you been experiencing bad breath?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0098550c-d3ba-4302-a6c7-6b1af9d2223a",
+    "data": [
+      {
+        "text": "Do you have bad breath?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3889bca7-ee45-4b98-aafc-6dd9f76c003d",
+    "data": [
+      {
+        "text": "Does your breath smell strange?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca2f97a5-dfdc-4ae1-88ba-d51fa9333a6d",
+    "data": [
+      {
+        "text": "any bad breath issues?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7970a950-c632-44a9-b709-139729e3de0d",
+    "data": [
+      {
+        "text": "Does your breath smell?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4a80ca4-ed1e-4aca-81ac-bfe0a31f2ad4",
+    "data": [
+      {
+        "text": "Is bad breath a problem you currently deal with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a6a49c5-656e-4fa1-93e5-7b989e581a3e",
+    "data": [
+      {
+        "text": "Have you ever had problems with bad breath?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7a10dfb-0ce6-49fb-adfe-912cc3e61eba",
+    "data": [
+      {
+        "text": "Do you have problems with your breath?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbd74fda-2715-4b70-b622-2838c432859f",
+    "data": [
+      {
+        "text": "Is your breath ever smelly?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2720ac4c-2a50-407c-84e8-dc240666649a",
+    "data": [
+      {
+        "text": "Do you ever have bad breath?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

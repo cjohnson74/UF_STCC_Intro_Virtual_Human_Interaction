@@ -1,0 +1,145 @@
+[
+  {
+    "id": "22776aa4-b0e8-4206-915d-5d1783562f9f",
+    "data": [
+      {
+        "text": "How do you feel after your medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "960686dd-fada-4456-967b-e0ed1c1b0190",
+    "data": [
+      {
+        "text": "has your medication improved your swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a638a22-ab7e-484e-9721-febe57098889",
+    "data": [
+      {
+        "text": "Does the hydrodiuril help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b25b3d4d-73f5-47f0-8961-b7430d88a431",
+    "data": [
+      {
+        "text": "Do you have problems taking your medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35523c7d-470f-4bd9-bcd0-726ca573d99f",
+    "data": [
+      {
+        "text": "Are the medications helping?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "144e2811-1a74-4f55-a29f-bb03d679e064",
+    "data": [
+      {
+        "text": "Do your symptoms improve with medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e9625e7-fb7d-4213-9157-ca2a6be4012e",
+    "data": [
+      {
+        "text": "Do medications help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "caedd645-a3a8-4744-97b3-b72c01acdf5c",
+    "data": [
+      {
+        "text": "Are you symptoms improving?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4dbf068-3cd9-4ed4-8041-a4f9f9bff46e",
+    "data": [
+      {
+        "text": "Does the medication help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98bca512-208c-4b23-acbc-7965e0144d76",
+    "data": [
+      {
+        "text": "do your medicines help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ace79ae-e1fb-423f-bfb2-02ba11f7e152",
+    "data": [
+      {
+        "text": "Does the medicine help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "0fdd5f95-9344-4aba-b872-9e416c0f1242",
+    "data": [
+      {
+        "text": "Are you able to digest food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61aa0639-6193-42e0-a5ce-87c9c9331390",
+    "data": [
+      {
+        "text": "Are you eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51b3ddf2-5810-40dd-af1a-e7e692bd06dd",
+    "data": [
+      {
+        "text": "Do you eat regularly?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5949cd48-e436-4d65-b0c0-20bded6ebe66",
+    "data": [
+      {
+        "text": "Are you eating at all?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adadb481-02ef-418a-bd59-10b00cbb8f6c",
+    "data": [
+      {
+        "text": "Are you still not eating at all?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

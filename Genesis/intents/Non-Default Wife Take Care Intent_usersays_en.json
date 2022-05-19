@@ -1,0 +1,54 @@
+[
+  {
+    "id": "aefd7e5f-b147-4407-ac3b-6eb21474332b",
+    "data": [
+      {
+        "text": "Do you need assistance from your wife?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9a092d1-666d-4e2e-8bca-735377d61034",
+    "data": [
+      {
+        "text": "Your wife is really taking care of you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d849eb10-00cc-4262-9e42-50a45f96af21",
+    "data": [
+      {
+        "text": "How long has your wife been taking care of you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08177732-771d-439c-9540-7e950af350c2",
+    "data": [
+      {
+        "text": "does your wife take care of you at home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

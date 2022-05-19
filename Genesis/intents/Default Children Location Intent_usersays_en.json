@@ -1,0 +1,80 @@
+[
+  {
+    "id": "7913057b-daf9-4a6c-88f8-ca63d4396cfa",
+    "data": [
+      {
+        "text": "Do your children live close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "805a6935-ceba-4126-924a-22b51855be1d",
+    "data": [
+      {
+        "text": "Do your children live near you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d68313ff-babb-46c4-8e51-69a3314cb315",
+    "data": [
+      {
+        "text": "And, your children live locally?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e09ac19-c022-4d30-98cb-749eea4f167b",
+    "data": [
+      {
+        "text": "are your children close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94b88728-52de-4271-a57e-d7b013e7afa4",
+    "data": [
+      {
+        "text": "Your children are living here?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f9ba764-4f8c-4272-8071-9b68f3448aed",
+    "data": [
+      {
+        "text": "Are you children local?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,431 @@
+[
+  {
+    "id": "1e7bd77e-7b95-460b-b4cc-794114bc4bc6",
+    "data": [
+      {
+        "text": "What liquids are you drinking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86a61270-6c72-4356-8270-542f54cf3902",
+    "data": [
+      {
+        "text": "Do you drink thick liquid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91241468-fe1f-4053-adb4-5c6ff07de6c2",
+    "data": [
+      {
+        "text": "Do you drink thickened liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46227836-edbe-4c40-8db5-febb83e01474",
+    "data": [
+      {
+        "text": "what kind of food are you eating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46716443-3d62-457d-a232-e6c430edf59c",
+    "data": [
+      {
+        "text": "what foods do you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e74d57b-b9c3-42fe-aed4-7eeb598e7d6b",
+    "data": [
+      {
+        "text": "How have you changed your diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "548701c7-d67b-412e-bf59-c0159d2e2761",
+    "data": [
+      {
+        "text": "How have you changed your diet/",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5c55c14-bcf4-495f-b8a8-6832ebd650d4",
+    "data": [
+      {
+        "text": "Tell me about your diet modifications.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e725f9d-66ff-4035-849c-239d5236e8c1",
+    "data": [
+      {
+        "text": "What does your diet consist of now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5232a425-3386-40d3-9c00-96e4dda039d7",
+    "data": [
+      {
+        "text": "what changes have you made to your diet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8350d3d4-4fee-4c48-90c9-347aabf8d0d8",
+    "data": [
+      {
+        "text": "are you currently drinking thickened liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "501f5cc3-ca1b-46a4-8873-4fbc54cd1eaa",
+    "data": [
+      {
+        "text": "what type of diet are you currently on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eeb1db16-69e0-4887-88b9-07ce805eb8a0",
+    "data": [
+      {
+        "text": "How is your diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9c1a346-139b-4613-b878-201b11c4c909",
+    "data": [
+      {
+        "text": "Do you get proper nutrition?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "425f5d29-d6fd-47cb-a86a-085d0bd1cb8b",
+    "data": [
+      {
+        "text": "How do you eat now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cadc467f-0743-4e44-88a3-8ff181741e3f",
+    "data": [
+      {
+        "text": "tell me about ensure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7e1e900-1311-4beb-b5fe-33948998daf4",
+    "data": [
+      {
+        "text": "Have you had to thicken your liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6cdf89b-a918-4864-b637-afe1d0b5284b",
+    "data": [
+      {
+        "text": "Can you drink?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7a477b4-17ef-4f25-9bc5-c77d667c7753",
+    "data": [
+      {
+        "text": "what type of food are you eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26c9fdd1-de12-4824-a351-9d349f98d11e",
+    "data": [
+      {
+        "text": "What do you drink for nutrition?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4a94433-b504-4411-a24d-2c3da7a5a7f2",
+    "data": [
+      {
+        "text": "Have you made lifestyle changes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77861e8d-7477-4252-aa21-2438cd817215",
+    "data": [
+      {
+        "text": "Do you cut up your food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66ea6193-ee58-4ec0-a695-c5d8becf81ae",
+    "data": [
+      {
+        "text": "What do you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ee4519c-1ec0-40c4-bec4-7a7d36746c47",
+    "data": [
+      {
+        "text": "What do you eat now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90c3f229-b977-459c-80b8-29523a7998e0",
+    "data": [
+      {
+        "text": "any particular diet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2103a8a3-11cf-44b8-a04f-601593f94680",
+    "data": [
+      {
+        "text": "What food do you eat now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "968f0b3d-7051-4868-b1c7-636730cb2555",
+    "data": [
+      {
+        "text": "What is your diet like?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e906701-523b-4331-9911-c110365a1336",
+    "data": [
+      {
+        "text": "How have you adjusted your diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02cddbe1-f3ee-424e-927b-6fd7810110f0",
+    "data": [
+      {
+        "text": "What type of food do you eat now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14300860-4e82-4329-bf2a-c8aeca793c3f",
+    "data": [
+      {
+        "text": "how have you modified your diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fddad36-7f84-49c9-a11f-854b5509b252",
+    "data": [
+      {
+        "text": "What does your typical meal consist of?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16c13b67-b5cc-4922-9dc9-812ea0b1e6e0",
+    "data": [
+      {
+        "text": "What kind of beverage do you drink?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "088f82c0-673a-4849-941b-e72cdbcf0307",
+    "data": [
+      {
+        "text": "What do you drink for your meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

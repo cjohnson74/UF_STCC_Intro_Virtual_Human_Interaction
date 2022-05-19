@@ -1,0 +1,80 @@
+[
+  {
+    "id": "89b78707-2598-423d-9218-9fafe2a81365",
+    "data": [
+      {
+        "text": "Is something blocking your airway?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94cc8772-fac1-4c24-a42d-826660e417a7",
+    "data": [
+      {
+        "text": "Have you noticed any blockage in your airway?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b69fe724-5654-4a9c-bf86-83c466724ed8",
+    "data": [
+      {
+        "text": "Have you experienced blockage in your airway?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbf7d710-3524-4887-ac45-62e30ca52108",
+    "data": [
+      {
+        "text": "Do you feel that your airway is blocked?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6527f4a8-08bd-498e-83fc-a469eeef3e21",
+    "data": [
+      {
+        "text": "Do you feel any throat blockage?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57b00c26-645a-462e-abbf-fa93e5180636",
+    "data": [
+      {
+        "text": "Is your airway blocked?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

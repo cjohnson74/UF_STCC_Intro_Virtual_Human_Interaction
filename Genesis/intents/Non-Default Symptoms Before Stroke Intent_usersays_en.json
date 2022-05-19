@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ac7808f8-3a93-43f9-b64e-7c957ee7fc47",
+    "data": [
+      {
+        "text": "How long did you have stroke symptoms before going to the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "685bee86-ec29-4738-9bbf-9a67997c973f",
+    "data": [
+      {
+        "text": "how long did you have symptoms before you went to the emergency room?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ef5028f-f1fd-46d8-a2ba-d0c2bee42faa",
+    "data": [
+      {
+        "text": "Were there any symptoms before the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c34e228-2d99-4a1c-90b5-aef43f539454",
+    "data": [
+      {
+        "text": "how long did you had the stroke symptoms before going to the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "a07baf7c-875a-492b-995a-5faf8bc3fd72",
+    "data": [
+      {
+        "text": "Have you been to the doctor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9546d840-668e-48c1-91eb-ad342b739ba2",
+    "data": [
+      {
+        "text": "Did your doctor say anything?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "677609af-62fd-4474-82c9-b09b43fb5fe6",
+    "data": [
+      {
+        "text": "have you been to your physician",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c90393e-c334-4aa2-aaa7-d3a8675364c2",
+    "data": [
+      {
+        "text": "have you had a check up with your doctor recently",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b273bffc-ca64-41dd-afc1-b30357ffa068",
+    "data": [
+      {
+        "text": "have you seen your doctor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

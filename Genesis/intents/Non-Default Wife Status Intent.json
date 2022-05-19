@@ -1,0 +1,36 @@
+{
+  "id": "583bcafc-fa3f-4c52-a333-97cc68f0b5b8",
+  "name": "Non-Default Wife Status Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "My wife is great. Sometimes she\u0027ll get frustrated, but she still helps me.",
+            "She gets frustrated when she has to plan her meals around me. It\u0027s hard making dinner as it is. Now she has to blend mine."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

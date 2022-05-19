@@ -1,0 +1,119 @@
+[
+  {
+    "id": "370e99a0-a70d-454a-8c3a-14bdd9535101",
+    "data": [
+      {
+        "text": "Have you had any problems with your speech?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4742fb8-edb8-43cd-8e8f-1d3ac2c07468",
+    "data": [
+      {
+        "text": "DO you have any problems with speech?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11b9f566-2336-49e2-a060-82b3b944c0e7",
+    "data": [
+      {
+        "text": "Are you having problems with speech as well as swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4356cf7-59af-44d7-bec7-a896b4aff317",
+    "data": [
+      {
+        "text": "do you have any speech problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f63cac1-50cb-42c5-92d0-8c70ace58f38",
+    "data": [
+      {
+        "text": "Do you have any issues with speech?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fe7efab-a236-4c16-84f4-da8b1e1c655e",
+    "data": [
+      {
+        "text": "Do you have any problems talking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef30a996-9f7b-4a9a-91ae-1db62da7c92d",
+    "data": [
+      {
+        "text": "Do you have any speech problems now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1f7896f-e297-41d2-a6d2-98b5359918d8",
+    "data": [
+      {
+        "text": "do you have any speech difficulties?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0a92dd4-bd3c-47e6-91ad-fd90aeee6e33",
+    "data": [
+      {
+        "text": "Did you have any problems with your speech?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

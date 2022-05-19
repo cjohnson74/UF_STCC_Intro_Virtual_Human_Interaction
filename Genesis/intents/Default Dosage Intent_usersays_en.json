@@ -1,0 +1,67 @@
+[
+  {
+    "id": "c0c51330-4699-4f96-a2e6-3aa0cc058faa",
+    "data": [
+      {
+        "text": "How much medication do you take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f60dc426-6ff2-4106-a6a2-03c4a677c79b",
+    "data": [
+      {
+        "text": "What is your medication dosage?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cc34ce3-ff05-4bd8-bb37-79e6cc80daf4",
+    "data": [
+      {
+        "text": "How much medicine do you take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80bd82eb-13b0-4859-b019-3605fef64af7",
+    "data": [
+      {
+        "text": "what\u0027s your dosage?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "547083b8-fc3e-43e0-a589-3c3d35c2d8bf",
+    "data": [
+      {
+        "text": "How often and how much do you take ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

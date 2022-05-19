@@ -1,0 +1,28 @@
+[
+  {
+    "id": "cb24c810-a657-437b-a1c2-93642e0f24d0",
+    "data": [
+      {
+        "text": "Do you sound hoarse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9228280b-6eec-44e3-8360-dd26ef8273e1",
+    "data": [
+      {
+        "text": "Are you hoarse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

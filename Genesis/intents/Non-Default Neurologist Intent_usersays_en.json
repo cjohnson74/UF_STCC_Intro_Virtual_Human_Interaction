@@ -1,0 +1,119 @@
+[
+  {
+    "id": "36f96416-7592-42a3-9c4a-341e8cc6370c",
+    "data": [
+      {
+        "text": "Do you know your treatment history for your aphasia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3c28df4-66c9-431a-9874-922019de21e5",
+    "data": [
+      {
+        "text": "Been treated for the aphasia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a414ff8-9336-41ed-8de1-a4ec10b8946d",
+    "data": [
+      {
+        "text": "Have you seen an aphasia specialist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "405d2625-40a8-4c36-88d1-94e51daf6156",
+    "data": [
+      {
+        "text": "Do you have a specialist for your aphasia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "441dbfa0-270a-41ad-b7df-9dfaa285b740",
+    "data": [
+      {
+        "text": "Have you been to the doctor about your condition?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd9b2457-8257-490b-aa90-c041af35c3df",
+    "data": [
+      {
+        "text": "Have you consulted a neurologist or anyone else?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13bfacdc-13ec-4471-82f9-9574fb0804ae",
+    "data": [
+      {
+        "text": "Have you been to any specialists about these difficulties?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53efdd44-7c51-4342-a3de-e88dfca6b54a",
+    "data": [
+      {
+        "text": "Have you seen anyone about speech problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc82be83-736e-49a0-90e6-23d187c2ccd4",
+    "data": [
+      {
+        "text": "Have you seen anyone about your aphasia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

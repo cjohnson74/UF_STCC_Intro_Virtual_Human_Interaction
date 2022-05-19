@@ -1,0 +1,80 @@
+[
+  {
+    "id": "83ecd4dd-b084-4595-8a43-9d47468069ca",
+    "data": [
+      {
+        "text": "Do you have a swallow delay?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfd302ba-8cd7-4556-a7cf-2d95957778ee",
+    "data": [
+      {
+        "text": "Do you have problems starting a swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcca55bd-fda6-41a1-ba64-0383e16932a8",
+    "data": [
+      {
+        "text": "Is your swallowing effortful?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50d0c273-334b-46cf-99f6-d7f662769cf4",
+    "data": [
+      {
+        "text": "Is meal time difficult for you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "851e8e10-c87b-49af-9b27-ac3f0e76bb34",
+    "data": [
+      {
+        "text": "Is swallowing effortful for you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dd85665-c976-47ff-af85-34f69c5e5c54",
+    "data": [
+      {
+        "text": "Do you use a lot of effort when you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

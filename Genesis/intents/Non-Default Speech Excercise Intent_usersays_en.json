@@ -1,0 +1,522 @@
+[
+  {
+    "id": "dbf4280a-04bf-4083-b903-c351d9023232",
+    "data": [
+      {
+        "text": "Did the speech pathologist help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2bd73cb-81e7-4ed6-adde-551721b33754",
+    "data": [
+      {
+        "text": "What exercises did she have you doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdaa1326-15e2-432f-bb97-cbb3d15c0af7",
+    "data": [
+      {
+        "text": "What kind of exercises did she give you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95928a09-e333-4858-ac4f-4f40dd604293",
+    "data": [
+      {
+        "text": "What were you doing when you had speech therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11c878ab-4478-43c7-9065-7bb4c7f67a36",
+    "data": [
+      {
+        "text": "What did you do to make your swallow better?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e928bb59-5f0b-40b4-9461-fe120f33e9b5",
+    "data": [
+      {
+        "text": "What did they teach you in swallow therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53646409-c838-4243-a27a-342cf5dffe3f",
+    "data": [
+      {
+        "text": "What exercises have you done in therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a06636b1-136b-4f47-b5bf-4997c169a36f",
+    "data": [
+      {
+        "text": "What did you do in those sessions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc7e3915-8926-470d-bd8b-6778d2472957",
+    "data": [
+      {
+        "text": "Did OT give you feeding therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fd3c787-275a-48f6-9d9c-16b21df471cb",
+    "data": [
+      {
+        "text": "What did your work on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dce829a3-fc7c-4b74-9783-3c14b0ce8f76",
+    "data": [
+      {
+        "text": "What did you do with the speech therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1f9d9d7-2ac1-467c-849f-fb4cef550351",
+    "data": [
+      {
+        "text": "why did you see another speech pathologist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7c1bba1-ceba-4c2f-9b32-2ad727ebcf53",
+    "data": [
+      {
+        "text": "What kinds of swallowing exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a82e001-9f78-498a-8629-85018704382d",
+    "data": [
+      {
+        "text": "What did the speech pathologist say?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26a0d336-3239-4105-afe0-8633dbfb2af4",
+    "data": [
+      {
+        "text": "What kinds of exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e301c9bd-6471-45db-b575-059693ed3453",
+    "data": [
+      {
+        "text": "what did you do with the speech pathologist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3839984-ef56-48d3-b00b-e5de3935babe",
+    "data": [
+      {
+        "text": "swallowing exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6b387a3-4aca-4ad5-87b9-a2b5ba6e42ba",
+    "data": [
+      {
+        "text": "What did you do with the speech-language pathologist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2d6f479-0270-4d10-8a27-74a99cb6c55d",
+    "data": [
+      {
+        "text": "What exercises were you doing in the past?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5cd1870-8c1d-4029-9b04-afca3a85262d",
+    "data": [
+      {
+        "text": "What did the speech pathologist tell you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "495ee82a-de55-4c67-9527-7ca8813e55f6",
+    "data": [
+      {
+        "text": "What kind of exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d23eafe1-a2e6-4bbb-9508-e032fa0e7ecf",
+    "data": [
+      {
+        "text": "What therapy did you do with the SLP?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9be0e9f1-ec44-4370-a363-966ec676d4d7",
+    "data": [
+      {
+        "text": "What kind of strengthening exercises did you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbe6808f-e47c-4049-b5e1-a9a63b3fae1c",
+    "data": [
+      {
+        "text": "What kind of exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c66e5f33-e05a-4984-a061-0487b35f68c8",
+    "data": [
+      {
+        "text": "What exercises did you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3910bfb-902d-4cf6-bb62-c8c0d1dff2e4",
+    "data": [
+      {
+        "text": "what types of exercises were you doing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13d5f67d-2ab4-48f8-93c7-058f5fdc329d",
+    "data": [
+      {
+        "text": "what exercises were you doing for swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "906ed5b4-60f4-4cc7-ace6-e0c5ebf64ef8",
+    "data": [
+      {
+        "text": "How was rehab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79e43da0-08bb-4be2-a403-a847b7db667e",
+    "data": [
+      {
+        "text": "What kind of exercises did she have you do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea990ca9-2a1d-4460-b2d3-54ccdfc8f79e",
+    "data": [
+      {
+        "text": "what happened in rehab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "983cfb96-6ab3-4017-9417-248c2e935c46",
+    "data": [
+      {
+        "text": "What did you therapist recommend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6a8a9a7-4d4e-43d8-85be-ed6ab2d52e50",
+    "data": [
+      {
+        "text": "what were the exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3748f8a3-b468-4e25-9758-7cd3926ba152",
+    "data": [
+      {
+        "text": "what kind of exercise did she have you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12480ed8-35ab-4cb2-92cd-064673b01071",
+    "data": [
+      {
+        "text": "What exercises were you doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68f9a357-e5b1-4178-a721-e27ee55bbbd6",
+    "data": [
+      {
+        "text": "What type of exercises were you doing in speech therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a2a9c91-68e8-4bdc-b37b-a896b43ee872",
+    "data": [
+      {
+        "text": "What did you do in therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a5a6365-a8f7-419b-9fbf-80aa9b0447d2",
+    "data": [
+      {
+        "text": "Did your speech pathologist give you work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80bba778-fa77-47ea-94b2-b559be82190b",
+    "data": [
+      {
+        "text": "What activities did your speech pathologist ask you to do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3892bb4-41b1-4b15-88f3-b5599e2421d2",
+    "data": [
+      {
+        "text": "What did you do with your speech pathologist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40ec91a7-0c44-4ba3-bef3-ed4385a73529",
+    "data": [
+      {
+        "text": "What sort of work did the speech pathologist do with you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

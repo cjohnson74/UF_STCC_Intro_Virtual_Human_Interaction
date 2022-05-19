@@ -1,0 +1,93 @@
+[
+  {
+    "id": "d38033d4-2ad2-406e-8ae9-b6dec95689d1",
+    "data": [
+      {
+        "text": "are you right handed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f323d28-96cc-4438-ae9f-6cc5fcf76ef0",
+    "data": [
+      {
+        "text": "Do you eat with your left hand?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0d36a2b-1526-43d5-8f7a-b71149052ba9",
+    "data": [
+      {
+        "text": "Are you left or right handed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a4b409a-1d5d-4c10-bf56-3ebe5d3e1ba5",
+    "data": [
+      {
+        "text": "Which hand do you write with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3aa63c2-77cf-4fa4-bc5a-f20d34dcd9c9",
+    "data": [
+      {
+        "text": "What hand do you use to write with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3971b73-e85b-49b4-b3f9-b676b30e3681",
+    "data": [
+      {
+        "text": "What is your dominant hand?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e596e4e-057b-482c-bae5-6348667aa739",
+    "data": [
+      {
+        "text": "are you left handed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

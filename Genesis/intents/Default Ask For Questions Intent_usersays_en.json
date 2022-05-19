@@ -1,0 +1,41 @@
+[
+  {
+    "id": "441bee9e-6b1f-457b-be28-ec8b854546f3",
+    "data": [
+      {
+        "text": "I understand you\u0027re upset",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4146bb38-ef43-41bb-b6d0-4be1300b284f",
+    "data": [
+      {
+        "text": "Do you have any questions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c718952-0f72-4ac4-9594-8b37d0cbc255",
+    "data": [
+      {
+        "text": "Do you have any questions for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

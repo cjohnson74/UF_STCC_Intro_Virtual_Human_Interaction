@@ -1,0 +1,288 @@
+[
+  {
+    "id": "7270837a-ba88-4dfb-b9e9-6da16fb9fc7a",
+    "data": [
+      {
+        "text": "What makes your pain worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "459f0a3a-91ab-4086-aed4-560a0c8ca96f",
+    "data": [
+      {
+        "text": "How severe is the pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d542686-d448-473c-8b1f-c4b4f505f4d7",
+    "data": [
+      {
+        "text": "how will you rate your pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "311ac9d2-bf7c-40fb-b561-a02f1ec7cd06",
+    "data": [
+      {
+        "text": "Where does it hurt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99ed8041-2924-437e-a551-709fd607e72c",
+    "data": [
+      {
+        "text": "Has the pain worsened?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5aa70884-f5f2-4997-9771-515d25a2bef0",
+    "data": [
+      {
+        "text": "Did anything seem to trigger the pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f29a4526-d6a1-42c0-8803-c8517644c7ac",
+    "data": [
+      {
+        "text": "Does your stomach hurt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cfd8737-8ee4-4666-942e-f1a6f94b5ad0",
+    "data": [
+      {
+        "text": "pain and fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d874847a-6dd5-4b0a-9300-74432d28eafa",
+    "data": [
+      {
+        "text": "does your pain change?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5625ba9-6067-49d4-a44b-f0b83e0fc814",
+    "data": [
+      {
+        "text": "Is the pain limited to a particular location?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b11b3301-f91a-4db2-b06e-32b8024b3013",
+    "data": [
+      {
+        "text": "are you usually in pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad720938-efb0-462c-9815-e2a7d3db44ca",
+    "data": [
+      {
+        "text": "Do you feel pain when you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54541875-7fb7-48cf-815a-bbd6111c59f0",
+    "data": [
+      {
+        "text": "is there any pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08bee106-8d33-4ef1-955b-19b33dfa0268",
+    "data": [
+      {
+        "text": "do you have mouth or throat pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1cc304a-ce38-44a6-8f43-8c3b94d814b3",
+    "data": [
+      {
+        "text": "Do you have any pain in your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c11ac54-1d04-4d57-83e6-94b120a83cb0",
+    "data": [
+      {
+        "text": "Do you have chest pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "794c5a9b-ce43-44d6-b46f-4ddc4c21a3f6",
+    "data": [
+      {
+        "text": "Do you have pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18c1fd37-8df4-475b-8ef6-37c5d4675eb1",
+    "data": [
+      {
+        "text": "Do you have pain ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee760838-7b2a-4b20-abd8-2466a9c8c684",
+    "data": [
+      {
+        "text": "Is there any feeling of pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bc857e2-5d91-4ac0-ad6c-dbcce2284728",
+    "data": [
+      {
+        "text": "Do you feel any pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c68c2497-7b12-4e15-bf39-96967a63fd3a",
+    "data": [
+      {
+        "text": "Do you suffer any pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "191efc18-7e99-46fc-8c04-e0e0a82e538b",
+    "data": [
+      {
+        "text": "Do you have any pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

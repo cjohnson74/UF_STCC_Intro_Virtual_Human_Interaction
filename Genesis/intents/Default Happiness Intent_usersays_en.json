@@ -1,0 +1,41 @@
+[
+  {
+    "id": "92b1ceca-1a46-42e7-adab-0d82564bc914",
+    "data": [
+      {
+        "text": "How would you describe your lifestyle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed991da7-3125-44b4-9fe8-ed0f9c3dbb75",
+    "data": [
+      {
+        "text": "Which symptom are you most concerned about?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ad9b1c7-e132-45c2-946a-e2dbf217ed2d",
+    "data": [
+      {
+        "text": "Are you upset?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

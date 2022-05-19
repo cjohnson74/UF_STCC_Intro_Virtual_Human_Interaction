@@ -1,0 +1,462 @@
+[
+  {
+    "id": "31d9a193-b2b7-4a3e-9a60-43517acf9190",
+    "data": [
+      {
+        "text": "Was she a Speech-Language Pathologist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db6941a3-a115-4865-8298-2e80c77c14fe",
+    "data": [
+      {
+        "text": "so you\u0027re here because you have issues swallowing is that right?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4984005-4c56-4a46-922e-d0b792dd22da",
+    "data": [
+      {
+        "text": "Do you eat all of your food orally?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85593321-37ab-453c-88b2-e5c817cc6fe4",
+    "data": [
+      {
+        "text": "Does that make you feel better?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62af7a60-87ef-458c-a9c9-1b3e396e2b16",
+    "data": [
+      {
+        "text": "Does it help when you cough?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "044105c7-f613-4d08-a4e1-f6ece5b7022f",
+    "data": [
+      {
+        "text": "Do you help with the baby?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad99c904-9d72-4d84-b651-7fcf7b5768b1",
+    "data": [
+      {
+        "text": "Have you had TIAs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37251b7c-8963-483d-8737-9aede93891ca",
+    "data": [
+      {
+        "text": "Do you like your therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3005980-3085-45f5-b493-728fa4c32f94",
+    "data": [
+      {
+        "text": "Are you nervous about eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba7571fc-a31b-47c7-9e94-6a5b958e50eb",
+    "data": [
+      {
+        "text": "Do you eat or drink more slowly now than before the surgery?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1589e75-d1f4-4a34-9f0c-7f53a1fe4b27",
+    "data": [
+      {
+        "text": "The exercises are too hard now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b875257-5d99-49d6-bfdd-00c111994f01",
+    "data": [
+      {
+        "text": "Do you eat less than before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d37fa18-a961-4c2e-b713-ccf0e93a572b",
+    "data": [
+      {
+        "text": "Is your swallowing problematic ",
+        "userDefined": false
+      },
+      {
+        "text": "throughout the day",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b8c521b-74b5-4489-b617-80374fdb72a2",
+    "data": [
+      {
+        "text": "So your voice is softer and slower?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b78d1b0-8658-4e51-a15a-58e2f0d85f0c",
+    "data": [
+      {
+        "text": "Is the swallowing issue you are here for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the same issue that you experienced after your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fbf5b28-150f-4ac1-a4c4-570bbe438ec7",
+    "data": [
+      {
+        "text": "did you say you had a stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92ab2991-f6fb-4caf-8e51-8519c0137ef0",
+    "data": [
+      {
+        "text": "Do you seee eerything on your right side?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27b43ebb-18d8-4cda-9ff4-584b59a4c134",
+    "data": [
+      {
+        "text": "Can you open your jaw?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76900ade-2f05-466c-95a5-d6ab8ae85d3a",
+    "data": [
+      {
+        "text": "That sounds like that may be stressful for you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "562f3e2b-602d-40d3-8941-fafed66dc5cd",
+    "data": [
+      {
+        "text": "are you male",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b11d8b0-4f8d-4642-93d3-0559a0a4bc01",
+    "data": [
+      {
+        "text": "can you talk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aacb7eb4-4ca1-433b-a625-94c031a227de",
+    "data": [
+      {
+        "text": "are you able to move your neck?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2746e76-3650-4636-8275-350529ceb470",
+    "data": [
+      {
+        "text": "Are you healthy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d86272c5-3377-4926-b588-52f76037dc5d",
+    "data": [
+      {
+        "text": "Does the food stay in your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fddf10c-6739-4a3e-be46-812fc3806174",
+    "data": [
+      {
+        "text": "Were the exercises helpful?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f36b422c-5fe7-4a4b-8bc1-642d15dc8e3e",
+    "data": [
+      {
+        "text": "Did the exercises help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b96795a9-6f66-4c6a-85a0-3a703c542fdb",
+    "data": [
+      {
+        "text": "Did the exercises help you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4e354b0-fc05-4839-a21f-01d0ccd3ada9",
+    "data": [
+      {
+        "text": "self feeding?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6847f44a-0a55-4a0f-b2c6-93d559e6fffd",
+    "data": [
+      {
+        "text": "Are you retired?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5cddb99-ee77-4f45-89ce-cc49a9cca85b",
+    "data": [
+      {
+        "text": "do you see a physical therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "432643f1-1502-45f1-b50c-a0a26d1b4c3c",
+    "data": [
+      {
+        "text": "Can you move your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11c9ac57-8b86-4f8e-9aef-e18e2f3e1fe7",
+    "data": [
+      {
+        "text": "Can you move your neck?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abebe64c-eff3-437d-b84e-c52bb75b6f2f",
+    "data": [
+      {
+        "text": "Do you have trouble with voluntary movement?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97ce1530-adfc-4cca-96c4-4d3c7bb15ec9",
+    "data": [
+      {
+        "text": "So you have had a TIA and a brainstem stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

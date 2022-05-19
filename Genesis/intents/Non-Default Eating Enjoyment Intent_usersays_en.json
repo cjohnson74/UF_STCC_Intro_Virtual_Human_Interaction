@@ -1,0 +1,67 @@
+[
+  {
+    "id": "e6766699-5ddc-4f40-8002-588462801c50",
+    "data": [
+      {
+        "text": "Do you find eating enjoyable anymore?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4595c5b2-fc43-4038-9293-90b2002409fc",
+    "data": [
+      {
+        "text": "have your feelings about eating changed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dd146eb-212f-4685-9b69-effb325f6f79",
+    "data": [
+      {
+        "text": "have your feelings about food changed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88143571-c124-4956-a8a3-5b6b3c0186d7",
+    "data": [
+      {
+        "text": "how do you feel about eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9948442f-6a8b-40f0-8b7b-cd7d451e9c94",
+    "data": [
+      {
+        "text": "do you enjoy eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "97746e00-4e1d-4ef1-a958-1ac620f5599b",
+    "data": [
+      {
+        "text": "Do you have any trouble walking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a75cd48-801d-4913-be58-a58d72e1442e",
+    "data": [
+      {
+        "text": "How is your mobility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2ed495d-d6ce-4c8d-bc02-039291ad0e13",
+    "data": [
+      {
+        "text": "Can you walk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0343fee1-61b2-44c0-b870-b538f6d61576",
+    "data": [
+      {
+        "text": "Are you able to walk without assistance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcb3a69e-796a-45a9-9e97-7a697e1f263c",
+    "data": [
+      {
+        "text": "Can you walk far?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0cbd80f-23b6-4735-ae5b-fbd070eb95db",
+    "data": [
+      {
+        "text": "Are you able to walk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b164d2d-11f8-44b9-8bcd-4c8cb6e289cd",
+    "data": [
+      {
+        "text": "How is your walking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87e3af33-0381-4d9c-8e32-6640493f87b9",
+    "data": [
+      {
+        "text": "Do you have trouble walking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f07aad8f-3858-4d72-8e92-8c34bb6cb30c",
+    "data": [
+      {
+        "text": "Do you have problems walking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

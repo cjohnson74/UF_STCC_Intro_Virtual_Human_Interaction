@@ -1,0 +1,41 @@
+[
+  {
+    "id": "39ca1af2-ccdf-42e6-ad3a-cc075ee8b8ba",
+    "data": [
+      {
+        "text": "Are you concerned about any syptom in particular?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd1b351f-c61c-41b3-ae3b-5702a98a0fbe",
+    "data": [
+      {
+        "text": "Which symptoms are you most concerned about?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "814db3ab-d88f-4470-981e-b246ba8b79b1",
+    "data": [
+      {
+        "text": "Which symptoms are you least concerned about?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "id": "77a68045-8fb6-4947-be8e-a76f9a828b3f",
+    "data": [
+      {
+        "text": "Have you tried swallowing with your head turned?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8dbaa787-1856-41f9-86cf-aea543cdfe12",
+    "data": [
+      {
+        "text": "Try turning your head and swallow.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6b17935-0a8e-420f-ae64-a53458564411",
+    "data": [
+      {
+        "text": "have you tried a head turn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4775b94e-2b84-4f19-8eca-52e7255c8208",
+    "data": [
+      {
+        "text": "Does turning your head to ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " side help your swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5de935e-5702-440a-8516-45285de5651e",
+    "data": [
+      {
+        "text": "Have you ever tried tilting your head while you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14ab9a31-9ed5-4b48-9c3b-64ea3025326b",
+    "data": [
+      {
+        "text": "do you turn your head to swallow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f47cad1-681d-41ae-9a86-0c93b1320ae4",
+    "data": [
+      {
+        "text": "have you ever used a head turn to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82a925c8-e8e2-4ab2-8b96-ea1b4cbdcead",
+    "data": [
+      {
+        "text": "does turning your head to one side help you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

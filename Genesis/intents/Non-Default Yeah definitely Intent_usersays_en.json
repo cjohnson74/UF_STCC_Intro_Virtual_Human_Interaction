@@ -1,0 +1,149 @@
+[
+  {
+    "id": "6caa4454-7ad9-4c9d-ab79-7803ccc0aaa0",
+    "data": [
+      {
+        "text": "Would more than ",
+        "userDefined": false
+      },
+      {
+        "text": "half an hour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " be ok?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68f7647a-2242-4ab7-9554-9d5d544e983a",
+    "data": [
+      {
+        "text": "Would more than ",
+        "userDefined": false
+      },
+      {
+        "text": "half an hour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c2434f6-5038-4d3e-a009-8c591ad4cb9a",
+    "data": [
+      {
+        "text": "How about in more than ",
+        "userDefined": false
+      },
+      {
+        "text": "half an hour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef947c2a-3b10-409a-8479-3b20465726a7",
+    "data": [
+      {
+        "text": "For an extended period of time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe1597f0-262d-4701-8113-62d6a1e52dbc",
+    "data": [
+      {
+        "text": "Can you walk for ",
+        "userDefined": false
+      },
+      {
+        "text": "more than half an hour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df19927d-7c55-4765-8883-fb3d8b51a78e",
+    "data": [
+      {
+        "text": "Is your commute more than ",
+        "userDefined": false
+      },
+      {
+        "text": "30 minutes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20815575-e7dd-42f4-8680-b039ea8e0de6",
+    "data": [
+      {
+        "text": "can you stand for ",
+        "userDefined": false
+      },
+      {
+        "text": "30 minutes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bde4e1c6-c386-4964-9c0d-61622ea7ad6f",
+    "data": [
+      {
+        "text": "More than half an hour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

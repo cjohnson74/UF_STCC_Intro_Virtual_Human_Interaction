@@ -1,0 +1,80 @@
+[
+  {
+    "id": "4e88259b-e302-49f0-8f99-528e6d07925a",
+    "data": [
+      {
+        "text": "do you eat italian food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbb9e254-ce6c-4f63-a783-3b974058a8b8",
+    "data": [
+      {
+        "text": "what is the difficulty with solid foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "761f1a7c-e7fc-4a4d-b6d9-64fcbabbe082",
+    "data": [
+      {
+        "text": "Can you eat other food besides liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50baae46-8b24-443c-8579-f47e9d86bf25",
+    "data": [
+      {
+        "text": "Can you eat italian food anymore?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af9bd07c-ef93-487c-816b-be6426c2abce",
+    "data": [
+      {
+        "text": "can you swallow solid foods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f3d7fb8-3fdd-469a-b834-372978a93771",
+    "data": [
+      {
+        "text": "Can you eat any solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "60f6c465-9a94-477f-844e-4a6c6c71f15e",
+    "data": [
+      {
+        "text": "When did you have the TIA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fa879bf-0d7e-4b0c-b487-c57caca4f42a",
+    "data": [
+      {
+        "text": "when was your TIA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "234e38b8-c292-4f32-b5aa-3125bcbf4e33",
+    "data": [
+      {
+        "text": "where did the tia occur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f135aeb-eda7-4df4-b2d5-9c70013b8a01",
+    "data": [
+      {
+        "text": "When did you have your TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b0977c9-2d7b-4fa2-b4ea-70f22129081c",
+    "data": [
+      {
+        "text": "When did you have the TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca8b0d85-d788-405e-9f80-f1fec5441e59",
+    "data": [
+      {
+        "text": "How long ago was your TIA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2af2c0f9-8a81-4fb5-96a9-d56646d5ab4f",
+    "data": [
+      {
+        "text": "when was your TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5feb9919-8355-4728-b722-533e8e29cd76",
+    "data": [
+      {
+        "text": "when did you have TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ae17356-f649-43b4-a9a5-ce9d521f7f17",
+    "data": [
+      {
+        "text": "when did you have a TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "daabf4df-0dba-4f54-a41b-ab9660ecc4cb",
+    "data": [
+      {
+        "text": "When was the TIA diagnosed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37809abb-395e-4197-afcc-4a8edfaca593",
+    "data": [
+      {
+        "text": "Did the TIA happen long ago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "549377f6-79a3-4321-8fdf-88f797462b61",
+    "data": [
+      {
+        "text": "When did the TIA occur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c918b0e-1a1d-4d8a-8d45-1af58148199d",
+    "data": [
+      {
+        "text": "When did the TIA happen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38992219-49a6-4c20-87fe-880907a7c9d8",
+    "data": [
+      {
+        "text": "Was the TIA recent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18316af1-9acf-4fdb-ac69-aaa298511b7d",
+    "data": [
+      {
+        "text": "How long ago was the TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09dd7341-6060-4140-b1e4-2fcdc48ebf54",
+    "data": [
+      {
+        "text": "When was the TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

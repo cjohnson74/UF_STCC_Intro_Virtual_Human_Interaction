@@ -1,0 +1,193 @@
+[
+  {
+    "id": "b399aa5b-edd9-4312-949d-8f9983768da5",
+    "data": [
+      {
+        "text": "Is your swallowing better during a particular time of day?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c60485c-968c-4ef5-ac49-7bfe21474a8b",
+    "data": [
+      {
+        "text": "Do you swallow better in the morning or at night?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcafdb32-f1bd-4082-8931-66135af94a60",
+    "data": [
+      {
+        "text": "Do you have problems at certain times of the day?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0976e145-b831-450c-a6bc-ae80769f2246",
+    "data": [
+      {
+        "text": "Do you encounnter these swallowing problems everytime you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0950b620-b3e3-4da0-a0a8-1fc18fe4a4d1",
+    "data": [
+      {
+        "text": "Is your swallowing worse in the morning or at night?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e32c33ad-5b98-4301-aaf7-cb719823f6fd",
+    "data": [
+      {
+        "text": "How often do you experience swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3175e489-db77-496d-bdc7-a7e410f7051a",
+    "data": [
+      {
+        "text": "Is the problem all the time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec7f86c9-fca9-4b14-97d5-0aa7c4659ae3",
+    "data": [
+      {
+        "text": "How frequently do you have the trouble swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d6639cb-03d7-4bbc-a635-155d0415d5cf",
+    "data": [
+      {
+        "text": "Does your swallowing get worse ",
+        "userDefined": false
+      },
+      {
+        "text": "throughout the day",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7304afc4-c769-4835-b2fd-8b22a5e6b904",
+    "data": [
+      {
+        "text": "What time of day is your swallow best?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fda859e1-2527-46a7-9ec1-15ec5cd268ea",
+    "data": [
+      {
+        "text": "Is there a certain time of day that\u0027s better for eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e251a96e-8f21-4469-8297-8ab80da8a512",
+    "data": [
+      {
+        "text": "Is it better at different times during the day?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a126a57f-62fb-434c-8a33-0ccbbe20c87f",
+    "data": [
+      {
+        "text": "What time of day do you have problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a30c113-c333-4fb0-8503-fd0ac8ac12da",
+    "data": [
+      {
+        "text": "is it more difficult to eat in the evening?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

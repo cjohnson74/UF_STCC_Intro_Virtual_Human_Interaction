@@ -1,0 +1,54 @@
+[
+  {
+    "id": "9094c02a-f618-4b79-bfe4-d9480c3033df",
+    "data": [
+      {
+        "text": "Can you smile?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39d42d9c-6066-4e6f-a5cf-2bcc90e9f9dd",
+    "data": [
+      {
+        "text": "swallowing tests?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da91b9b1-2cbd-433f-b9ed-547f699d5839",
+    "data": [
+      {
+        "text": "Is there something that makes it easier to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2c33c1f-ccc2-49bb-b5db-f94de2520817",
+    "data": [
+      {
+        "text": "Is there anything that makes swallowing easier?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

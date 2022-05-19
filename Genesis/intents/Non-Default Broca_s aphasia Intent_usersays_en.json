@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ab0640d6-1f76-40cd-9082-174f1ca3c9ba",
+    "data": [
+      {
+        "text": "Do you know of Broca Aphasia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd990ec4-d614-4a4b-ad41-96f6250d499a",
+    "data": [
+      {
+        "text": "Have you heard of Broca Aphasia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33fdf3cd-c7a6-485d-875f-9723a27e8a33",
+    "data": [
+      {
+        "text": "Do you have Broca Aphasia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63d5c8f9-0993-4b2c-98aa-d36f9e57dc0e",
+    "data": [
+      {
+        "text": "The doctor said you have broca aphasia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df600f3b-d3f9-4d5f-a3fa-fb0d13ca23d6",
+    "data": [
+      {
+        "text": "You have a medical condition called broca aphasia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd909a7d-c2f0-45a3-af97-34655ffae9fd",
+    "data": [
+      {
+        "text": "you have broca aphasia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

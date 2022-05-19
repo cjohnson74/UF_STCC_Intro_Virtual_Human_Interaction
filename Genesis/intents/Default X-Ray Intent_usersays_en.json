@@ -1,0 +1,171 @@
+[
+  {
+    "id": "115a802b-2b3c-4bd7-b2b5-dfbbee8b3475",
+    "data": [
+      {
+        "text": "Have you had a RBS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f37ffccd-6ced-4893-8c85-57e7113b0055",
+    "data": [
+      {
+        "text": "Did you have an xray of your swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aabc3358-003f-4d24-9d44-3c8986e3ad77",
+    "data": [
+      {
+        "text": "Did they take you down to x-ray your swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f786df94-daea-427a-aec7-06ebeb90b795",
+    "data": [
+      {
+        "text": "Have you had an xray?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b312220-3753-4e46-a47e-2722376dd14a",
+    "data": [
+      {
+        "text": "Have you had an X-ray swallow before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92b8aa0c-9978-4dec-a2b8-7406fc47c6b9",
+    "data": [
+      {
+        "text": "Did you have an x-ray of your swallow taken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53e7fa7d-ba88-439c-b0da-6666fcbfcd64",
+    "data": [
+      {
+        "text": "Have you had an xray done?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87645e3b-58b7-439e-8ee9-5affcb463c8c",
+    "data": [
+      {
+        "text": "Have you had radiation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd9db2d5-378b-4b08-82f6-a3e5d28e7dd0",
+    "data": [
+      {
+        "text": "Did you have any radiation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5de532fa-f391-420c-84ed-61b38a31ce7a",
+    "data": [
+      {
+        "text": "did you have radiation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35dc6d1d-df84-44e0-a9e1-bf652ba1de05",
+    "data": [
+      {
+        "text": "Have you had an x ray",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3caab6d-0667-422d-bf37-970144336f9c",
+    "data": [
+      {
+        "text": "Have you had any Xrays?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4ab12d4-8172-4a8e-84b5-9337360fd68c",
+    "data": [
+      {
+        "text": "x-rays?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

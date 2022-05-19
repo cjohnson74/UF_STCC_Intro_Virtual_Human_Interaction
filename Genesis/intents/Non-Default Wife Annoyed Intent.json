@@ -1,0 +1,35 @@
+{
+  "id": "e0fdf280-9e64-4fc5-a250-906608b0f632",
+  "name": "Non-Default Wife Annoyed Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "She\u0027d never say it, but I know she gets bored waiting around for me to finish. I can\u0027t blame her. But she sticks with me. Patient to the end!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

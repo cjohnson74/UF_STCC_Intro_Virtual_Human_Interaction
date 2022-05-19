@@ -1,0 +1,93 @@
+[
+  {
+    "id": "c078625b-4b3d-4a78-9c9d-8860612af784",
+    "data": [
+      {
+        "text": "She is very good looking.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5f919a3-858d-40e0-8d70-90b3dd313943",
+    "data": [
+      {
+        "text": "She is attractive.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96c96965-8504-411f-86e4-fce0aaa48e8d",
+    "data": [
+      {
+        "text": "She\u0027s very pretty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e434dbf9-98be-4c9b-b16b-7bdd437f7dc0",
+    "data": [
+      {
+        "text": "Your wife is beautiful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a97c61ce-1968-40d1-af0b-cf0a482045c1",
+    "data": [
+      {
+        "text": "Your wife is gorgeous.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c504dbfe-eea8-4c34-94f3-d06b55db33ff",
+    "data": [
+      {
+        "text": "Your wife is very pretty.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d04d217-70ff-4c92-ac83-f062a2118593",
+    "data": [
+      {
+        "text": "She\u0027s beautiful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

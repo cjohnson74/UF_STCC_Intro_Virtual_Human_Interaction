@@ -1,0 +1,54 @@
+[
+  {
+    "id": "47759e2e-0c22-4972-9faa-fc46400c797f",
+    "data": [
+      {
+        "text": "Do you have apraxia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea4bf65a-fdbd-4f47-b015-c663911f9396",
+    "data": [
+      {
+        "text": "Were your cranial nerves damaged?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0dd485e-3bf0-4eef-82a0-29caf06bdc7e",
+    "data": [
+      {
+        "text": "Do you aspirate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1ee034d-8a25-4316-9b62-9ebfb41945c9",
+    "data": [
+      {
+        "text": "Have you aspirated?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

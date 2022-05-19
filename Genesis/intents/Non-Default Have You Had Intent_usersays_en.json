@@ -1,0 +1,488 @@
+[
+  {
+    "id": "abffdfa7-09ee-4b23-9974-b1e458d3725d",
+    "data": [
+      {
+        "text": "Have you had a barium swallow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89d5fc4d-b5ca-4abb-8625-99badd499746",
+    "data": [
+      {
+        "text": "Have you had a swallow study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ee27a91-a3ad-4e34-bacf-2296eed81cdd",
+    "data": [
+      {
+        "text": "Have you ever had a swallow study done?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "890bf55b-4859-4242-8f6f-38a98f58867d",
+    "data": [
+      {
+        "text": "Have you had a modified barium swallow study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23a4665b-5835-4537-993c-e17e3c490c0a",
+    "data": [
+      {
+        "text": "Have you had a Barium swallowing study before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b129947-04ec-4af6-ac09-a6f6f504f645",
+    "data": [
+      {
+        "text": "Did you have a swallowing evaluation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97c3c010-92ed-48d4-af70-30095c79d5c4",
+    "data": [
+      {
+        "text": "They take you to do an x-ray of your swallow and you drink ",
+        "userDefined": false
+      },
+      {
+        "text": "white",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " liquid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7f37e57-7ae7-4ac1-bcb2-c290362a7410",
+    "data": [
+      {
+        "text": "Have you had a rehab barium swallow study performed previously?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e2030da-6e1b-4782-8c57-e2bad11673f1",
+    "data": [
+      {
+        "text": "Have you ever had a swallowing study completed before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbf8699a-ca29-442b-aaa6-5990ea6c39e6",
+    "data": [
+      {
+        "text": "Have you had a oral mechanism exam done?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15871ebc-e7df-43b1-bfff-5ab2f749cf46",
+    "data": [
+      {
+        "text": "Have you had a swallow study done?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e21a716e-f7b4-4daf-9ada-14f6d1a40063",
+    "data": [
+      {
+        "text": "Swallow study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b8c2142-1d0d-44ef-8e0c-be697ceab227",
+    "data": [
+      {
+        "text": "Was a swallow evaluation completed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ea159dc-081c-465b-a8af-b3aa63d4e1a9",
+    "data": [
+      {
+        "text": "Has a swallow study been done?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55b5b8b6-f463-401e-8f4a-288071ccc65f",
+    "data": [
+      {
+        "text": "Have you had a barium swallow before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32aac8c9-f71b-43be-9a9b-bfdcb16b1988",
+    "data": [
+      {
+        "text": "Did you do a swallow study in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46366002-095e-4583-9ac8-d30d81ce29f2",
+    "data": [
+      {
+        "text": "Did you go through any swallowing studies in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1617f401-67fe-4ce5-8955-1d44e8e7c13c",
+    "data": [
+      {
+        "text": "Have you had a swallow study done in the past?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2374df4a-e9af-40ba-b1a0-7a67a9fde9c0",
+    "data": [
+      {
+        "text": "Did you have a swallow exam before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4988834-3b37-44b6-af35-bf5f9974eb43",
+    "data": [
+      {
+        "text": "Did you have any tests done in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63b8e1dd-9e23-4914-b3ad-686b71457fc4",
+    "data": [
+      {
+        "text": "Did you have an assessment of your swallow before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69e34277-eb15-4df9-a6a5-d78f8ff7d810",
+    "data": [
+      {
+        "text": "Have you ever done a rehab barium swallow study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94b9981f-2ebf-4edb-84f0-1dabcbe6f294",
+    "data": [
+      {
+        "text": "May I complete an oral mechanism exam on you to evaluate your facial muscles to check for weakness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cca0a315-6278-4bcf-b33e-4c3ae88e00f7",
+    "data": [
+      {
+        "text": "are you interested in having a rehab barium swallow study completed so we can evaluate your swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bdf6aa3-0284-498a-8f67-51c93bdd91b6",
+    "data": [
+      {
+        "text": "We\u0027re going to need you to have a modified barium swallow study to get a better understanding.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dc84f5c-c16c-4681-a991-94494e83952b",
+    "data": [
+      {
+        "text": "have you had an endoscopic swallow exam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35008202-e704-4b5f-8a30-9bccfa0281f9",
+    "data": [
+      {
+        "text": "Have you had a rehab barium swallow completed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d111020-5e98-4859-aec2-406a404584d6",
+    "data": [
+      {
+        "text": "Did the SLP in the hospital perform any swallow studies while you were in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b35b2d7-47b6-4d48-9efe-95eb1f2c74f4",
+    "data": [
+      {
+        "text": "Would you be interested in doing a barium swallow study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41bc253b-646b-46d5-9927-d83c3007fee6",
+    "data": [
+      {
+        "text": "Have you ever had a swallow study done before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5b3b373-8a64-4e34-a3a1-2c3d21f082f4",
+    "data": [
+      {
+        "text": "have you ever had ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61c5efa2-d74c-4d8f-9e83-2a32776ed6e8",
+    "data": [
+      {
+        "text": "Have you done a barium swallow study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb64b6bf-5aac-4f94-a9b4-68d132f0248a",
+    "data": [
+      {
+        "text": "barium swallow test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19d87c4d-d7c1-427f-a36c-909ae3b1c734",
+    "data": [
+      {
+        "text": "Have you had a barium swallow study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0a9818a-72a4-4d40-a26a-f2917ca210ed",
+    "data": [
+      {
+        "text": "Have you had a flouroscopy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4164ad3-8208-4ade-9613-d6ccda3b473e",
+    "data": [
+      {
+        "text": "have you had a videoflouroscopy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "d83640a1-87b1-4324-8629-d1d52f13bb23",
+  "name": "Default Weakness Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes.  It\u0027s hard for me to walk a long time. My left side is pretty weak and I get tried pretty soon. No wonder because I get to eat only pureed stuff.",
+            "I have some weakness in my right arm and leg, numbness on the left side of my face, trouble swallowing. There\u0027s something going weird with my speech. I can\u0027t speak as quickly anymore."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

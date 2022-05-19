@@ -1,0 +1,106 @@
+[
+  {
+    "id": "d37aa72f-98a4-442f-bf6d-19d5a243acaa",
+    "data": [
+      {
+        "text": "did your food go down better when you were doing your exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa69f194-a9d4-419d-9ba3-bd97f8be6987",
+    "data": [
+      {
+        "text": "did you notice an improvement after you started your exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4011d107-cf68-4dcb-a891-073b330a75ea",
+    "data": [
+      {
+        "text": "Any swallowing changes since leaving the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df014bed-2e4b-4bfc-a759-87827ff6c1c8",
+    "data": [
+      {
+        "text": "Since leaving the hospital, have you had any changes in swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c36e5538-a6f6-4bff-ad50-ce78bf6b7130",
+    "data": [
+      {
+        "text": "Any difference in swallowing since leaving the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ac078fc-2a68-482b-a8fe-8096b9d87b93",
+    "data": [
+      {
+        "text": "any change in your swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "238c9e06-2167-4d54-b27a-16c6092f0ee1",
+    "data": [
+      {
+        "text": "Is your swallowing different?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3e30151-c0a9-4a58-9fa4-4cd12096a1e9",
+    "data": [
+      {
+        "text": "has your swallowing changed since you left the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

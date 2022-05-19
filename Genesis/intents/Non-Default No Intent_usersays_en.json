@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "186650f4-b2e1-4130-abae-4a23b2336192",
+    "data": [
+      {
+        "text": "Any acid reflux?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee76fa0c-543a-4f76-9b40-fd311a2156b4",
+    "data": [
+      {
+        "text": "Do you cough when you feel it going down the wrong tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e5b4aad-61ad-42c7-9945-3c144c6803f0",
+    "data": [
+      {
+        "text": "Any problems speaking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "674411f2-d31d-4473-aac5-e46631b2ffef",
+    "data": [
+      {
+        "text": "Have you tried using ice chips?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c33bcd3e-f39a-40bb-94e1-e34eb620889d",
+    "data": [
+      {
+        "text": "so you don\u0027t live alone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e45fa486-cc90-44bc-9c3a-645393fe550a",
+    "data": [
+      {
+        "text": "Any allergies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08d54929-6a8b-41ae-a5e2-5c4b497fb368",
+    "data": [
+      {
+        "text": "Any known drug allergies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebef5861-880b-4a35-bf87-ec1aa9e170e2",
+    "data": [
+      {
+        "text": "Did your surgeon say anything about paralysis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ab59433-234c-4655-9e20-518a63e7c6a3",
+    "data": [
+      {
+        "text": "Did you have a trach?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96dcea52-9fe8-45e1-b2d7-d30793efb424",
+    "data": [
+      {
+        "text": "Do you ever have acid reflux?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d93c38e-faf2-44c2-a283-87aeaccfa1f5",
+    "data": [
+      {
+        "text": "Have you ever aspirated food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae29bd76-81db-4ba2-844e-b35ece398de8",
+    "data": [
+      {
+        "text": "Have you seen a doctor about your voice?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e150460-dd7d-4bf5-ab2c-0aca4551b20f",
+    "data": [
+      {
+        "text": "do you have a family history of strokes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab4058e9-549d-405c-bcca-96c38f986682",
+    "data": [
+      {
+        "text": "Do you have any acid reflux?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfe9e4de-ca2e-4c42-85b5-ade52be11c42",
+    "data": [
+      {
+        "text": "Have you had any other strokes since your brain stem stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b4458c6-5139-4e36-bb42-7ce5a07038f0",
+    "data": [
+      {
+        "text": "Do you have dryness of mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efc0f01e-7dbb-49de-91a4-db883548dda0",
+    "data": [
+      {
+        "text": "Have you had any urinary tracht infections?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "304b4994-b0b8-4912-9e8a-e2af577afd18",
+    "data": [
+      {
+        "text": "do you have any aspriation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47055889-4626-476a-8254-cbfec78107a1",
+    "data": [
+      {
+        "text": "Do you have diarrhea?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ca9d89f-ace5-4055-8fc4-a71c9c1000f0",
+    "data": [
+      {
+        "text": "Do you have constipation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bee1751e-e2a3-486e-a7dc-1fe0b037d447",
+    "data": [
+      {
+        "text": "Have you seen a gastrointestinologist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "056241fd-68ec-413a-ba5b-1a26ac6f4e2c",
+    "data": [
+      {
+        "text": "Do you use a wheelchair?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d128d893-6aa0-428d-b161-74a246fbc7c9",
+    "data": [
+      {
+        "text": "Were you on a trachea tube",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24874ba6-1cec-4acc-be0c-2f9a6c560e7d",
+    "data": [
+      {
+        "text": "Have you been dizzy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45ebe362-d4f4-462e-b5cf-e150faaea7ad",
+    "data": [
+      {
+        "text": "Does someone help you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9313ada2-d005-4277-88f8-caa06fd33082",
+    "data": [
+      {
+        "text": "have you experienced chest pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc42750d-892d-4e7c-a140-bca6d759dce9",
+    "data": [
+      {
+        "text": "Did you have chemotherapy and radiation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "414e0cc8-43e2-4b16-91d1-a839b1ba92eb",
+    "data": [
+      {
+        "text": "have you seen another speech pathologist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d148de5-ce90-44b3-9147-27b9c413414c",
+    "data": [
+      {
+        "text": "Has anyone in your family had stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad3761ff-ed7b-4130-82f8-fb5e77d7f98c",
+    "data": [
+      {
+        "text": "Do you ever wake up coughing at night?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c243f292-1dd8-493a-9dac-479d84f2bf21",
+    "data": [
+      {
+        "text": "Do you have a history of reflux?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e059038-3cc6-4865-8f09-938f39f4d091",
+    "data": [
+      {
+        "text": "Do you ever have heartburn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5c62c5c-c924-474a-8d9a-80191539bb79",
+    "data": [
+      {
+        "text": "Do you have reflux?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22e62edb-b49a-45d0-babb-c40bb8a46152",
+    "data": [
+      {
+        "text": "do you have any heartburn after you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7df421e-42fb-479d-959a-e5394cb435fc",
+    "data": [
+      {
+        "text": "neurological conditions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95ad19c4-3a5e-43d1-95cf-c9e00e242e11",
+    "data": [
+      {
+        "text": "have you ever been diagnosed with any neurological conditions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c29fa70-a907-480a-bd0f-f2ed38a89844",
+    "data": [
+      {
+        "text": "No you have chest pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be93ef48-8b3e-41b1-9c38-d267bf6da525",
+    "data": [
+      {
+        "text": "Do you have heart burn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e7cca22-521d-41e0-aaec-4ad9a3e66518",
+    "data": [
+      {
+        "text": "Do you wake up coughing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d07d4ed9-61e1-48e5-8181-0f429fed84b2",
+    "data": [
+      {
+        "text": "Are you having any heartburn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42748846-145b-4660-b4dd-c4f6c2b6f3ae",
+    "data": [
+      {
+        "text": "Do you ever have heartburn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "625f59b6-204d-4d3f-85e6-739eec61ef5a",
+    "data": [
+      {
+        "text": "Do you have chest pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a9c9455-dff8-4b3e-afd8-ff42bc965e10",
+    "data": [
+      {
+        "text": "Do you experience GERD?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d83f0293-d89e-44df-bee6-95bb169b56c8",
+    "data": [
+      {
+        "text": "Do you have heart burn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "793617d9-1b09-44fe-898c-47594ae48c1e",
+    "data": [
+      {
+        "text": "Is there a family history?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec9d997e-c557-4a1d-97ae-4ede28a262d4",
+    "data": [
+      {
+        "text": "Do you get frequent heartburn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a51d9156-168f-4b60-9643-5528e883d09e",
+    "data": [
+      {
+        "text": "is there family history of stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f17d7c67-fa88-4c7d-aa99-9591c396ff1d",
+    "data": [
+      {
+        "text": "Is there a family history of stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cad0805-93c3-43e0-a27d-4388a3aef6fe",
+    "data": [
+      {
+        "text": "Has another speech pathologist examined your swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd68058e-28dd-46da-b6f0-f057a6f9fb02",
+    "data": [
+      {
+        "text": "do you have a family history of strokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c31e1fe3-07d7-49ef-a6cf-97ffbca0fd19",
+    "data": [
+      {
+        "text": "Ok does your mom have a history of strokes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b42e4a6b-149f-4881-8079-aa77edada538",
+    "data": [
+      {
+        "text": "Have you tried changing your posture?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d54152d-6f08-4895-8a7a-36162f948096",
+    "data": [
+      {
+        "text": "Do you suck on ice?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30552f12-469d-46b8-b361-3ac78f186e47",
+    "data": [
+      {
+        "text": "Have you bled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "627118f6-97a2-4d53-88ee-7be684eece0c",
+    "data": [
+      {
+        "text": "have you noticed any bleeding?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23cad282-83e4-4354-92f1-533cd14743f1",
+    "data": [
+      {
+        "text": "Do you have fibrosis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7dc8c48e-cfa3-40d8-97e7-53fbe9b0311d",
+    "data": [
+      {
+        "text": "Do you have lock jaw?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1f944be-538d-4a5c-9fe9-ad6ad15985da",
+    "data": [
+      {
+        "text": "are you anorexic?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20bf32b0-a216-4155-b413-be55b5d76d95",
+    "data": [
+      {
+        "text": "The pain began after radiation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85e848e7-a117-43c0-b761-7c37dbaefd53",
+    "data": [
+      {
+        "text": "is your throat swollen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6ab61db-b216-499f-afb0-d7325fe51878",
+    "data": [
+      {
+        "text": "do you use an electrolarynx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "186d90d2-c6e5-44e3-886d-a0adc930f3df",
+    "data": [
+      {
+        "text": "do you get dizzy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91e528af-f9bb-4052-a8f3-d97b3a2b6fd7",
+    "data": [
+      {
+        "text": "scoliosis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a62b177f-1d71-412e-a8f9-168c7e6f81f0",
+    "data": [
+      {
+        "text": "Have you had any imaging?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2616f31d-d8b8-4729-90dc-7683d5ca8356",
+    "data": [
+      {
+        "text": "Do you have xerostomia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57740319-6698-41a5-b7f1-3b7091690fca",
+    "data": [
+      {
+        "text": "do you have any allergies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f14cbf6a-71c2-4eff-bcb1-54290ef92f41",
+    "data": [
+      {
+        "text": "have you had any accidents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b60e5db7-8ce4-489f-9c25-93ac484f8f48",
+    "data": [
+      {
+        "text": "any traumatic incidents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92d0b4fc-f6c8-42f6-9f9e-1a26bf2390cf",
+    "data": [
+      {
+        "text": "are you allergic to anything?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbc12965-a931-4876-aba4-edf59a0decb2",
+    "data": [
+      {
+        "text": "any special feeding equipment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d8ef209-a9e6-4186-8908-66d32ab2e31d",
+    "data": [
+      {
+        "text": "Are you involved in any clubs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d66e76a0-18c1-4543-91d9-24ac36524a6d",
+    "data": [
+      {
+        "text": "Do you have allergies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01334b86-57f6-40cb-bf6a-651b52dce5ce",
+    "data": [
+      {
+        "text": "do you see an OT?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "decbf685-c239-418d-b054-428d6535bb4c",
+    "data": [
+      {
+        "text": "does food come out of your nose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ae8600b-93f0-4a19-a35c-03c5801bce7c",
+    "data": [
+      {
+        "text": "Do you have diabetes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a25b52f-96b6-4d7a-8221-446db1971e2b",
+    "data": [
+      {
+        "text": "are you on any other medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8af28b9-b4aa-49a8-acf5-38da40a710be",
+    "data": [
+      {
+        "text": "You experience reflux?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "538ad5b8-b78e-4231-bd49-8fb8f6ffd97d",
+    "data": [
+      {
+        "text": "Does anyone in your family have trouble swallowing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4f5eb54-58f1-4143-9fdb-d5d2d027fdf4",
+    "data": [
+      {
+        "text": "ok Do you have GERD?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e243515b-50fa-494f-bc2a-e3566ee4e5e9",
+    "data": [
+      {
+        "text": "any feeding problem in family",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a641c53-bd7b-410f-8333-51bb8db5d393",
+    "data": [
+      {
+        "text": "Are you taking antibiotics?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb35bcda-687d-41a1-95b9-8573d8cca533",
+    "data": [
+      {
+        "text": "Are you on antibiotics?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b4ef3c0-cc76-45a3-b31e-4cf33a6c8154",
+    "data": [
+      {
+        "text": "any compensatory mechanism",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a6776c1-6a06-4198-a831-909f35a20bb7",
+    "data": [
+      {
+        "text": "Has the Hydrodiuril had any side effects?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28c13985-e74c-4c61-a6ab-add3e5ba41aa",
+    "data": [
+      {
+        "text": "Do you experience side effects from Hydrodiuril?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03333e42-091c-487a-a7d1-67717d883e8f",
+    "data": [
+      {
+        "text": "Is your voice harsh?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ca033cd-5130-46e3-abd6-025ae00dcf97",
+    "data": [
+      {
+        "text": "has your voice changed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bcc8764-4ca9-4751-a4d7-b8229051c755",
+    "data": [
+      {
+        "text": "Any voice changes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0c51944-a11d-49ec-81c0-ff419221d332",
+    "data": [
+      {
+        "text": "have you had any injuries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af5b25cb-a0f4-45a1-b3b5-f396c1372bdb",
+    "data": [
+      {
+        "text": "any injuries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbba819c-a6c7-4d34-8d45-e486387639c9",
+    "data": [
+      {
+        "text": "Do you have high cholesterol?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54b86bd4-d5f1-4203-a6f7-1d69d8626359",
+    "data": [
+      {
+        "text": "do you lift your head up and down when you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90e8c9fa-2aab-44a7-8479-6ae99c517799",
+    "data": [
+      {
+        "text": "do you regurgitate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b188594d-5f3b-42b6-877e-75ea950847a7",
+    "data": [
+      {
+        "text": "Do you ever regurgitate your food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b75337c9-18e5-4e70-bacc-3df712ecfcdd",
+    "data": [
+      {
+        "text": "are there any movements you do to assist in eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8690c5c6-443a-4edb-8fef-f936bc4ec5ea",
+    "data": [
+      {
+        "text": "Does anyone in your family have similar problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7eb73506-bc6b-45b2-9a49-3da12cd412a2",
+    "data": [
+      {
+        "text": "Are you diagnosed with GERD?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbf709f7-ba3a-4dc3-9e28-d5c7acd20200",
+    "data": [
+      {
+        "text": "any eye problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f0c0f0b-598c-4997-83a1-5b0247ba6a22",
+    "data": [
+      {
+        "text": "Does your mom have any swallow problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b44f2f7a-dd6c-47ab-83c6-375003498f1c",
+    "data": [
+      {
+        "text": "Do you have any swelling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b045b5da-556a-4da8-b94b-16ca9110b126",
+    "data": [
+      {
+        "text": "do you have arthritis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfbd889e-f86e-401e-a7b6-68d1a35a9fec",
+    "data": [
+      {
+        "text": "are you overweight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57e7b2c0-e516-4424-ac4f-d1398595cec8",
+    "data": [
+      {
+        "text": "Did you ever have a tracheotomy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6feedc2b-4a0d-4f96-9809-92a83b28b8e1",
+    "data": [
+      {
+        "text": "do you regurgitate food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18f2bb00-07dd-4ba1-aa8e-a61e0ea2b194",
+    "data": [
+      {
+        "text": "Are your hands numb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5410fa2-20cd-4cc3-bb81-0b4ad0875090",
+    "data": [
+      {
+        "text": "does your heartburn hurt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f53b7c2b-5187-47a0-b4f8-67f16f8721d2",
+    "data": [
+      {
+        "text": "do you have heartburn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42e82fd6-9739-4545-ad90-b7b35d0c8e43",
+    "data": [
+      {
+        "text": "Do you experience heartburn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3db4dc1f-3f59-4dc1-b931-898691aacde1",
+    "data": [
+      {
+        "text": "do you experience heartburn after eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4fde19c-20c3-4f2d-8531-c5a938ae310f",
+    "data": [
+      {
+        "text": "Did you have a tracheostomy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c53fb681-3897-4e76-9ab9-2eec2a1a5127",
+    "data": [
+      {
+        "text": "Do you cough when you lie down?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e73e25c-b6c7-4d38-8040-ded0ea2e2216",
+    "data": [
+      {
+        "text": "Did you have a tracheotomy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b6f382f-70c9-4f73-8502-a827b6bafaa8",
+    "data": [
+      {
+        "text": "Did you ever have a trach?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74c0bc92-3931-4e9f-ab03-bf0f57592987",
+    "data": [
+      {
+        "text": "Do you have depression?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10a1701b-c291-4f3e-8017-7cd321044394",
+    "data": [
+      {
+        "text": "Has your tongue gotten smaller?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a81b056-4ea5-4b9a-8658-97fad1d44f8f",
+    "data": [
+      {
+        "text": "do you have a mri?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35c8ec89-ba0a-4010-bff1-dd1592c9d701",
+    "data": [
+      {
+        "text": "Do you have GERD?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a0c1ef1-a198-49ba-8a14-df18d5b4f149",
+    "data": [
+      {
+        "text": "do you have acid reflux?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55a6d72e-c26c-4be5-999f-d332558769f3",
+    "data": [
+      {
+        "text": "is your voice hoarse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "557179df-6d67-4d15-a1c1-acc15332e9c3",
+    "data": [
+      {
+        "text": "is your throat ever dry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d74dc0a8-7596-4395-940c-f46fab6eeec1",
+    "data": [
+      {
+        "text": "Did you have chemotherapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91706e2d-334a-4541-ab96-6b7c9f73e1dc",
+    "data": [
+      {
+        "text": "did you go through chemotherapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac19c991-3901-45d2-a009-37bd62af06b9",
+    "data": [
+      {
+        "text": "are you in chemotherapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25c4e5e8-1c30-4246-bca8-18c21e8f7279",
+    "data": [
+      {
+        "text": "Do you have a feeding tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78259192-342e-474b-b8ec-2c4d0587004b",
+    "data": [
+      {
+        "text": "Are you on a feeding tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3c0843b-4ed6-47c9-84f0-4a58688bf125",
+    "data": [
+      {
+        "text": "do you have any heartburn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6efa3cf-b815-4922-8b82-1406f1790919",
+    "data": [
+      {
+        "text": "Have you seen a speech therapist recently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37aee32a-2500-49c5-893f-8a2bfcb2d43f",
+    "data": [
+      {
+        "text": "Have you receive any speech therapy recently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2911cf0b-a5a5-4e02-8cb2-5592fd3708e8",
+    "data": [
+      {
+        "text": "Does your brother have any health problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bc89fc6-5c26-418e-8bb1-2ee88a46d779",
+    "data": [
+      {
+        "text": "Did you have a hemorrhage?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ab52727-ba97-45cd-9ec8-d9dc7392cf2a",
+    "data": [
+      {
+        "text": "are you currently getting any therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f577e13-cd96-4a5b-a12d-19969086305f",
+    "data": [
+      {
+        "text": "Are you bilingual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0767275b-cbc7-43db-af2b-b51406cb3f84",
+    "data": [
+      {
+        "text": "do you have stomach issues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78a09921-f879-492a-b897-d5270bcd1283",
+    "data": [
+      {
+        "text": "Do you have asthma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7755ec7d-2353-4f10-b7fa-c7fd9bd57863",
+    "data": [
+      {
+        "text": "Has your taste been affected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80b01aa8-c159-4599-a1ce-e939baa08a3d",
+    "data": [
+      {
+        "text": "have you had any recent hospitalizations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8742752c-baed-4ea3-8c88-dece8e35f6b4",
+    "data": [
+      {
+        "text": "sore throat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d355a376-970b-491c-99e1-3bab0c132868",
+    "data": [
+      {
+        "text": "do you have stomachaches?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9766191e-df83-4c08-a8c6-72117c2491b2",
+    "data": [
+      {
+        "text": "do you have dry mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01bf3e08-fbf2-4117-acfb-6aa05ef9f47d",
+    "data": [
+      {
+        "text": "did your parents have hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5e563ac-d2ae-443b-b151-0d5271d7c4fe",
+    "data": [
+      {
+        "text": "did your mother have hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f942def-73f2-4345-b100-a920c47e3f3c",
+    "data": [
+      {
+        "text": "Did your father have hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e4da0fe-e203-4443-9611-9e79fedffaae",
+    "data": [
+      {
+        "text": "Is there a history of hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45cc0082-408f-4bb4-bf0d-506536626027",
+    "data": [
+      {
+        "text": "Does your family have a history of hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "a2fd1b6d-9ada-45cb-806b-920b5646ff5f",
+    "data": [
+      {
+        "text": "do you exercise much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "923b617e-4c61-4ddb-8762-6aef17669845",
+    "data": [
+      {
+        "text": "Do you have any hobbies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17a66aa3-7970-4c46-a9e0-6764ab47d004",
+    "data": [
+      {
+        "text": "Do you exercise often?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae55b4de-b70b-44ac-9c39-2d8800bc76bc",
+    "data": [
+      {
+        "text": "What kind of exercising do you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c72544ef-70c1-40c8-a850-f9ec25f45a80",
+    "data": [
+      {
+        "text": "Do you exercise regularly?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de2dc48f-acca-48bb-a49e-8d9f399760fb",
+    "data": [
+      {
+        "text": "do you exercise?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0d665fd-f772-4a21-a98c-b36aa75bd20c",
+    "data": [
+      {
+        "text": "How often do you exercise?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c8ebd90-3c57-4541-9fc8-8d1c4bdf76f2",
+    "data": [
+      {
+        "text": "Are you able to exercise?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df0d8d00-0a96-494e-8d7a-ef2268bea79c",
+    "data": [
+      {
+        "text": "Do you try to exercise?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b336f0b-1700-479f-9e78-4c0208b71610",
+    "data": [
+      {
+        "text": "Do you still exercise?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

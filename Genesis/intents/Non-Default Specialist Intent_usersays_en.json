@@ -1,0 +1,223 @@
+[
+  {
+    "id": "37539607-0641-49a0-bf4e-91a421c3658f",
+    "data": [
+      {
+        "text": "Have you had therapy for this before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "605a709c-7939-4c9e-8cbf-a9e15f3639bb",
+    "data": [
+      {
+        "text": "Have you ever had swallow therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8fdf053-82ca-4b32-b40d-b86a1a7a7f51",
+    "data": [
+      {
+        "text": "Have you tried swallow therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c30a30c-f193-4bac-969c-ebdea56e0996",
+    "data": [
+      {
+        "text": "Have you seen a respiratory therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fe9d281-0d2b-420f-819c-0ca0c691f018",
+    "data": [
+      {
+        "text": "So you had swallowing therapy before this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfb72a2c-07a6-4059-a1c4-f3277f3d508f",
+    "data": [
+      {
+        "text": "have you had your swallow checked?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5edcc4d4-d306-499e-ad75-0e993418971e",
+    "data": [
+      {
+        "text": "has a doctor ever looked closely at your swallow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b2980a6-10c6-476b-b476-3a2bc6733a0d",
+    "data": [
+      {
+        "text": "have you seen a speech therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ccd8d78c-f94f-4a96-878b-9804463ec5cb",
+    "data": [
+      {
+        "text": "have you had therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68184eee-ea88-4aef-8e75-e79b8cba95e4",
+    "data": [
+      {
+        "text": "Have you seen another swallowing specialist in the past?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2257a8bc-b006-4af6-a2ea-bf0c1a0bf2e1",
+    "data": [
+      {
+        "text": "have you had a swallow evaluation before",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf0ecc60-2b02-4680-8596-dadf1eece5e9",
+    "data": [
+      {
+        "text": "Have you had any therapy recently",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c1a6b01-2e13-463d-9310-db23a773952e",
+    "data": [
+      {
+        "text": "Have you had any swallowing therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23fd1249-a15c-49ce-a850-f8c7255391be",
+    "data": [
+      {
+        "text": "have you had swallowing therapy before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c079366-d94a-4ff2-80d7-1a5cf327e618",
+    "data": [
+      {
+        "text": "have you had swallow therapy before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d63f0ee-913f-4c72-a8fd-8bf98a41d7e4",
+    "data": [
+      {
+        "text": "Are you seeing any specialists now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5957364-209e-4a44-8020-5f7e73e219cd",
+    "data": [
+      {
+        "text": "Have you seen a swallowing specialist before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

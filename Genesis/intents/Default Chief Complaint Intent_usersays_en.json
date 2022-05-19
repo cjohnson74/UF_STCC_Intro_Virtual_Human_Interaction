@@ -1,0 +1,1220 @@
+[
+  {
+    "id": "fbd4d393-d08d-4efc-ac25-2f232776ee83",
+    "data": [
+      {
+        "text": "What brings you to our clinic ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7425d37-4ec1-4f46-a7bb-503969a876e1",
+    "data": [
+      {
+        "text": "Hi My name is  how can I help you ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fef8e656-af4c-4a57-a6ed-b9855fd9fb95",
+    "data": [
+      {
+        "text": "Good, So what brings you into the clinic ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f813c76-084a-4dd4-ba1c-1e2bc4c95d0e",
+    "data": [
+      {
+        "text": "Hi Vinny, My name is . I\u0027m a speech-language pathologist. What are you here for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f427e5d3-85fb-4100-894a-6ea99a469494",
+    "data": [
+      {
+        "text": "Can you tell me why you came to see me ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aed348b6-96b7-46c0-ad49-a5701ff957e4",
+    "data": [
+      {
+        "text": "What brings you in ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62ce4429-f5e9-4216-809e-0a258fd6e754",
+    "data": [
+      {
+        "text": "What brings you in to my clinic ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "154cea8c-ca36-489c-ac12-2beeab695e35",
+    "data": [
+      {
+        "text": "What brings you in to see me ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d5f08c8-05ab-4047-a5da-8d0e18ee7b18",
+    "data": [
+      {
+        "text": "What brings you here?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b917842e-e55f-4e6f-9f69-a8c474598d3c",
+    "data": [
+      {
+        "text": "Hello ",
+        "userDefined": false
+      },
+      {
+        "text": "Vinny",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": false
+      },
+      {
+        "text": ". How are you doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8ace621-50bb-4561-bf8f-e0fdf31e3a51",
+    "data": [
+      {
+        "text": "Hello Mr. Devito! How are you feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4f76e78-2aa4-4d9c-81fa-e164fc15150f",
+    "data": [
+      {
+        "text": "Hello Mr. Devito. How are you ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3324b116-6e2a-4271-9685-8797ce572cc8",
+    "data": [
+      {
+        "text": "What brings you to my office?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "759b247e-48ed-4820-a60d-a6aca4ab2d63",
+    "data": [
+      {
+        "text": "How are you, Mr. Devito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e12c9714-5476-4142-be37-023908c72082",
+    "data": [
+      {
+        "text": "Nice to meet you. What brings you in ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dc84e9e-6e89-4ee0-883d-461a68de6421",
+    "data": [
+      {
+        "text": "Good, what can I help you with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54cbaa44-d04b-448e-be5f-2072075cf144",
+    "data": [
+      {
+        "text": "Mr. Devito. How are you doing ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "701f0397-f655-49cc-9695-e3dcbec59c24",
+    "data": [
+      {
+        "text": "What is the reason for your visit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19724206-78fa-413f-be60-cbed3263c364",
+    "data": [
+      {
+        "text": "So what brought you in ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e371cadf-168a-405d-816b-712d3c5f3615",
+    "data": [
+      {
+        "text": "How are you feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "270c6e84-508f-4fb4-ab06-ee34cf2c97bd",
+    "data": [
+      {
+        "text": "How are you ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Mr. Devito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bac51cda-bc6e-4e94-931e-695511646af8",
+    "data": [
+      {
+        "text": "Hello. How are you ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40b87b91-88df-456a-ae7d-b93fa0ce575a",
+    "data": [
+      {
+        "text": "Hi, how are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09050b9c-092e-43f1-b306-5e592d07e03a",
+    "data": [
+      {
+        "text": "Good morning Mr.Devito. How are you ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9404a1c4-3c5b-4f22-be7a-0ce05b206430",
+    "data": [
+      {
+        "text": "What is your chief complaint?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbe10e76-e9de-4438-abbe-60277f8b5ff0",
+    "data": [
+      {
+        "text": "Hello, ",
+        "userDefined": false
+      },
+      {
+        "text": "Vinny",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": false
+      },
+      {
+        "text": ".  How are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e623f47d-898d-4722-8639-5a51378c4f15",
+    "data": [
+      {
+        "text": "how do you feel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68ba417e-249c-48ea-b8be-bce578bdd0cc",
+    "data": [
+      {
+        "text": "Did you have problems after your ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " stoke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c1cd904-afcf-4fc2-9b96-518d66f016c4",
+    "data": [
+      {
+        "text": "what\u0027s new",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a33e6061-7ce5-4bb8-9544-611972824b73",
+    "data": [
+      {
+        "text": "What brings you here ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74236c60-0666-45b2-8af7-dacdf6df8c8b",
+    "data": [
+      {
+        "text": "Hi Vinny How are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50956bfd-cca8-4160-9a30-a5bc774f50bd",
+    "data": [
+      {
+        "text": "what type of problems do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "504639d0-1518-4e2e-ad6a-e592fd1b682f",
+    "data": [
+      {
+        "text": "why what is wrong?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d67c8d09-9b45-4385-ab91-241697bc8238",
+    "data": [
+      {
+        "text": "what is wrong?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8f66664-b46a-406d-8421-6bb034cefc57",
+    "data": [
+      {
+        "text": "How are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d132f26-86ca-4d87-bd86-5bd7af3c8c85",
+    "data": [
+      {
+        "text": "Hi, Vinny how are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "246912f9-8400-42c4-a9e1-0fac616f982f",
+    "data": [
+      {
+        "text": "are you okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d3b5576-3960-4c61-95e7-943d513365cc",
+    "data": [
+      {
+        "text": "why don\u0027t you tell me a little bit about what brought you into see me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ae89c9e-db15-40cf-aeab-7ed3410d54ce",
+    "data": [
+      {
+        "text": "why did you come to see me ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7abfec0-f336-40c7-9a53-3134a2e2f9a6",
+    "data": [
+      {
+        "text": "why did you come to see me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72f002e0-e51d-489f-8740-c57b75aa81b8",
+    "data": [
+      {
+        "text": "what seems to be the problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac4ed15f-b47a-4d9b-97b1-54c5e7386c54",
+    "data": [
+      {
+        "text": "what brings you to the doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4e6b430-ed85-492f-87f4-795daa0e1fbf",
+    "data": [
+      {
+        "text": "what brings you in to see me ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3282cd05-96a2-4484-bea2-f8ea7ba23fe3",
+    "data": [
+      {
+        "text": "tell me what you feel is wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab1bf461-a8d3-4e2b-9b99-e54f85177b11",
+    "data": [
+      {
+        "text": "is there anything bothering you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "572bd804-e200-400b-bc9a-00150623360c",
+    "data": [
+      {
+        "text": "how are you feeling right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "580478d0-296f-4360-a373-51c33c4a4b57",
+    "data": [
+      {
+        "text": "hi how are you ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74bad96b-8a4b-466a-9dda-5d5c709e1eb9",
+    "data": [
+      {
+        "text": "hi how are you doing ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19fc751a-ac00-4f5a-8388-7c655bbfa21d",
+    "data": [
+      {
+        "text": "hello how are you doing ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a7140d0-31e1-4a16-af9d-3e4b0ca258a3",
+    "data": [
+      {
+        "text": "you are not feeling well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d8b5beb-b1ab-47a9-8e0a-9a743d760433",
+    "data": [
+      {
+        "text": "why did you come to the clinic ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "644f5ea6-22cd-4929-81ea-805ff225673b",
+    "data": [
+      {
+        "text": "what seems to be the problem ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cb8d273-2413-4e15-b062-5f0aa9603eec",
+    "data": [
+      {
+        "text": "what seems to be bothering you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9b1bafc-b026-4f2d-a39a-91e9fa654818",
+    "data": [
+      {
+        "text": "what seems to be bothering you ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06a98a31-f5ca-4db2-859e-ac9e519d0fdb",
+    "data": [
+      {
+        "text": "Tell me what brought you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebd4315a-00fa-4b49-b6de-b8cbda6600c1",
+    "data": [
+      {
+        "text": "what is going on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f254e8d-52c4-4df5-9546-3e69926fdd39",
+    "data": [
+      {
+        "text": "tell me why you came in ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09c6cb8d-d49b-4ce3-a237-20a167abe06e",
+    "data": [
+      {
+        "text": "Why are you here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "545a5c62-a8df-47c3-afc7-a6b17e450fe3",
+    "data": [
+      {
+        "text": "what is your problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80e25563-c283-4ce4-8bfa-5c3f786a4994",
+    "data": [
+      {
+        "text": "what can I do for you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04956e01-2031-4565-a21a-8d623240f036",
+    "data": [
+      {
+        "text": "Tell me what brought you in ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29318b7b-6e66-4c47-896e-481dd4011679",
+    "data": [
+      {
+        "text": "How do you feel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f47dfbb-4b49-441e-b988-67df557f370e",
+    "data": [
+      {
+        "text": "chief complaint?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fe6f84b-9a21-4561-8398-2689d8f0432f",
+    "data": [
+      {
+        "text": "are you sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e722833-93cf-4424-b520-712cd8056fea",
+    "data": [
+      {
+        "text": "whats wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c0c1541-b75d-4438-bf13-f0d5844a0b77",
+    "data": [
+      {
+        "text": "What\u0027s wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ded20363-9e18-4089-bfd6-5bb3f716fbfe",
+    "data": [
+      {
+        "text": "What\u0027s up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f293b04-4560-4523-ab2b-69103ab3826a",
+    "data": [
+      {
+        "text": "what is wrong with you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91e4d624-63e9-4bf7-9ee6-8df68533bb97",
+    "data": [
+      {
+        "text": "what is the problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5b31a5a-23e4-4898-b74c-991f134bcb5a",
+    "data": [
+      {
+        "text": "what brings you here ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57bd499c-7ec0-476f-bf84-ce20e14ff8f7",
+    "data": [
+      {
+        "text": "How can I help you ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e14ef68-2ed2-4aa6-b497-a60b52f84d11",
+    "data": [
+      {
+        "text": "How can I help you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b68b2240-e5f5-46a1-97bb-15dc185ed3f5",
+    "data": [
+      {
+        "text": "How are you feeling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7139c4e1-efff-4ada-afe5-56fa3024aa89",
+    "data": [
+      {
+        "text": "how are you doing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

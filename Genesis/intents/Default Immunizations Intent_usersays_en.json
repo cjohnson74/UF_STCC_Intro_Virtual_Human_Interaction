@@ -1,0 +1,41 @@
+[
+  {
+    "id": "980559d9-6c17-4561-974e-393c937d0491",
+    "data": [
+      {
+        "text": "Did you take your immune shots?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "959310b9-9d5e-4df9-b154-bc07ba482a49",
+    "data": [
+      {
+        "text": "Are you up to date on your immunizations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "593556f2-2a7c-4ef0-a3e3-3dd0a5b391dd",
+    "data": [
+      {
+        "text": "tell me about your immunizations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

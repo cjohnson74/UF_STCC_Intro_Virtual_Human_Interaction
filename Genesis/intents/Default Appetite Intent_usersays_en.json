@@ -1,0 +1,119 @@
+[
+  {
+    "id": "b59c49ae-c139-4a13-9735-add6e34a2296",
+    "data": [
+      {
+        "text": "Do you eat less now as you did before your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8bb53d8-b4ab-43be-a8cf-7b7219e2be87",
+    "data": [
+      {
+        "text": "Are you getting all the nutrition you need?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5b77dc0-6429-4cd2-890b-e5064adf8d48",
+    "data": [
+      {
+        "text": "Do you feel like you eat less?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "022f7c43-c70d-4014-837d-2bf9a54fd785",
+    "data": [
+      {
+        "text": "Do you get full when you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65d31005-4d16-44a3-b1d3-85726c36fe9c",
+    "data": [
+      {
+        "text": "has your appetite changed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "575ac74f-0a7a-4c1c-9e20-5fa934bc06f8",
+    "data": [
+      {
+        "text": "Do you eat less food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aad2963c-3c02-47ae-9933-a8c6e6519375",
+    "data": [
+      {
+        "text": "have you lost your appetite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d87cef73-fc1f-4031-9f78-5e0411604278",
+    "data": [
+      {
+        "text": "Have you had a loss in appetite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "652a4ebf-0642-47a9-a8b3-c50b6c0f34e6",
+    "data": [
+      {
+        "text": "How is your appetite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

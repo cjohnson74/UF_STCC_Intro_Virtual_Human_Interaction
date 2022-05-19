@@ -1,0 +1,28 @@
+[
+  {
+    "id": "594b607a-917e-4f94-9ff9-df07e7c1ca1c",
+    "data": [
+      {
+        "text": "what did you feel when you had the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c98df2e-38ad-49e5-9966-50a4df876130",
+    "data": [
+      {
+        "text": "how did you know you were having a stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

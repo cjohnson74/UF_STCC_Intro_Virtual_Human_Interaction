@@ -1,0 +1,483 @@
+[
+  {
+    "id": "21d71152-74ef-4607-b6e3-9661f0d43d9e",
+    "data": [
+      {
+        "text": "Are any other muscles weak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c62c2b35-b9f0-454b-9775-c8db8fa36b55",
+    "data": [
+      {
+        "text": "Any other things you have noticed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d546d4b8-497f-4fd2-9903-5a502d8dfdd2",
+    "data": [
+      {
+        "text": "Do you have any other symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb9348a6-5e00-4973-b2ee-91b067e68dc5",
+    "data": [
+      {
+        "text": "are there any other symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54da02f4-d64a-4fa4-9711-db6fb6488c37",
+    "data": [
+      {
+        "text": "Do you have muscle weakness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1046c924-5e63-4ed3-b404-f015ea3ea888",
+    "data": [
+      {
+        "text": "What other problems did the brain stem stroke cause?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d113bea0-2407-4a41-9ea9-452c71dc68ee",
+    "data": [
+      {
+        "text": "Do you have any paralysis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c57479e-a18b-4bd1-bd6f-a77496df67fa",
+    "data": [
+      {
+        "text": "Do you have any facial weakness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2da85e8b-1d79-4b2a-8d62-756c83adc38d",
+    "data": [
+      {
+        "text": "Do you exhibit weakness anywhere else in your body?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c2da47c-eaa0-409f-9962-324adeb2b9f1",
+    "data": [
+      {
+        "text": "Do you have any physical disabilities related to that stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3472664-181e-4b7b-b1eb-12c04b9b9e66",
+    "data": [
+      {
+        "text": "Have you had any stroke symptoms lately",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf5d45d6-c67b-4836-a894-16579e2477ec",
+    "data": [
+      {
+        "text": "do you have numbness or tingling in other body parts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0051c912-7366-4db7-b284-b4168603ccb5",
+    "data": [
+      {
+        "text": "Did you have any facial weakness after the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6455322-3f53-4b2c-8582-da60931b080a",
+    "data": [
+      {
+        "text": "any weakness or numbess?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c6906b2-d065-4535-ab28-691fdb7853b1",
+    "data": [
+      {
+        "text": "where else do you feel weakness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "966a9341-54ce-4f01-966b-c6f84ed42d0e",
+    "data": [
+      {
+        "text": "have you noticed any other symptoms due to the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7148c84a-e58b-498e-af43-26fa3452cb9b",
+    "data": [
+      {
+        "text": "Which leg walks funny?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "660fc761-3037-45a0-bba5-6ca724248093",
+    "data": [
+      {
+        "text": "Do you have more weakness since your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6598146e-cda2-42cc-955e-500211a3c41d",
+    "data": [
+      {
+        "text": "Did you have weakness after your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e263da37-7239-4201-876e-8747d7e019d4",
+    "data": [
+      {
+        "text": "Do you feel weak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8386a70-50ab-4a32-90fc-0659571841bd",
+    "data": [
+      {
+        "text": "Do you feel weak everywhere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2a1a87e-63e4-4c04-bea2-019f2a4f2687",
+    "data": [
+      {
+        "text": "Do you have tigtness in your muscles?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8dd2ec2b-9169-4c9d-82b6-b708a8c86602",
+    "data": [
+      {
+        "text": "Do you have muscle tension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f292c738-6f97-4642-8f6b-065163970656",
+    "data": [
+      {
+        "text": "any muscle issues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9375b96-5a47-4b2c-a6f9-d0c814e76d05",
+    "data": [
+      {
+        "text": "Which leg gives you more difficulty?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92cc38c0-0dca-497c-b4bb-3b46c765f676",
+    "data": [
+      {
+        "text": "are you weak on one side of your body?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81330b52-865c-4b09-b266-a6016729c74c",
+    "data": [
+      {
+        "text": "what other problems have you had as a result of your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "176363fc-d76c-49a6-9668-41c0cb6e5c02",
+    "data": [
+      {
+        "text": "what problems did you have after the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb147a49-323e-4a7f-a568-9d260dec8221",
+    "data": [
+      {
+        "text": "Do you have any numbness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d9445cc-aa6a-43a7-8162-b5eda9a28006",
+    "data": [
+      {
+        "text": "Do you have any weakness in your body?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b80bd5f-1edd-4850-849a-5289a8f775ed",
+    "data": [
+      {
+        "text": "Do you have paralysis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9937751-c8fe-4e8e-b585-5be490a6d750",
+    "data": [
+      {
+        "text": "Any motor problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49864884-5335-4bb9-bfe3-095daf9aa05a",
+    "data": [
+      {
+        "text": "Do you have a paralysis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75249722-8de8-4277-a923-bee3de51b6cc",
+    "data": [
+      {
+        "text": "Do you have any paresis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fb99815-42d8-48b1-a838-2b577463e58c",
+    "data": [
+      {
+        "text": "Have you had any other symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8e26f3d-9297-4663-975d-d8859020bff9",
+    "data": [
+      {
+        "text": "do you have any chronic problems from the stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8a31345-f805-4dd6-a876-0769254ce3ff",
+    "data": [
+      {
+        "text": "What other problems did the stroke cause",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,847 @@
+[
+  {
+    "id": "73dd08a9-d675-4bc0-a4fd-6d9c98e9f6a7",
+    "data": [
+      {
+        "text": "Do you have any other health problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ebc4381-da77-4f92-bd8b-97bb4b3277eb",
+    "data": [
+      {
+        "text": "Do you have any diagnoses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32d2a986-5fe6-4e22-8a42-a1ec8a2bf782",
+    "data": [
+      {
+        "text": "Do you have any other illnesses or disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b4b8375-379f-4cd9-b383-f1c3c3b0e44e",
+    "data": [
+      {
+        "text": "Have you had any other medical problems besides the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d16ab94c-fa14-482d-983d-c520734cb813",
+    "data": [
+      {
+        "text": "What is your past medical history?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7f39279-ff24-4564-b843-6d25c5240868",
+    "data": [
+      {
+        "text": "What other health problems do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "154d9c6f-c931-4c23-9bd1-a22c3f827d7a",
+    "data": [
+      {
+        "text": "Do you have other health issues?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f4ba0a8-6403-4ced-bae3-4c3989c4f5e0",
+    "data": [
+      {
+        "text": "Do you have any other illnesses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb1b2d0d-bcb2-4589-a0f2-695a7d85fc86",
+    "data": [
+      {
+        "text": "what have you been diagnosed with previously?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aebd9d63-6e79-41ca-a063-10aa44532113",
+    "data": [
+      {
+        "text": "Any other complaints?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b35d00b-b957-4d81-8b3b-1eb803d87e41",
+    "data": [
+      {
+        "text": "What else can you tell me about your medical history?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "238e2f93-f242-4d87-ad63-58a6d676fd73",
+    "data": [
+      {
+        "text": "Do you have any health problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "491df296-c548-4191-bcd9-6e3a0bb58007",
+    "data": [
+      {
+        "text": "Have you had any other medical issues?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "781ae632-13af-450d-965f-2d0e30476ae2",
+    "data": [
+      {
+        "text": "What problems do you have with hypertension",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e254791-f37a-49e9-b5dd-4de189be21a2",
+    "data": [
+      {
+        "text": "any other medical history I should know about?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "215feca9-010e-4d25-a41c-66ea32bfc3a5",
+    "data": [
+      {
+        "text": "what other concerns do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "815e9c74-a3fb-4f20-890f-6eefb6d17b73",
+    "data": [
+      {
+        "text": "have you had any other problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ffdeea9-17ea-4e2f-a507-2ffb7c4cddd7",
+    "data": [
+      {
+        "text": "Have you had any other serious medical conditions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "401a12ea-662d-4922-96bc-4b1ed191d7b3",
+    "data": [
+      {
+        "text": "Do you have any significant past medical history information I should know about?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00d7ce93-c08f-466f-8a83-55b8e375e82d",
+    "data": [
+      {
+        "text": "why did you have a stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c5c3441-260d-4ec0-affd-e85691485a05",
+    "data": [
+      {
+        "text": "What other medical problems do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f2bcaf3-24e2-4157-aaf9-e3d8604220ba",
+    "data": [
+      {
+        "text": "tell me about your medical history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "975629d5-75c6-4f00-a624-d243dd3661d0",
+    "data": [
+      {
+        "text": "do you have any other issues?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfbae460-3429-4cad-a824-0d0df7678bde",
+    "data": [
+      {
+        "text": "could you tell me about your medical history?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3daafd4-442a-40c3-b295-27e6f2145354",
+    "data": [
+      {
+        "text": "Any other chronic problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49772eb4-1f54-4d63-b5ea-53e40a7d4fb2",
+    "data": [
+      {
+        "text": "what is your medical history?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fd2238e-b54b-42c0-846e-90c002f48814",
+    "data": [
+      {
+        "text": "Is there anything else you would like to tell me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e48a3a26-1cdd-4652-beb1-6d07bb4d564e",
+    "data": [
+      {
+        "text": "do you have any problems for which you take medication",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6af40bb2-8ddc-4e3c-a1f3-c73464a553ba",
+    "data": [
+      {
+        "text": "Are there any other problems you would like to mention?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5340ad82-08f9-4285-9267-3bb5a4e72862",
+    "data": [
+      {
+        "text": "Did you ever have problems before the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22818ad9-577a-4dad-bcc6-4bed68bd27fe",
+    "data": [
+      {
+        "text": "any other health problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "394e5e84-6671-47ff-a9fc-c24e73b80d44",
+    "data": [
+      {
+        "text": "Do you have any other health issues?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffc6bf51-c42b-44f9-bda5-4cf1322b64b5",
+    "data": [
+      {
+        "text": "Have you had any other medical problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30604ff8-b32a-4ee4-8161-dd7c0a01fd8b",
+    "data": [
+      {
+        "text": "any other medical problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2e928e1-c3f7-425f-ac05-5d32a28e095a",
+    "data": [
+      {
+        "text": "do you have any other medical diagnoses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46701384-fcd7-4790-9e67-3147e72ece58",
+    "data": [
+      {
+        "text": "Do you have any other illnesses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73c6c45b-3567-458d-b83c-958fbd8fa08a",
+    "data": [
+      {
+        "text": "Do you have any other health problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "201fd012-7654-4fad-9161-e3bad99ed756",
+    "data": [
+      {
+        "text": "Do you have any pre exising conditions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4054b251-63fb-4706-bc5d-349270aedcef",
+    "data": [
+      {
+        "text": "Do you have any pre-exising conditions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82564d47-3ed0-4d7c-96eb-7eaf4dd26423",
+    "data": [
+      {
+        "text": "Do you have any preexising conditions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ddff5f4-f7ba-46d9-88b5-8ffe0aaae4bd",
+    "data": [
+      {
+        "text": "any previous evaluations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "164795a5-fc4c-4357-b45b-ff609c7ce7a9",
+    "data": [
+      {
+        "text": "other medical history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce81b714-0fea-4fe0-86a7-5b837bb8a87a",
+    "data": [
+      {
+        "text": "Have you had any heart conditions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "088ee834-0a5f-4cad-b0f7-e3c91791c528",
+    "data": [
+      {
+        "text": "How is your health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61691f2e-407d-4d23-90dc-0b3b83b6ce36",
+    "data": [
+      {
+        "text": "Have you had any other problems since the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2be06461-bad0-4ff5-b61f-b8155e5c0d06",
+    "data": [
+      {
+        "text": "Do you have any other complaints?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1e7bec0-c2f1-4260-bc36-152424a90d41",
+    "data": [
+      {
+        "text": "what is your other past medical history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de8e2dd0-c152-44b5-bf36-31978f41d896",
+    "data": [
+      {
+        "text": "How would you describe your general health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf05fbba-9ec1-4ddf-af70-d405f2ac6626",
+    "data": [
+      {
+        "text": "have you had any pre-existing conditions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bad9e239-ae05-49f0-a855-0171de124181",
+    "data": [
+      {
+        "text": "have you ever been diagnosed with any medical conditions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1bd75aa-8698-4cb0-82e2-6e2add8b8200",
+    "data": [
+      {
+        "text": "do you have any chronic illnesses yourself, like diabetes or anything else like that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f8a76c6-7169-410d-b9b7-3e0da6f5d7ba",
+    "data": [
+      {
+        "text": "could you tell me a little bit about your medical history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4996a94-09a1-46ea-a0ac-671ebac89183",
+    "data": [
+      {
+        "text": "are you treated for any medical conditions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53abe52d-4439-49d0-8d7c-95d97c97eb1e",
+    "data": [
+      {
+        "text": "What medical problems do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc553f56-e923-4123-9c49-dec4fdda3d4c",
+    "data": [
+      {
+        "text": "Medical problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cf187ca-908e-4594-87b1-99e7eafcd4dd",
+    "data": [
+      {
+        "text": "have you had any other health problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "831064f5-5fe0-4bd4-affd-728d6d466871",
+    "data": [
+      {
+        "text": "do you have any other medical conditions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "090e07a4-036e-4015-adc3-6d2223badd55",
+    "data": [
+      {
+        "text": "do you have any other problems you would like to tell me about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0af6ba56-777a-4da3-9314-c948c6d70212",
+    "data": [
+      {
+        "text": "do you have any other problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b20a797-a450-4269-8918-6db7dae19d75",
+    "data": [
+      {
+        "text": "do you have any other medical issues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98591d18-94d2-4166-9c82-a542db386305",
+    "data": [
+      {
+        "text": "do you have any other health problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48d0dcc0-9c4a-4da2-8505-3d1233622966",
+    "data": [
+      {
+        "text": "do you have any other health issue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8393cf99-13c0-4cc0-b9fd-79d29508613f",
+    "data": [
+      {
+        "text": "Do you have any medical problems you haven\u0027t told me about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25131d61-463b-43b4-b0b1-6f74b595058c",
+    "data": [
+      {
+        "text": "have you had any major sicknesses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32014949-b118-4f28-b8a8-11c23d874fdf",
+    "data": [
+      {
+        "text": "anything else in your medical history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

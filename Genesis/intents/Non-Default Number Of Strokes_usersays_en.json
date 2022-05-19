@@ -1,0 +1,176 @@
+[
+  {
+    "id": "9d04c365-93b3-4bf9-99f9-71d0174040b7",
+    "data": [
+      {
+        "text": "Have you had other strokes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b51e2964-27b8-4acb-bc7e-02af63bbcba0",
+    "data": [
+      {
+        "text": "Have you had any previous strokes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0e69f86-6462-4274-88ce-ac69d47ac2ea",
+    "data": [
+      {
+        "text": "Only one stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a641bf9-7455-41aa-aa1e-5b2ef1dfe5f0",
+    "data": [
+      {
+        "text": "Have you only had one stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24b4cf2a-d12f-4131-9fb5-330ea858da8e",
+    "data": [
+      {
+        "text": "Have you had more than ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a04aac3a-2bfe-4b8a-ba69-840f0202faab",
+    "data": [
+      {
+        "text": "how many strokes have you had",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53a17a58-5fc0-4ff7-83cf-99c948834995",
+    "data": [
+      {
+        "text": "have you had multiple strokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbf7670e-845f-4be2-9222-8536139261f5",
+    "data": [
+      {
+        "text": "have you had any other strokes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd16a887-26c6-4741-b822-8ff6db5b287a",
+    "data": [
+      {
+        "text": "Did you have a lot of strokes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddd67a89-9db1-4709-865a-9ccbc6ab0be6",
+    "data": [
+      {
+        "text": "Did you have more than ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2153794b-7f11-4863-acf4-0092e4c01666",
+    "data": [
+      {
+        "text": "How many strokes did you suffer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a36f59b-5d3f-410b-9b2d-166978575a7a",
+    "data": [
+      {
+        "text": "How many strokes did you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

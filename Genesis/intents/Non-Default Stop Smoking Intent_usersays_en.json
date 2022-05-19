@@ -1,0 +1,67 @@
+[
+  {
+    "id": "a7026ac5-03fb-4edc-be32-35988f2ab958",
+    "data": [
+      {
+        "text": "What caused you to quit smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f803a2c-7e2e-4acf-8bec-41381ab63a50",
+    "data": [
+      {
+        "text": "What caused you to stop smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67495d96-b1cb-4c1c-b48f-b84aa82065ee",
+    "data": [
+      {
+        "text": "Why did you quit smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc9db84f-3fc4-40fd-9bb4-5ee1f5bbdb9f",
+    "data": [
+      {
+        "text": "Why did you stop smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6a6a16c-b074-4275-a99b-6a2072ca7a70",
+    "data": [
+      {
+        "text": "What made you quit smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

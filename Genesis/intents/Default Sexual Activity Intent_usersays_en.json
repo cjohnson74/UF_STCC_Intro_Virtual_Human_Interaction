@@ -1,0 +1,80 @@
+[
+  {
+    "id": "760c44e9-ed93-4e16-931f-a00e949f6221",
+    "data": [
+      {
+        "text": "Are you married and how is your sex life?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbddaf51-1634-454e-ad24-e321278ea352",
+    "data": [
+      {
+        "text": "Are you sexually involved with your partner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48d6166d-1872-4334-8517-949c0260914e",
+    "data": [
+      {
+        "text": "Are you having sex and how frequently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "458ab5e9-d27c-4fd0-a9e2-87d1a5fc97a7",
+    "data": [
+      {
+        "text": "Are you currently in an active sexual relationship?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e4648e0-4d87-40b9-804e-caab9270b24e",
+    "data": [
+      {
+        "text": "Have you recently had sex?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5f77c67-8d57-41f4-96ec-101323c78dd6",
+    "data": [
+      {
+        "text": "are you sexually active?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

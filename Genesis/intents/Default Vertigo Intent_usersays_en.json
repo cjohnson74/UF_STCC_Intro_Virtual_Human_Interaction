@@ -1,0 +1,67 @@
+[
+  {
+    "id": "322e07dc-c158-49fd-9e32-38a365291d31",
+    "data": [
+      {
+        "text": "Have you been dizzy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f676e14d-145c-4a10-8b67-bd6b1889cbdb",
+    "data": [
+      {
+        "text": "feeling any spinning sensations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79997cc2-78ac-416e-bff2-b7037aa976e4",
+    "data": [
+      {
+        "text": "Do you suffer from vertigo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b3d0bb7-ee5b-4681-8672-2b2a1268be27",
+    "data": [
+      {
+        "text": "Have you experienced vertigo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8574bc6-e14f-4818-b6fb-299957f4b329",
+    "data": [
+      {
+        "text": "do you have vertigo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

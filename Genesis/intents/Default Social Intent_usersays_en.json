@@ -1,0 +1,80 @@
+[
+  {
+    "id": "cbcbc4e0-6a79-4a47-bd71-82087e8da0ab",
+    "data": [
+      {
+        "text": "Is being around others something you love?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ce23b2a-c8af-49ea-b709-148b55d2fbbf",
+    "data": [
+      {
+        "text": "Do you like to go out?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c87fd0d-2170-4dbf-8d95-7f85e5a47970",
+    "data": [
+      {
+        "text": "Do you have a large group of friends?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e16d879a-c058-4e0c-b993-1259abbdaa8a",
+    "data": [
+      {
+        "text": "Getting out and about?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa147d72-d873-4dea-8f0c-5cb922319db8",
+    "data": [
+      {
+        "text": "Socialize much?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffcb6278-a844-4bbf-ad07-4914cb3067e6",
+    "data": [
+      {
+        "text": "Are you social?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

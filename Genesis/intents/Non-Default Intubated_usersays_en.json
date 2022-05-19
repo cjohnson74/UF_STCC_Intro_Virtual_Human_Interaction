@@ -1,0 +1,171 @@
+[
+  {
+    "id": "e619e648-5a06-49e0-bcc2-f0d2e36cb6c1",
+    "data": [
+      {
+        "text": "Were you placed on a feeding tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6675de50-6c08-4dbc-a7bf-3861c7a3a72d",
+    "data": [
+      {
+        "text": "Where you ever on a feeding tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c140ab1b-35cd-41d1-bb76-c49b165209f1",
+    "data": [
+      {
+        "text": "Did you have a feeding tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adbb60b5-b7a5-4ad2-97ef-db5635b43433",
+    "data": [
+      {
+        "text": "Did you have a feeding tube at all while in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd9fb808-7bc9-45fc-b41d-8933c7c62b47",
+    "data": [
+      {
+        "text": "Were you intubated while in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fc5594c-9042-4195-bc19-f52b0448951d",
+    "data": [
+      {
+        "text": "Did you ever have a feeding tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e06b48e-a1c0-40f5-b55b-82a19b031056",
+    "data": [
+      {
+        "text": "Were you entubated?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7c0286a-64b6-4567-a2e6-584e01ec4000",
+    "data": [
+      {
+        "text": "Are you tube fed now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "302dd1ad-455d-423e-b587-8c9730be6351",
+    "data": [
+      {
+        "text": "Do you have a feeding tube now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2de3b98d-8bf5-491c-a7b0-bbcc0eb19b1b",
+    "data": [
+      {
+        "text": "When did you get off of the feeding tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa3076d0-271f-4664-ab36-b0d066c8aa79",
+    "data": [
+      {
+        "text": "Have you ever been on a respirator?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ba8c592-a16f-4153-bf7a-d2d6b28672e4",
+    "data": [
+      {
+        "text": "Were you intubated",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0398507-ec2a-43aa-90b0-0c4d9df7277b",
+    "data": [
+      {
+        "text": "Were you intubated?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

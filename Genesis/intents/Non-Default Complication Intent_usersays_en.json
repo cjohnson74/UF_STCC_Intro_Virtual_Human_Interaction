@@ -1,0 +1,41 @@
+[
+  {
+    "id": "7dc24293-2ced-4ac8-876c-622cd7188a5e",
+    "data": [
+      {
+        "text": "What has happened since the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "260ad6b9-d57f-41b6-afc6-a54452d2bb90",
+    "data": [
+      {
+        "text": "What complications resulted from your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6594fd26-3427-4c03-b37e-e279b47763f9",
+    "data": [
+      {
+        "text": "What has happened since your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

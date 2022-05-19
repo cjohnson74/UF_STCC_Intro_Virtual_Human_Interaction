@@ -1,0 +1,54 @@
+[
+  {
+    "id": "a147b60a-fb78-4b11-9ac4-30e6097f8fea",
+    "data": [
+      {
+        "text": "Have you tried postural adjustments",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "729b6c2e-0ea8-48f1-9d69-af0946d75eaa",
+    "data": [
+      {
+        "text": "Why were you in rehab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "565be01b-6e88-4a91-9bd7-4230603080e2",
+    "data": [
+      {
+        "text": "Do you have any swallowing compensations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e702bec-a841-49a7-83fe-49763bddd0e8",
+    "data": [
+      {
+        "text": "Have you tried any compensatory strategies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

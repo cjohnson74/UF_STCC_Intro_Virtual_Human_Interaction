@@ -1,0 +1,362 @@
+[
+  {
+    "id": "b9f5ba78-0545-48a9-8786-2fe9cfdc441e",
+    "data": [
+      {
+        "text": "How long has your face been numb for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef07f544-6b35-4763-b8e7-1b8787ab6182",
+    "data": [
+      {
+        "text": "When is the last time you had something besides puree?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31518859-0f67-48bc-8346-10d357d15fe9",
+    "data": [
+      {
+        "text": "how long has your face been numb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b651c101-8756-437a-94f7-810c21003e92",
+    "data": [
+      {
+        "text": "when was the last time you had something not pureed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60e035e0-52c6-4bf6-a888-a8bd095f2e8b",
+    "data": [
+      {
+        "text": "When was the last time you ate solid food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52ce4a4f-c69c-4bc2-9945-f03e7e4a8d3d",
+    "data": [
+      {
+        "text": "Has it been long ago that you last had solid food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e656280-fcdd-43ef-89a5-834c84268522",
+    "data": [
+      {
+        "text": "How many months has it been since you\u0027ve eaten solid food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d140d287-7b15-4ff3-8614-a6128c4a9e1b",
+    "data": [
+      {
+        "text": "How long has it been since you\u0027ve eaten solid food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de4e40cb-a92d-4c25-b77f-2a0c6bc214ba",
+    "data": [
+      {
+        "text": "When did you last ate solid food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe071b8e-d02d-47f5-8f2a-9df04042e39a",
+    "data": [
+      {
+        "text": "has it been a while since you\u0027ve eaten solid food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "672e40e3-f435-43ca-bd62-ee23fe17ad49",
+    "data": [
+      {
+        "text": "how long have you been on this diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47cdaff6-1287-438b-ace1-e91f5e051d5f",
+    "data": [
+      {
+        "text": "how long have you been pureeing your food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36b55ef1-c628-4fef-8191-d967e3e9af2f",
+    "data": [
+      {
+        "text": "How long were you able to eat solid food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7796a85e-799d-40a8-82aa-aefbb7146b54",
+    "data": [
+      {
+        "text": "were you able to eat solid foods when you were doing the exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4973b2f-9ef1-49aa-b5ba-7532764f0047",
+    "data": [
+      {
+        "text": "How long have you been unable to eat solid foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a244e92b-d37d-4897-95fe-dd93e3cdd6e0",
+    "data": [
+      {
+        "text": "how long have you been pureeing meals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2af3471d-0398-4a8a-b3ad-29012c0aee89",
+    "data": [
+      {
+        "text": "How long have you been on the pureed diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c50de109-b706-4d61-a23a-f81bd0c25c3c",
+    "data": [
+      {
+        "text": "do you have trouble swallowing intermittently or all the time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1899b75b-2211-4d6f-9027-81a8ec9eb8e8",
+    "data": [
+      {
+        "text": "how long have you been on pureed diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f31b717-2ace-469d-9772-e57a63e2335e",
+    "data": [
+      {
+        "text": "How have you eaten since your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3624d83a-0894-4ec4-a487-69b13a72ae0e",
+    "data": [
+      {
+        "text": "The swallow has worsened in ",
+        "userDefined": false
+      },
+      {
+        "text": "the last three months",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "317a5694-5dbe-40e0-a977-ca83e2683e00",
+    "data": [
+      {
+        "text": "Is the food digested or whole?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81e85783-243f-476e-8349-8c100034e5f0",
+    "data": [
+      {
+        "text": "How long have you pureed your meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56a7e5c8-2599-45ee-862a-86114c1356e8",
+    "data": [
+      {
+        "text": "How long as it been since you began to puree your meals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1a29d8e-63b0-4edc-89a8-d04fae36ff67",
+    "data": [
+      {
+        "text": "How long has it been since you been pureeing your meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cf65883-bd32-407a-9269-e70f2ac60c82",
+    "data": [
+      {
+        "text": "Did you drink your meals for a long time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df6f11d2-3d21-43a7-8e3c-7c2f94d0bc01",
+    "data": [
+      {
+        "text": "How long have you been drinking your meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

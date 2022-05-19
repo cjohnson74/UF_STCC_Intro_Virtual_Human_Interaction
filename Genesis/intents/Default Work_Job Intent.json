@@ -1,0 +1,36 @@
+{
+  "id": "c876bfda-d08f-43ee-9fe3-6f8578c9283b",
+  "name": "Default Work/Job Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am a retired accountant. I used to work for a law firm.",
+            "Nah, I\u0027m retired!  Finally!  I\u0027ve been looking forward to it for years, and now I have this going on!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

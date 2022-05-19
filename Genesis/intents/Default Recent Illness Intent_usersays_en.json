@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2a799490-3c42-41c9-ad38-67000f19f512",
+    "data": [
+      {
+        "text": "Were you recently ill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b459a2a7-edf4-48bc-9498-50881e7a7d59",
+    "data": [
+      {
+        "text": "Have you been ill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf1dcb3a-a83b-4959-86c7-1226a7acf46b",
+    "data": [
+      {
+        "text": "Have you been sick recently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f05d21c7-507e-4b8a-a1f6-d0a1eb391299",
+    "data": [
+      {
+        "text": "Were you sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14e808cb-594b-451d-a47e-0cca1d492d82",
+    "data": [
+      {
+        "text": "Were you recently sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

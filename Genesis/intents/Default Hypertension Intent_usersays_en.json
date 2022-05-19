@@ -1,0 +1,41 @@
+[
+  {
+    "id": "6564af98-67aa-4135-bd6a-91c4c985a8f6",
+    "data": [
+      {
+        "text": "do you have any heart problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29865d01-eb9d-415b-887f-8650ae72e7f8",
+    "data": [
+      {
+        "text": "hypertension issues?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "019cba50-8296-4754-8662-1242da4b4524",
+    "data": [
+      {
+        "text": "Do you have hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

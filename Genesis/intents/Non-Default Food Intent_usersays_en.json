@@ -1,0 +1,314 @@
+[
+  {
+    "id": "ed949830-6c8a-451a-a11b-eb723d7a6978",
+    "data": [
+      {
+        "text": "What were you eating before the puree diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07178fb0-7f09-450f-ae64-53f70a7ae311",
+    "data": [
+      {
+        "text": "What kinds of food did you use to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddd9de3f-4e31-4cc4-83e0-954ea50d519c",
+    "data": [
+      {
+        "text": "What kinds of food did you eat before the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27f38d7f-b3e4-47f4-a212-7f8a0bf871bf",
+    "data": [
+      {
+        "text": "What would you like to be able to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b57c5879-58b7-4d37-86cc-e5d06634886c",
+    "data": [
+      {
+        "text": "Do you like to eat Italian food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c848c12d-a4a7-4a1b-b26f-79d9682b620b",
+    "data": [
+      {
+        "text": "What is your original diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1ace76b-63f4-4087-97cc-7b59aa92d3cd",
+    "data": [
+      {
+        "text": "What is your favorite food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "869533d6-129b-46c6-b9f8-b1f1cb957797",
+    "data": [
+      {
+        "text": "What did you do before you had a stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40a8ef1d-0906-46f2-8ca0-66cd41617334",
+    "data": [
+      {
+        "text": "What kind of foods did you eat prior to the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "686bf209-f3bc-4eec-9d55-2780693acdb9",
+    "data": [
+      {
+        "text": "What types of food did you eat before the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f013542-2438-4a98-bddf-be1a98abb029",
+    "data": [
+      {
+        "text": "Were you able to eat okay before the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d3001b0-1cbf-4549-882d-2b55264c2616",
+    "data": [
+      {
+        "text": "What did you eat before the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3caeb9b1-232a-4ba9-9bb9-416dd1bddea8",
+    "data": [
+      {
+        "text": "What foods do you like?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59bdc4bc-a8d9-4dfe-adc0-71ba2f1c24f5",
+    "data": [
+      {
+        "text": "what do you want to be able to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b624d74-3dfa-400c-b8d4-82a2fe89d849",
+    "data": [
+      {
+        "text": "what foods do you like to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03c1aeea-3fb0-41ac-bf14-5ecf78a14322",
+    "data": [
+      {
+        "text": "what kind of food do you like to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af00ce55-43a9-4917-b227-148b6d049724",
+    "data": [
+      {
+        "text": "what did you eat before",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24b57601-ef49-4443-b286-4f9b49884563",
+    "data": [
+      {
+        "text": "What do you wish you could eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b18e23ca-55e7-4aa0-933b-0ec90e97c91d",
+    "data": [
+      {
+        "text": "What do you have problems swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f89029a0-17b9-4824-9639-06199bcb7981",
+    "data": [
+      {
+        "text": "What types of food did you eat before you began eating puree food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3e78c0c-7503-436a-a24b-78ae0904486f",
+    "data": [
+      {
+        "text": "What kind of food did you eat prior to the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d91625b-64c4-4d76-a69f-d61340bb4a71",
+    "data": [
+      {
+        "text": "Is there anything in particular that you like to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "def2d11a-3403-4998-9739-c622613d5ee8",
+    "data": [
+      {
+        "text": "What type of food do you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "617935a8-7756-4f9c-a720-ac22ab807666",
+    "data": [
+      {
+        "text": "What kind of foods do you like to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "4c8823d5-a7a2-4fa2-95d1-efa06e91afb3",
+    "data": [
+      {
+        "text": "How has your swallowing changed since the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c243422-7451-4fc4-a67b-9651439145db",
+    "data": [
+      {
+        "text": "Has anything else changed after your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "306be7d0-9d9f-422e-a391-875d1bfb041f",
+    "data": [
+      {
+        "text": "What happens when you swallow food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30c0efd2-de38-4759-9011-94def9c4198c",
+    "data": [
+      {
+        "text": "How do you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f0a91f3-84ba-45c7-b8e8-8fb4c1032145",
+    "data": [
+      {
+        "text": "how has your eating changed since the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68616acc-d36f-49ce-bb7c-a511109ef284",
+    "data": [
+      {
+        "text": "how has your swallow change since the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

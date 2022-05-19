@@ -1,0 +1,223 @@
+[
+  {
+    "id": "87b35c62-9cc9-4bcd-8f99-ca45c53a01ad",
+    "data": [
+      {
+        "text": "Right now are you in rehabilitation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5971a23-a050-46de-9a5c-5dfd3d95f3b2",
+    "data": [
+      {
+        "text": "Have you entered rehabilitation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d0fdf9a-e38d-4ce9-80ed-d4ac37e71ec9",
+    "data": [
+      {
+        "text": "are you receiving treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9538207f-2fb5-4d96-9d20-757cc944d28e",
+    "data": [
+      {
+        "text": "Are you in rehabilitation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95f2caab-f620-4d3d-b94a-d6c57879064c",
+    "data": [
+      {
+        "text": "Do you live with anyone?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c2ee126-d3c0-4aca-bf6b-27cd5365aab8",
+    "data": [
+      {
+        "text": "Did you do any therapy after discharge from the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5298f591-66e8-4f75-92cc-b04330b80ca9",
+    "data": [
+      {
+        "text": "who do you live with",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea1ee303-5165-44b8-9295-80c252a3c09a",
+    "data": [
+      {
+        "text": "What did you do after the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71b1e21a-4ce3-4df6-a0b9-dc514319effd",
+    "data": [
+      {
+        "text": "what happened since your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b40a602-e530-4b32-8202-8753b758e866",
+    "data": [
+      {
+        "text": "what happened since you left the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ce11dcb-ff1a-4301-aad0-682495cf4d3c",
+    "data": [
+      {
+        "text": "Do you receive nursing care?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0448d51-9c11-42af-b0f7-783512b49ffe",
+    "data": [
+      {
+        "text": "Do you have a nurse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4079e106-c473-443f-90c8-318359521764",
+    "data": [
+      {
+        "text": "Where do you live now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31ba5bcc-7c3e-418a-9f5d-f56222e8e3c2",
+    "data": [
+      {
+        "text": "Who takes care of you at home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c21cc38-89e2-40f5-932c-0f3760cb340f",
+    "data": [
+      {
+        "text": "Did your wife take care of you after you left the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd2f92f4-9c04-4cbd-855d-b295888b5328",
+    "data": [
+      {
+        "text": "Did you go to rehabiliation after the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed5da800-9691-4954-8457-d51d96fc2203",
+    "data": [
+      {
+        "text": "What happened after you left the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

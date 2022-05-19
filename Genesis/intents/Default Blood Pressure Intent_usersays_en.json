@@ -1,0 +1,401 @@
+[
+  {
+    "id": "7d580ac5-cc7e-4fb7-b5e7-828278e22e32",
+    "data": [
+      {
+        "text": "Do you know your blood pressure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80e8f5ba-780f-4276-995d-cc77af86b9a4",
+    "data": [
+      {
+        "text": "how is your blood pressure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3c921c8-3f26-49dd-9954-5e77bd581ddf",
+    "data": [
+      {
+        "text": "Do you have high blood pessure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "558a1d81-ed13-4d26-8f53-f9d916b189ff",
+    "data": [
+      {
+        "text": "how much was your BP reading",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ccca8ec5-97ce-4545-84e5-7303a8a99ee6",
+    "data": [
+      {
+        "text": "Physexam: Vitals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b22dfdbf-dc73-4497-8c0c-f0dd801ebd79",
+    "data": [
+      {
+        "text": "Physexam: Redo vital signs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c7763b3-aae3-4502-a023-75c08352ab13",
+    "data": [
+      {
+        "text": "Can you tell me your last blood pressure reading",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e900943-b261-4a5e-a77f-1661dfed2f3b",
+    "data": [
+      {
+        "text": "please hold out your arm for taking your blood pressure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c6f4e33-dcf7-42e9-9cdf-65ffe352f98f",
+    "data": [
+      {
+        "text": "Physexam: I\u0027m about to take your B/P",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc80b115-94d4-4ee8-885b-60796e0758c7",
+    "data": [
+      {
+        "text": "Physexam: B/P",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6025d806-671f-4cfc-8b6a-5dd1b0bc041d",
+    "data": [
+      {
+        "text": "i am going to take your blood pressure in ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " arm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01f31945-6496-4c33-9994-8f242ba6c890",
+    "data": [
+      {
+        "text": "i am going to take your blood pressure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22993a47-04da-49f0-bb55-71e0e73b18b0",
+    "data": [
+      {
+        "text": "what is your blood pressure now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75ef051f-0d33-4ef2-af81-e92a0ca0e52c",
+    "data": [
+      {
+        "text": "when you take your blood pressure, what is it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4523711-d4d0-477f-ad7b-2f15ad990cdf",
+    "data": [
+      {
+        "text": "What was your blood pressure when you last visited your physician?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfc0b993-47c8-40ab-bf74-9afa1ac0f35c",
+    "data": [
+      {
+        "text": "What is your normal reading?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e47aba33-bd27-4ef6-80bb-1b8b32af1e0b",
+    "data": [
+      {
+        "text": "what is your current blood pressure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1c24a13-2446-4bf8-98f3-461dfef8bbdd",
+    "data": [
+      {
+        "text": "what is your average blood pressure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67718d1f-6df0-4baa-b7b6-a7be1f583257",
+    "data": [
+      {
+        "text": "what does your machine say",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06b7099e-3aea-41df-a68e-b6e4e9dee03f",
+    "data": [
+      {
+        "text": "what are your blood pressure values",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d408e7ed-7c57-43a3-84b6-ce5a1009e238",
+    "data": [
+      {
+        "text": "what are your blood pressure readings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d43b889e-bc20-4166-891d-8eb38d0a71b8",
+    "data": [
+      {
+        "text": "typical day what is your blood pressure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e13eefd5-8309-4a35-b87b-894c5501724e",
+    "data": [
+      {
+        "text": "what was your blood pressure the last time you took it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4063894e-7138-46a0-b398-b6da503438e9",
+    "data": [
+      {
+        "text": "what is your blood pressure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b30fe563-0ccb-403a-933d-526d0932b78a",
+    "data": [
+      {
+        "text": "What are the results of your blood pressure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46aadf75-5484-4437-a9f7-dca494389279",
+    "data": [
+      {
+        "text": "how has your blood pressure reading been",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "644d6ec9-e030-47fd-84ee-75da2cb2dade",
+    "data": [
+      {
+        "text": "do you take your blood pressure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cbced12-6492-4018-99f6-3c911c546a6c",
+    "data": [
+      {
+        "text": "Do you know what your blood pressure range is?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d743dc6-1fcd-4aa6-a43c-63ffdb176f33",
+    "data": [
+      {
+        "text": "do you know the numbers of your blood pressure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e365c5f-7fbf-49b3-bb0e-ee63b44d272c",
+    "data": [
+      {
+        "text": "can i check your blood pressure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

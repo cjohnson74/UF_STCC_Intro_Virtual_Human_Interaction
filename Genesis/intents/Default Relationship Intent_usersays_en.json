@@ -1,0 +1,119 @@
+[
+  {
+    "id": "7ecde918-7754-4166-84af-11691cacafe9",
+    "data": [
+      {
+        "text": "Are you single or married?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6076acc-b0a7-4284-9a3f-5cdc9749ed84",
+    "data": [
+      {
+        "text": "Do you have a spouse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1244c68-3c1e-45d6-9b12-39388a5826d7",
+    "data": [
+      {
+        "text": "is your wife healthy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "277c5292-ce84-40e2-836f-764a210e9d65",
+    "data": [
+      {
+        "text": "how is your wife",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f64138b8-a23a-47b4-bfd6-4e84e59286d5",
+    "data": [
+      {
+        "text": "how is your spouse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5cf09f3-220c-4de0-ae0f-aa3de4d90b79",
+    "data": [
+      {
+        "text": "how is your husband",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "413e04af-7f06-4081-a3a8-7d5adb6c0b72",
+    "data": [
+      {
+        "text": "do you have a life partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b397e33-2131-467e-bb06-36648c35ac86",
+    "data": [
+      {
+        "text": "do you have a wife",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26492b27-8dc1-485a-8bad-945fcb2b6c1a",
+    "data": [
+      {
+        "text": "are you married",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

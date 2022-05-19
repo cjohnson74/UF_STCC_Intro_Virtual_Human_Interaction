@@ -1,0 +1,36 @@
+{
+  "id": "db4ea9c9-2378-46dd-b09d-d9e329861234",
+  "name": "Non-Default Where Does Food Stick Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It feels mushy, and I can\u0027t always feel food on the right side. It gets stuck in my cheek.",
+            "Food gets stuck in my cheeks, and sometimes feels like it\u0027s going down the wrong tube."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

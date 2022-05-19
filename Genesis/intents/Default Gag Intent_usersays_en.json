@@ -1,0 +1,54 @@
+[
+  {
+    "id": "2d65f10b-6072-49ee-84bb-377956ee274d",
+    "data": [
+      {
+        "text": "Do you have a gag reflex?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e644382-9d4a-46cb-9a4f-fb9e5f08d741",
+    "data": [
+      {
+        "text": "Do you ever gag?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1487f6a-2006-4e55-b03b-0d29081611a4",
+    "data": [
+      {
+        "text": "Do you gag easily?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0aaf28c-e30e-403c-ae5a-b482fa0c39d9",
+    "data": [
+      {
+        "text": "Do you gag?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

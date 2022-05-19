@@ -1,0 +1,80 @@
+[
+  {
+    "id": "4d22f963-f765-4b14-9ea3-555b7c68ab9b",
+    "data": [
+      {
+        "text": "Who is in charge of preparing your food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2cb21c3-755b-4538-8f70-b404c2a86fe9",
+    "data": [
+      {
+        "text": "Who does the cooking for you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0d3758f-acb8-4cf5-9d26-bc1904fb70ab",
+    "data": [
+      {
+        "text": "Do you cook for yourself?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14b032b7-6a5c-4026-b7ce-1ab08b6e26e8",
+    "data": [
+      {
+        "text": "How do you eat your meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "469bd299-c38f-468e-8a8f-ac0f83b4a615",
+    "data": [
+      {
+        "text": "How do you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8986eebd-c9c8-40f0-bd36-9638bd1863d1",
+    "data": [
+      {
+        "text": "How do you feed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

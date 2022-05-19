@@ -1,0 +1,54 @@
+[
+  {
+    "id": "f4a6b82f-4869-4c02-bf7b-357379129d5d",
+    "data": [
+      {
+        "text": "Are you able to swallow on your right side?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efda8a40-3b51-4376-8369-986242ace950",
+    "data": [
+      {
+        "text": "What side do you swallow on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7948dc6-9568-4581-8f9b-3bf4a52f61cf",
+    "data": [
+      {
+        "text": "Do you think you could swallow down the right side of your throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bca1af08-e29b-49c1-b150-ad57c414b67b",
+    "data": [
+      {
+        "text": "Can you swallow on the right?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

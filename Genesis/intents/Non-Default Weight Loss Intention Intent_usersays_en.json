@@ -1,0 +1,54 @@
+[
+  {
+    "id": "b7521804-f5e1-4a61-bd1e-6411e1a9b6a4",
+    "data": [
+      {
+        "text": "Were you planning on losing weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3965c182-b6c7-411a-9a64-acae72c8a6a6",
+    "data": [
+      {
+        "text": "Did you lose weight intentionally?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "800274df-b092-43dc-bbf3-a59bcfe1a8e5",
+    "data": [
+      {
+        "text": "How did you lose weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70a41332-824c-4728-86f6-f620e9cb3837",
+    "data": [
+      {
+        "text": "Was the weight loss intentional?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

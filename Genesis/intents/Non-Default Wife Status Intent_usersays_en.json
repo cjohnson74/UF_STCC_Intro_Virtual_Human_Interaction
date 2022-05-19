@@ -1,0 +1,132 @@
+[
+  {
+    "id": "362b67f3-f1ef-4eec-84e6-c57f34493113",
+    "data": [
+      {
+        "text": "How does your wife feel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b776773e-9e28-4c28-85f3-5de2b132c56b",
+    "data": [
+      {
+        "text": "what does your wife get frustrated over?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af4ab752-dab0-4f1c-9434-69834eeda4b0",
+    "data": [
+      {
+        "text": "Are you and your wife in agreement?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ce38d3f-cf6c-4fbe-9d19-9ff62adf2aae",
+    "data": [
+      {
+        "text": "does she help you eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "030c9add-16f7-4394-8b7a-cd9518b36ce3",
+    "data": [
+      {
+        "text": "How does your wife like taking care of you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcf85f92-9441-43af-817a-36e2e5f2d0c2",
+    "data": [
+      {
+        "text": "Is you wife depressed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d04f3d7-e7db-49d2-af9e-4dde61a97c0b",
+    "data": [
+      {
+        "text": "Is your wife helpful?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15b86090-7557-4112-ad16-b85141b40b5d",
+    "data": [
+      {
+        "text": "Has your wife been supportive ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71ec2f66-6522-4888-98f8-a75ac8337595",
+    "data": [
+      {
+        "text": "Does your wife help you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "424351fa-aa73-484e-953e-ab54eeedb6db",
+    "data": [
+      {
+        "text": "How has your medical problem effected her?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

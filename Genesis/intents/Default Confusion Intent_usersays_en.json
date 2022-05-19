@@ -1,0 +1,197 @@
+[
+  {
+    "id": "a8c17c03-d944-4883-9c26-c8355ae9d0db",
+    "data": [
+      {
+        "text": "Do you lose food anteriorly?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fa68d11-068d-463a-840f-97748fdbd6ee",
+    "data": [
+      {
+        "text": "Do you have COPD?:",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26d7b313-0dee-4f63-9cc1-f89008a0a666",
+    "data": [
+      {
+        "text": "Do you have any trouble dry swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a35f4281-2478-4d66-a487-1886c857a92e",
+    "data": [
+      {
+        "text": "Is there temperature sensitivity?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0eb38153-f57f-4853-9ab6-7a41bf89ca02",
+    "data": [
+      {
+        "text": "do you have any?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b902f5ab-401b-479e-8e5d-63b7050cb5d3",
+    "data": [
+      {
+        "text": "have you ever been scoped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b08d45be-26d5-4f74-a564-88380564e66c",
+    "data": [
+      {
+        "text": "It sounds like you\u0027ve suffered from some nerve damage from your stroke.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66e90542-3c3f-49d9-ba45-5e7757bd7e9f",
+    "data": [
+      {
+        "text": "Are you experiencing any dryness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34855830-0821-4937-8f95-d49170082b3e",
+    "data": [
+      {
+        "text": "Is your cough weak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01918331-2e5f-4e5a-98e4-1028a101eb61",
+    "data": [
+      {
+        "text": "Do you have a wet vocal quality when you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56251476-5722-4931-8862-185ece69514d",
+    "data": [
+      {
+        "text": "Do you have COPD?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85e8d987-545c-415c-aba2-2af9c525eaaf",
+    "data": [
+      {
+        "text": "Do you have dryness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "807740a5-3f22-4106-ba73-015e6cb3732b",
+    "data": [
+      {
+        "text": "Did you have preeclampsia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06f93baf-c542-4e49-9756-9c4f12429982",
+    "data": [
+      {
+        "text": "Do you have halitosis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "879f6f8b-9387-4f10-aa24-d5069518722a",
+    "data": [
+      {
+        "text": "is it a gentle cough?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

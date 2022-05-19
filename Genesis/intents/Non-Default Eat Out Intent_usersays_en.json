@@ -1,0 +1,93 @@
+[
+  {
+    "id": "18687140-2b91-4bb2-bd3d-2099c9d95e08",
+    "data": [
+      {
+        "text": "how often do you go take your wife out to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30f40ba3-3b45-4fe9-a117-e08b4a1a1e9b",
+    "data": [
+      {
+        "text": "do you go out to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d00638d-f652-4e04-88c1-6c09e936cb1c",
+    "data": [
+      {
+        "text": "Do you enjoy restaurants?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1479555b-b0aa-4a14-bb14-f58ff42e13c9",
+    "data": [
+      {
+        "text": "Do you like going out to restaurants?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6deb113-7b5e-4062-99c5-13804b5c0c98",
+    "data": [
+      {
+        "text": "Do you like going to restaurants?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57878537-b085-4643-85ba-867f408d0451",
+    "data": [
+      {
+        "text": "Do you ever eat out?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e0e51ff-5e64-47a8-8c44-6fdb61319545",
+    "data": [
+      {
+        "text": "do you ever go to restaurants?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

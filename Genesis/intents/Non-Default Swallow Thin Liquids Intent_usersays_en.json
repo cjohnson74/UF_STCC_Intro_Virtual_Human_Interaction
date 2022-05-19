@@ -1,0 +1,28 @@
+[
+  {
+    "id": "9651d3e1-b6a9-4642-a659-a4bb6d3cb54b",
+    "data": [
+      {
+        "text": "Are you able to swallow thin liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1767d0ae-e923-4839-ab8c-44425fb6f668",
+    "data": [
+      {
+        "text": "Can you swallow thin liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

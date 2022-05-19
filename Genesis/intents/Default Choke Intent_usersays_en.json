@@ -1,0 +1,587 @@
+[
+  {
+    "id": "bc1b6a54-090c-48e2-8408-4717be3b0200",
+    "data": [
+      {
+        "text": "any choking incident",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76f5cba9-8241-4477-9ff0-c0ce1c340678",
+    "data": [
+      {
+        "text": "tell me about choking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8038659d-8d46-4559-a686-7484eeeb3122",
+    "data": [
+      {
+        "text": "tell me about your choking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75eeae7d-d483-4880-a66d-1ce70f064fdd",
+    "data": [
+      {
+        "text": "Have you had any problems with choking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4e4f89c-842b-463f-9a77-2e9ecc71ccd5",
+    "data": [
+      {
+        "text": "Do had a hard time swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1adf60df-0d4a-403e-a5e8-3f3782b127f2",
+    "data": [
+      {
+        "text": "Are you having issues with choking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43a029b8-db3f-4811-8fcc-1001b7d9ec89",
+    "data": [
+      {
+        "text": "Have you experienced any choking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25841abe-de97-4db1-819f-aa92a4048ce9",
+    "data": [
+      {
+        "text": "any choking sensations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7e64161-afd5-4300-ba7f-cbfd7dca6f1d",
+    "data": [
+      {
+        "text": "Are you choking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc9767c6-d151-40e3-8ed4-517dbc624fe0",
+    "data": [
+      {
+        "text": "Do you ever feel like you\u0027re choking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ea4e794-f9c6-4b69-bc92-6c2a3adcc03c",
+    "data": [
+      {
+        "text": "Do you choke on your pureed food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a00574a8-3c0a-4039-9108-44324c56a4ed",
+    "data": [
+      {
+        "text": "Do you choke on solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0ab2b6a-4fc5-473b-8235-2d61db369c3b",
+    "data": [
+      {
+        "text": "do you cough or choke when eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4310066d-bfb8-4fb4-bf72-c08d65c7251f",
+    "data": [
+      {
+        "text": "do you feel like you choke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64711728-da80-47f9-aaf3-44593ce52460",
+    "data": [
+      {
+        "text": "how frequently do you choke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc916090-69da-4aaf-9cc5-fccd1cb06f71",
+    "data": [
+      {
+        "text": "do you choke when you drink the pureed food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "608cab49-b3db-413f-972b-6cc08ec52ac6",
+    "data": [
+      {
+        "text": "Do you choke on food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf2a028f-cb8e-4fc3-85bb-ec1037f23112",
+    "data": [
+      {
+        "text": "Do you choke with every meal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8079f5c2-67c6-4fe9-ac7b-f9296a7ccac6",
+    "data": [
+      {
+        "text": "choking on food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11643d38-0dca-4149-a5f5-3b824fbdc97e",
+    "data": [
+      {
+        "text": "Do you choke on your pureed diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0e93a3f-b1f9-4613-bab0-90fe304255e9",
+    "data": [
+      {
+        "text": "Do you choke a lot on food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3d13984-88bc-48b3-8655-50589a7a1a6b",
+    "data": [
+      {
+        "text": "do you choke on foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "374c768a-50a5-4e42-8589-1a04dd34cdb2",
+    "data": [
+      {
+        "text": "have you choked?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01d1dd0b-a215-4499-a17d-c666cd54cc1d",
+    "data": [
+      {
+        "text": "And you choked?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35cfcbe7-9701-4e19-b25d-e7ef073bfaa9",
+    "data": [
+      {
+        "text": "Do you choke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eaa3adaa-dbbf-48ad-863e-174741a53cbe",
+    "data": [
+      {
+        "text": "What happens when you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "654c9d1a-a155-4695-b864-f572f1db5f3d",
+    "data": [
+      {
+        "text": "Do you choke on your food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "404c08ad-1db0-42bd-b134-3184d2741cbd",
+    "data": [
+      {
+        "text": "Do you choke when you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7243a4c1-7bec-461d-8572-ce1272ec1bd7",
+    "data": [
+      {
+        "text": "How often to you cough/choke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "beebbfbb-0807-49a3-a33a-c3e91f30ef12",
+    "data": [
+      {
+        "text": "how often to you cough when you swallow liquids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f9f3e8c-9679-4a21-8d84-d5b5db0c2927",
+    "data": [
+      {
+        "text": "How often do you cough when swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c7587f9-99a1-4825-851d-fcb0b5d713f7",
+    "data": [
+      {
+        "text": "How often do you cough?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ea3123e-4f55-46fa-8f5d-4a383d8e998d",
+    "data": [
+      {
+        "text": "How frequent are your swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "531d3d95-df20-4271-a36f-816a30c5d598",
+    "data": [
+      {
+        "text": "Does this happen every time you drink?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fba37f30-f454-4367-a025-627d8b2c6800",
+    "data": [
+      {
+        "text": "are your swallowing difficulties with every meal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7013d8d8-b171-4926-bf81-9c745a97d175",
+    "data": [
+      {
+        "text": "Do you ever cough or choke during meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d886eddc-3c5b-4a5a-9f32-41717dfbbba3",
+    "data": [
+      {
+        "text": "How frequently do you have difficulty swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e6f9ec2-5553-41bc-b54d-a006e4d64213",
+    "data": [
+      {
+        "text": "do you have problems at every meal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a8ef645-a863-478f-8819-e4b87aca9636",
+    "data": [
+      {
+        "text": "Does the swallowing difficulty happen at every meal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fdb4261-7c40-4923-80b5-91f601a6493b",
+    "data": [
+      {
+        "text": "When do you have difficulty swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0c31041-8ef8-44c3-8a48-f4a13ba9df46",
+    "data": [
+      {
+        "text": "Do you feel like you\u0027re choking a lot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9257fda5-0187-4860-9c03-a97e7661efd9",
+    "data": [
+      {
+        "text": "When do you feel like you\u0027re choking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83c61ad8-ebb2-4388-90a7-73a44e3a51ce",
+    "data": [
+      {
+        "text": "Do you choke often?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e846e36f-1403-45ec-97ca-fe19c4d74d32",
+    "data": [
+      {
+        "text": "Do you choke during each meal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "917fc1b6-008d-4d06-838a-4745ae3f3069",
+    "data": [
+      {
+        "text": "How often do you choke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "6dc9e838-7775-469d-ac77-5b6bfb1c1380",
+  "name": "Non-Default Time eating pureed food intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I started eating pureed foods nine months ago, and then began to eat solids. I\u0027ve been eating pureed foods for the past three months.",
+            "Well, when I got out of therapy I was eating some foods. Then things got worse, so maybe 3 or 4 months.",
+            "Three or four months.",
+            "I guess its been three months."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

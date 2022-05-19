@@ -1,0 +1,41 @@
+[
+  {
+    "id": "d1983299-72e1-4b12-8660-860ba6a24118",
+    "data": [
+      {
+        "text": "Do you experience headaches?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f360c6a5-ce57-4134-a86f-a065185eb96c",
+    "data": [
+      {
+        "text": "Do you have headaches?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "768a4592-3ca6-4aed-bd79-c842a47941dd",
+    "data": [
+      {
+        "text": "do you have migraines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

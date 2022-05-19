@@ -1,0 +1,158 @@
+[
+  {
+    "id": "9fcb7280-5c57-4c0f-bbf1-3aa01247eae3",
+    "data": [
+      {
+        "text": "is there pain when you swallow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff681f2e-a75b-4367-8327-b68b86500eaf",
+    "data": [
+      {
+        "text": "Does eating hurt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dcce832-faba-4ef9-96c7-137d3ef86201",
+    "data": [
+      {
+        "text": "Does your chest hurt following eating or drinking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42d18c9b-fd29-4d36-9218-4766ed3cbe70",
+    "data": [
+      {
+        "text": "Is there any pain when you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7eb44b86-0462-4097-9460-0b80a0098065",
+    "data": [
+      {
+        "text": "Do you have any pain when you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2532c583-cb87-4cd1-b1cb-caebf00f98f6",
+    "data": [
+      {
+        "text": "do you have pain when you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d357716b-b65a-4051-a500-02bd24682d09",
+    "data": [
+      {
+        "text": "Does drinking hurt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fca75b74-ed05-43cb-b843-7ad6e47dcf9a",
+    "data": [
+      {
+        "text": "Does something hurt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42c9484e-a210-4e1f-bb39-00b8a8930403",
+    "data": [
+      {
+        "text": "Does it hurt to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eadede78-8d6a-403a-a79a-6873dcf57f79",
+    "data": [
+      {
+        "text": "Does is hurt to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efbb06dc-31f3-4b4e-80c4-5f2bd201f57b",
+    "data": [
+      {
+        "text": "Is it painful to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2627081-31ce-44c0-b8b4-201b4aa6e16a",
+    "data": [
+      {
+        "text": "Does it hurt when you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

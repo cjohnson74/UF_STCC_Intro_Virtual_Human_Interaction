@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d3359eb9-88a2-4386-a788-9f284a0d8df6",
+    "data": [
+      {
+        "text": "Let\u0027s talk about your arthritis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f6a58a7-df82-45ad-b380-393bb5d689c3",
+    "data": [
+      {
+        "text": "Do you suffer from arthritis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97acd0c3-2e29-4582-aabb-30916687be34",
+    "data": [
+      {
+        "text": "Have you been diagnosed with arthritis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec2c8946-a914-4120-9e95-a7dd45c3ca24",
+    "data": [
+      {
+        "text": "Are you experiencing arthritis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3a4ec39-8fd4-446f-aad0-cda1141a2557",
+    "data": [
+      {
+        "text": "Do you have arthritis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b99ec1cc-5619-4050-9902-f91c440740c5",
+    "data": [
+      {
+        "text": "tell me about your arthritis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

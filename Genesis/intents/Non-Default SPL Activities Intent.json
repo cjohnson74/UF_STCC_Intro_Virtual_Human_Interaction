@@ -1,0 +1,35 @@
+{
+  "id": "9da5c9ef-ecbc-4da4-ac8a-5275c2c91a25",
+  "name": "Non-Default SPL Activities Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The therapist had me turn my head to swallow. She changed my diet.  She used to tell me to swallow as hard as I could. Oh yeah, she also used to have me hold my breath and swallow."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

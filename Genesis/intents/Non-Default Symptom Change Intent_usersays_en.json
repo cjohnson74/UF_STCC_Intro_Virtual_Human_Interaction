@@ -1,0 +1,54 @@
+[
+  {
+    "id": "a65f88a5-c14a-47ac-8d8d-8d21a52c912a",
+    "data": [
+      {
+        "text": "Have your symptoms gotten better?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc492ff9-9516-4d2b-bc7c-2e182c91066c",
+    "data": [
+      {
+        "text": "has your swallow changed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce9d5481-bc3a-4aeb-9a9f-a1c5a21e5a9f",
+    "data": [
+      {
+        "text": "have your symptoms changed since you\u0027ve left the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7462f7f-365a-4930-b044-8cd656a3a146",
+    "data": [
+      {
+        "text": "how have your symptoms changed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

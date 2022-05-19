@@ -1,0 +1,80 @@
+[
+  {
+    "id": "bc5c6e92-43de-4f88-a8b5-8efc1989503b",
+    "data": [
+      {
+        "text": "What\u0027s your birthdate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef7fca45-1a5d-422e-b6c7-0bc9dee3f725",
+    "data": [
+      {
+        "text": "Please tell me your date of birth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9f3380f-1059-427d-9ef1-dd4a8d1acc96",
+    "data": [
+      {
+        "text": "When were you born?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd8ad2ed-2b82-4e18-8572-5523946b5624",
+    "data": [
+      {
+        "text": "What is your month, day and year of birth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fd1dacf-b175-4e64-a587-3be46923ae05",
+    "data": [
+      {
+        "text": "Whats your DOB?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "347a9cbb-92da-44a1-bd43-c1a42cd94d9f",
+    "data": [
+      {
+        "text": "What is your date of birth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

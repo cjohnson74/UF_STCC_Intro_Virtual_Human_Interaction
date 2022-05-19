@@ -1,0 +1,444 @@
+[
+  {
+    "id": "39e9c944-3074-4d50-9e87-0ff64b7d4d83",
+    "data": [
+      {
+        "text": "any change in medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f020c086-8d0c-48ca-9806-34ea49842e46",
+    "data": [
+      {
+        "text": "do you have a family history of swallowing problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bed224f-7ca1-4008-8a4c-e657367af737",
+    "data": [
+      {
+        "text": "Are there any movements that help you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff02073e-edc2-4347-8821-63dcab71b4f6",
+    "data": [
+      {
+        "text": "Do you have any other digestive problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce1f8ec2-13d8-4874-9205-c769eeeceb60",
+    "data": [
+      {
+        "text": "did you have any other problems following your brainstem stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61f0f6c8-82b6-46fc-836b-aa92f8cd7974",
+    "data": [
+      {
+        "text": "Do you have an reflux?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b658eaee-5133-4c0b-a93b-7ca0ee287ef5",
+    "data": [
+      {
+        "text": "do you experience reflux?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96d2f53b-cfa7-43fd-a139-9333c7002920",
+    "data": [
+      {
+        "text": "Do you aspirate food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ce978b5-8744-43bd-9e1c-9a3cb4dd0131",
+    "data": [
+      {
+        "text": "Respiratory doctor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0563af0-4b25-4a05-a141-f42a06c2960b",
+    "data": [
+      {
+        "text": "did you have problems swallowing before the TIA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc845720-1f38-4f4a-acf3-7cc168e0c6ac",
+    "data": [
+      {
+        "text": "Did your speech therapist have you try a chin tuck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1d8b0b7-79fd-4b16-bee1-2ebe6d644672",
+    "data": [
+      {
+        "text": "Do you ever tuck your chin while eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0508610d-dac4-4430-b022-1d60a20479e6",
+    "data": [
+      {
+        "text": "Any problems with the medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9642454-38b9-42c4-8799-27fb3ae011cb",
+    "data": [
+      {
+        "text": "Have you had any changes in medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "849fcb88-c0f0-4009-87bd-46a7a05225fc",
+    "data": [
+      {
+        "text": "Do you take any over the counter meds?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d52fb3c6-6c63-498d-b82b-17daf345653d",
+    "data": [
+      {
+        "text": "do you have any family with swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "463baa9b-ae34-42b6-862d-e6f3d504233e",
+    "data": [
+      {
+        "text": "do you have any reflux?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f17b031b-84bc-4311-b486-9706e5297142",
+    "data": [
+      {
+        "text": "do you have any family history of swallowing problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5bc2283-c5ab-404e-bbb7-af8ccd3b83ba",
+    "data": [
+      {
+        "text": "Do you take over the cpunter medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7328aab2-41c7-4850-bb6c-4e49ee0c2d89",
+    "data": [
+      {
+        "text": "Does anyone in yur family have swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a19e254-0cce-4f45-b888-7537d1a22867",
+    "data": [
+      {
+        "text": "Do you have indigestion?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db8246f5-ada0-44bc-8ad4-77d802d2b7f7",
+    "data": [
+      {
+        "text": "Do you have any signs of another stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a32c0e17-b1b9-4a35-9d96-d089a50e58a9",
+    "data": [
+      {
+        "text": "Did you have problems with your swallow before your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88941956-3bbb-4f9d-915b-bda570c1a8a8",
+    "data": [
+      {
+        "text": "Have you had a change in medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "306ae610-dbf0-4d63-ae15-a6888efc1258",
+    "data": [
+      {
+        "text": "Any change in medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "baf32b56-9c51-4230-a662-aaac7db57671",
+    "data": [
+      {
+        "text": "Is there a history of cancer in your family?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9516923-7937-4eb4-a39e-93594fcd828f",
+    "data": [
+      {
+        "text": "Does your family have a history of swallowing problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f95bb3e3-533d-4538-b2d6-75dfe1ee9204",
+    "data": [
+      {
+        "text": "do you have family hx of stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98a3c6e8-0860-458f-a7bc-451565b322f9",
+    "data": [
+      {
+        "text": "do you ever regurgitate food that still looks like food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1abed6c8-e8d3-4b73-83a7-34e6c9b3e41c",
+    "data": [
+      {
+        "text": "Has the doctor prescribed you anything else?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1badf813-023c-426f-9d69-18317cfe20a0",
+    "data": [
+      {
+        "text": "are there any movements that you use to help during swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9bb36a8-8d26-4c5c-a1aa-0841d1870f8f",
+    "data": [
+      {
+        "text": "do any of your family members have swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43cf0f9e-832e-4a8d-891e-b710a8589957",
+    "data": [
+      {
+        "text": "Do you take over the counter medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d9911f2-9010-4576-88f6-1ba731b0981d",
+    "data": [
+      {
+        "text": "do you take any over the counter medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

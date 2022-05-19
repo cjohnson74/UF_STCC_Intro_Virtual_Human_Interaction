@@ -1,0 +1,28 @@
+[
+  {
+    "id": "f99827dd-3f53-4109-932c-c81920004e62",
+    "data": [
+      {
+        "text": "any underlying disorder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8dca4714-8005-4151-8e8b-97a1b910934c",
+    "data": [
+      {
+        "text": "Do you have any disorders?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

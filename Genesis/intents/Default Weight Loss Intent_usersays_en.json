@@ -1,0 +1,609 @@
+[
+  {
+    "id": "0beabace-550b-4a9d-baab-f178009f14bd",
+    "data": [
+      {
+        "text": "Do you have concerns about your weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8064c1c-c95f-4fef-ba35-9161ab745662",
+    "data": [
+      {
+        "text": "Do you have worries about your weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d094b886-7cbe-4615-935b-98883e672a47",
+    "data": [
+      {
+        "text": "What about your weight concerns you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e31cd956-15c9-453d-948e-95e72beb0540",
+    "data": [
+      {
+        "text": "What about your weight worries you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "306941be-fdb6-4e47-bed3-ba93ff809111",
+    "data": [
+      {
+        "text": "Does your weight concern you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33975c6d-2ea1-4df7-a7a9-b6f1be3dca00",
+    "data": [
+      {
+        "text": "Does your weight worry you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9994d0af-3ea6-45cd-80da-b0a6c4009c44",
+    "data": [
+      {
+        "text": "Are you concerned about your weight loss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2095edc0-ed33-4525-8416-4afb072e50cf",
+    "data": [
+      {
+        "text": "Are you worried about your weight loss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8093b82a-50f7-4cee-a557-dfdde799dd2a",
+    "data": [
+      {
+        "text": "Are you concerned about your weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e18d390d-8c16-4216-9de8-f0cc7f76b2cb",
+    "data": [
+      {
+        "text": "Are you worried about your weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e7614d4-55d3-4eff-9208-9ee65a746c8c",
+    "data": [
+      {
+        "text": "How much did you weigh before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ec05fc3-5f2e-4dce-b659-722aca8cff8d",
+    "data": [
+      {
+        "text": "have you lost any weight recently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18a44b16-8ba7-4f2f-9074-45d96e4a4c35",
+    "data": [
+      {
+        "text": "have you lost weight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6748cc58-777c-4bfc-a4a2-b9d2ad8ee2a8",
+    "data": [
+      {
+        "text": "Have you experienced weight loss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "051b8b7e-82c3-4b5a-91d4-021e5e2009a6",
+    "data": [
+      {
+        "text": "Have you noticed any weight loss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb951679-76f5-4ff2-a9af-010e06adb1c7",
+    "data": [
+      {
+        "text": "Have you had any unexplained weight loss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9752dce9-9926-43e5-9ec6-ce68cd27b8c1",
+    "data": [
+      {
+        "text": "Are you losing weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c405445-fe8a-4673-b1eb-b8390ea96809",
+    "data": [
+      {
+        "text": "I\u0027m sorry. Have you lost weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3ce52b5-a0b6-40cb-904f-81497f1bdd16",
+    "data": [
+      {
+        "text": "Have you lost weight in ",
+        "userDefined": false
+      },
+      {
+        "text": "the last year",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce1cb13b-9cc1-4757-8e94-6321db0f0dd7",
+    "data": [
+      {
+        "text": "Has the weight loss been gradual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bdca01a-6822-4f96-82e0-9c310d56f6e4",
+    "data": [
+      {
+        "text": "Have you had any unintentional weight loss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a066da3-307c-466e-a5ed-89ff69fc72e7",
+    "data": [
+      {
+        "text": "any weight loss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be703958-6cf0-46e9-8ebb-06560e04390a",
+    "data": [
+      {
+        "text": "have you had any weight loss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f692423-4c4f-42ce-aee3-b68397d493fb",
+    "data": [
+      {
+        "text": "Have you had unintentional weight loss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ddf02c0-6aee-49d5-a9b3-dcf583d6cb18",
+    "data": [
+      {
+        "text": "Over how long did you lose weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5966016d-72de-4056-a70a-c82975198c15",
+    "data": [
+      {
+        "text": "Have you lost weight due to the problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76548ddd-d370-4874-9e64-116f0e3bf5bc",
+    "data": [
+      {
+        "text": "have you lost any weight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24153ebf-7e39-409f-b9a9-d7e6c72196e6",
+    "data": [
+      {
+        "text": "Have you lost weight since your stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ba16b50-e357-4574-9ffa-a5da039bbf4a",
+    "data": [
+      {
+        "text": "Have you recently lost weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "219fd0ca-2a83-4468-ba2a-320245b78415",
+    "data": [
+      {
+        "text": "Have you had any recent weight loss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1de77119-429b-4ee8-adc4-8edab57c746b",
+    "data": [
+      {
+        "text": "have you had any recent changes in weight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54f3e1de-86d2-4ec4-8637-0dfad89501e3",
+    "data": [
+      {
+        "text": "Have you lost any weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "495292e4-53e3-464d-92b6-5012162cb840",
+    "data": [
+      {
+        "text": "Have you had any weight changes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c942a484-80d8-45ab-9002-b14b18095c06",
+    "data": [
+      {
+        "text": "have you lost weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "062a9717-4f25-4b75-a129-472a590e62ab",
+    "data": [
+      {
+        "text": "lose weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "738e90fb-b908-43a1-92eb-2f769c14b7e5",
+    "data": [
+      {
+        "text": "do you have unexplained weight loss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9db4e842-e064-43bb-964f-9ff47ff4ca97",
+    "data": [
+      {
+        "text": "Have you lost weight recently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4589b278-e82b-40a9-9e85-96da6696123f",
+    "data": [
+      {
+        "text": "any weight gain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "604467f3-82e8-4a6c-96da-e89bc4a8cf48",
+    "data": [
+      {
+        "text": "Have you tried to lose weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e067138-e7f1-45c0-8ca1-4e33a0dfc8c2",
+    "data": [
+      {
+        "text": "Were you on a diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ead4f3f1-2308-4ac3-b2a1-bc95665d446c",
+    "data": [
+      {
+        "text": "Was the weight loss intentional?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c530744-5230-4e3e-bdbb-956ffa4cfef7",
+    "data": [
+      {
+        "text": "have you been losing weight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c104ba9-4d9a-461c-8e28-e09896d7bd93",
+    "data": [
+      {
+        "text": "has your weight changed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "510595ac-03a8-48fe-9002-e350267773fe",
+    "data": [
+      {
+        "text": "Did you lose weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bb49fef-f8b2-49fc-a4c0-4517911c7d3d",
+    "data": [
+      {
+        "text": "How much weight did you lose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79cb8053-dd0b-4574-b84b-077de587bb30",
+    "data": [
+      {
+        "text": "Have you experienced any weight lost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

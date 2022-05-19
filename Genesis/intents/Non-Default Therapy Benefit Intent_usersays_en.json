@@ -1,0 +1,583 @@
+[
+  {
+    "id": "84cb9d97-f054-45f1-b292-0d1f1bf30fab",
+    "data": [
+      {
+        "text": "Well we can work on exercises that can help improve your swallow and eventually get you back to eating more kinds of foods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eda13947-d15d-4420-9d62-4629913b86f7",
+    "data": [
+      {
+        "text": "Did you speech therapist help you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4683e300-251c-4c83-9b44-587c053aa0c6",
+    "data": [
+      {
+        "text": "I would suggest that you start doing your exercises again and come back and see us ",
+        "userDefined": false
+      },
+      {
+        "text": "in one month",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " if you feel your swallow isn\u0027t improving.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3013deec-50b5-474c-9c1e-ff3abd6d7c6c",
+    "data": [
+      {
+        "text": "Will you be able to do swallowing exercises now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89534c53-b313-49fd-928e-25f466d5036d",
+    "data": [
+      {
+        "text": "Did you find that it helped at all?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b54af9d-8fc9-4cf8-9d1e-8e2b22ba7a5c",
+    "data": [
+      {
+        "text": "Would you be willing to do exercises again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1ed398e-1b38-49a2-9eec-5745f72ddedd",
+    "data": [
+      {
+        "text": "Did that therapy help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1de396ab-2aa5-4c3f-9f09-d2ae8037841c",
+    "data": [
+      {
+        "text": "Did the therapy help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9de0d301-ccea-47e0-8735-0db337eaf831",
+    "data": [
+      {
+        "text": "Did you see any improvment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7fc5225-87e0-4ebc-b507-fa14566bd032",
+    "data": [
+      {
+        "text": "Did the swallowing exercises seem to help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "349ce876-9895-46f4-aae3-e54ec6e5ec11",
+    "data": [
+      {
+        "text": "The exercises are crucial to rehabilitation. Do you think you can start working on your exercises again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65abcffb-c0b8-47a6-9242-289ca73d5290",
+    "data": [
+      {
+        "text": "Would you like to get therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e0ed956-be76-47cc-b157-2eff3dce3682",
+    "data": [
+      {
+        "text": "I think you should go back to therapy and start doing your exercises again.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a4e36e0-1f48-4d70-b335-e79d5b84080d",
+    "data": [
+      {
+        "text": "Did any help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06b7df3d-17b7-4c73-b246-80eb3b0714fa",
+    "data": [
+      {
+        "text": "It is important to do your exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "141b8cc2-cdd0-4c0d-9831-de481466da2f",
+    "data": [
+      {
+        "text": "I really recommend that you continue your swallowing exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2aad1a0-86ae-4bec-8529-24d8b8559e9b",
+    "data": [
+      {
+        "text": "Can you start therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1b29828-b304-4c31-8978-bb6bdc623f94",
+    "data": [
+      {
+        "text": "Do you want to do therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94991561-9ad3-47a9-bcf8-b0815aa87de8",
+    "data": [
+      {
+        "text": "Are you willing to do exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f5d2148-a5c7-40df-ac99-847aa23f1edb",
+    "data": [
+      {
+        "text": "Are you willing to attend therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a6b68df-c710-4f61-9ad5-9e27662cbfae",
+    "data": [
+      {
+        "text": "Would you be willing to go back to therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77de997a-3a10-461d-99b6-5e1a69d8fa1b",
+    "data": [
+      {
+        "text": "Did the chin tuck posture help you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2847ac31-a0a1-467b-a237-2832baff378d",
+    "data": [
+      {
+        "text": "did it help in therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd490f03-9e27-496c-ac9e-d2cc60fdc2a6",
+    "data": [
+      {
+        "text": "did the therapy help your swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af154cd7-863c-4086-a65d-10de9c71fd76",
+    "data": [
+      {
+        "text": "did the swallow therapy work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00d0675e-d182-4c18-916c-67b7a41c6a6a",
+    "data": [
+      {
+        "text": "did that work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bf0f31d-ffd2-4eb2-97cf-892ecf849c11",
+    "data": [
+      {
+        "text": "are you interested in therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90872f4a-a06c-4ba4-82ca-62e6e96e1a1f",
+    "data": [
+      {
+        "text": "Do you feel like you would benefit from therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46c21e71-4e1b-44e5-a881-90f69aa021c2",
+    "data": [
+      {
+        "text": "did that help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc3ec084-8505-4a1d-8e31-fe04db3f0982",
+    "data": [
+      {
+        "text": "That\u0027s good. It sounds like you need some help getting back on track with those exercises. That will help you get closer to the life you wanted.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69830009-bc33-4828-95c6-098f3a4b45e7",
+    "data": [
+      {
+        "text": "Does the therapy help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57c059e5-be09-4762-a1e6-c091ccad5216",
+    "data": [
+      {
+        "text": "Did it help then?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0ec3399-fc35-43a5-8fa0-80b45c8359fd",
+    "data": [
+      {
+        "text": "Did they help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4bfe9c5-85bc-407e-8661-8b57d760bcb5",
+    "data": [
+      {
+        "text": "Did the exercises seem to help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6aec663-3519-48b8-879d-33c2a4605394",
+    "data": [
+      {
+        "text": "we can try to do those exercises together",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ef8354d-e754-4bc1-94ff-ec6e4170c93b",
+    "data": [
+      {
+        "text": "we can try exercises to improve your swallowing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3c70338-ecc3-4ed2-a9f9-0ce98230ff05",
+    "data": [
+      {
+        "text": "would you like to try therapy again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01029701-4fe5-44a8-b66c-6ac1401fb655",
+    "data": [
+      {
+        "text": "would you be interested in some swallowing therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96e6fb04-f2f0-4410-abb7-ace4ad36164b",
+    "data": [
+      {
+        "text": "How was your swallowing when you were doing the exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ab2c1c5-357b-4775-8b42-fe57d67da3f5",
+    "data": [
+      {
+        "text": "Had therapy helped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e6d0800-54e0-492a-b917-20f5c8bcfec2",
+    "data": [
+      {
+        "text": "did speech therapy help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71705af5-ce3d-4798-879d-47f90cf59af8",
+    "data": [
+      {
+        "text": "Did it help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "869ee595-bdef-4908-994c-6c6c54c09071",
+    "data": [
+      {
+        "text": "has the therapy helped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4084b8f6-2d14-4ddd-b0d8-a351ba153356",
+    "data": [
+      {
+        "text": "Did therapy help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

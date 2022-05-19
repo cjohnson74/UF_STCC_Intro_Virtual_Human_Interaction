@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1decc8c3-0424-4a87-a3fb-1c7fa6f2613f",
+    "data": [
+      {
+        "text": "Who told you what the problem might be?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d1acd5b-90b4-49cd-988c-5f511b1227ac",
+    "data": [
+      {
+        "text": "Who treated you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b733936b-c96e-410c-a5bf-4802cd355308",
+    "data": [
+      {
+        "text": "From whom did you learn of your illness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6c6b8da-9562-4f91-b865-091be6c9108e",
+    "data": [
+      {
+        "text": "Who told you you were sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fb70fb0-5aa4-43ba-934d-ff016fcfa893",
+    "data": [
+      {
+        "text": "Who gave you your diagnosis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "940debc1-155e-4503-b99d-c014b36ef73a",
+    "data": [
+      {
+        "text": "Whom diagnosed you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96fe7347-48b4-4b53-899c-49c2f3e6d4d1",
+    "data": [
+      {
+        "text": "Do you remember who diagnosed you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "edf7d039-558e-4ea9-8b01-5af41fcaa665",
+    "data": [
+      {
+        "text": "Who did you see?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8f3041b-522c-49ae-a494-22022a9ed874",
+    "data": [
+      {
+        "text": "Who is caring for you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "302abe8b-46bd-4490-a833-5bc73f945070",
+    "data": [
+      {
+        "text": "Who diagnosed you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

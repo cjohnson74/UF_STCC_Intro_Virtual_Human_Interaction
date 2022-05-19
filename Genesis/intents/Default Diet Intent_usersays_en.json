@@ -1,0 +1,106 @@
+[
+  {
+    "id": "63c2a641-3069-41b6-85c7-211dc1c5d23c",
+    "data": [
+      {
+        "text": "What have you been eating recently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1797ddc-65a3-415d-b9f1-c38350c35522",
+    "data": [
+      {
+        "text": "What foods can you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f90f4d1-5f44-4a71-b998-16b1c7909d50",
+    "data": [
+      {
+        "text": "What is your current diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7032ec30-ef15-40a7-ad5f-319ae748b7af",
+    "data": [
+      {
+        "text": "What is your diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06c76d94-ffdd-4fe6-b2b2-be1310db7547",
+    "data": [
+      {
+        "text": "what can you eat now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0111211-565a-49c7-8c86-75e7b55f34ce",
+    "data": [
+      {
+        "text": "What is your diet now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed60228c-a72d-483f-80db-1fdbc2ed9323",
+    "data": [
+      {
+        "text": "What kind of food have you been eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0f525e5-ef74-4f52-9522-dca825391e7a",
+    "data": [
+      {
+        "text": "What have you been eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

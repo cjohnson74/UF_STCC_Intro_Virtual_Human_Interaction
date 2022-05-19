@@ -1,0 +1,36 @@
+{
+  "id": "fe54fbb0-5def-4f6d-88e7-30df0cba4c4e",
+  "name": "Default Depression Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No one is depressed! Sometimes I just get frustrated with the situation, but I wouldn\u0027t say I\u0027m depressed.",
+            "I wouldn\u0027t say I am depressed.  I got a great family, ya know? I just wish I could go out to eat some.  Plus, it would make things easier with my wife."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

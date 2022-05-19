@@ -1,0 +1,63 @@
+[
+  {
+    "id": "8739e919-b06a-462c-8e89-269f79c1ff71",
+    "data": [
+      {
+        "text": "Is this your ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " time seeing a swallowing doctor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77e96736-cfd3-40a8-8e55-be5ae8e241f1",
+    "data": [
+      {
+        "text": "When did you attend speech therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf0b0016-7a22-44b2-a6ab-2e453bd944be",
+    "data": [
+      {
+        "text": "When did you see a speech pathologist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "146fdee7-7f47-41fa-a60f-878ae1c8c3b3",
+    "data": [
+      {
+        "text": "when did you see a speech therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

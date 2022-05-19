@@ -1,0 +1,184 @@
+[
+  {
+    "id": "b4492597-d6f3-454c-91d3-9a1d38202a29",
+    "data": [
+      {
+        "text": "When do you have trouble with your speech?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1ee5c74-96b9-48d1-bc1d-8d2d2748e385",
+    "data": [
+      {
+        "text": "Do you have any trouble with your tongue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "365255b4-b7c6-48b8-b0c2-6e198d28e962",
+    "data": [
+      {
+        "text": "Do you experience numbness in your tongue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "105b7392-d5c2-4040-b18d-93648018adc0",
+    "data": [
+      {
+        "text": "Does your tongue feel weak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad49056e-0369-4adc-8919-9d36768ee392",
+    "data": [
+      {
+        "text": "Do you feel like you have a weak mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f87cc375-5d59-4c2e-924a-48595987c3a2",
+    "data": [
+      {
+        "text": "is your face weak to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4be927d-6f96-4ac8-b264-7d6a07d96c4b",
+    "data": [
+      {
+        "text": "Is your tongue numb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82ce07da-a2d7-407b-b68d-de44681b0965",
+    "data": [
+      {
+        "text": "do you feel numbness in your tongue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0408d573-3cb4-46d8-94a5-00088bb5b908",
+    "data": [
+      {
+        "text": "do you have trouble moving your tongue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e734c529-4e53-495c-87ab-5c6bc5a82bbe",
+    "data": [
+      {
+        "text": "How does your tongue feel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68b97a10-1bc1-4e32-a05a-f704790946e7",
+    "data": [
+      {
+        "text": "IS your tongue mobile?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e718760e-31c5-44f5-b2ee-417424d2c1fd",
+    "data": [
+      {
+        "text": "Is your tongue weak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2deaf77b-62c7-4773-b19d-96d122d048e9",
+    "data": [
+      {
+        "text": "Have you had language problems as a result of the stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9194077d-4f4f-4ab9-9c48-27195594179b",
+    "data": [
+      {
+        "text": "any language problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

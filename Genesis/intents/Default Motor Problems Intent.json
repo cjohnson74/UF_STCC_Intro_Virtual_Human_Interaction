@@ -1,0 +1,35 @@
+{
+  "id": "deed9e77-74fe-40f3-89e5-7342c0e2fe53",
+  "name": "Default Motor Problems Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I have some weakness on my right arm and leg, so I can\u0027t walk too far. Then there\u0027s this annoying numbness on the left side of my face. Oh, and that\u0027s not the end of it. I am sometimes short of breath, my voice is different than what it was before and I drool."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

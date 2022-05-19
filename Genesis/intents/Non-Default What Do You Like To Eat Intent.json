@@ -1,0 +1,35 @@
+{
+  "id": "0916a7e5-75c3-4181-bd0b-4dd654c7f216",
+  "name": "Non-Default What Do You Like To Eat Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Some foods, I like a lot. I like to eat desserts in the blender. My wife also makes great vegetable soups with it, and I really like mashed potatoes and fruits blended up. But, I gotta say, sometimes my wife blends a burger for me, and that\u0027s hard for me to take. It\u0027s just not the same. I really just want to eat what everyone else is eating."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

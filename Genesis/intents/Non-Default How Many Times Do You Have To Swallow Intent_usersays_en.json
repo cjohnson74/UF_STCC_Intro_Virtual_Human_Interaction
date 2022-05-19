@@ -1,0 +1,410 @@
+[
+  {
+    "id": "c5418107-d8d9-4992-8beb-55f921869da4",
+    "data": [
+      {
+        "text": "how many swallows does it take you to get your food down?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1735202-bab5-4dee-94be-69a900cd7acd",
+    "data": [
+      {
+        "text": "How many swallows does it take to get food down?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0679204-0c65-453e-ab0a-b424c8e087db",
+    "data": [
+      {
+        "text": "how many swallows do you need to get food down?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbd66825-7c3a-4324-bafa-da025efe26d0",
+    "data": [
+      {
+        "text": "And what do you do when you feel like the food is going down the wrong tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcb3feaf-54d5-40e0-b5fd-535a80c94ca5",
+    "data": [
+      {
+        "text": "Can you describe your swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "083909bc-3871-450a-8341-cd8469a83797",
+    "data": [
+      {
+        "text": "do you have any difficulty swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ed5e5a2-33a7-43cc-98c6-d71ca1486b2e",
+    "data": [
+      {
+        "text": "Do you ever have to swallow more than once?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "856e671b-647e-4701-b0d1-a0b5c0e8247d",
+    "data": [
+      {
+        "text": "Do you feel the need to have multiple swallows?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45406597-29da-4104-8561-97158cf02788",
+    "data": [
+      {
+        "text": "Have you had any difficulty initiating a swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "913ac6d4-ba4b-4623-969e-a73f3202effc",
+    "data": [
+      {
+        "text": "Do you have to swallow multiple times?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "439e011c-3d12-4e1f-856b-a960e813fb6e",
+    "data": [
+      {
+        "text": "Do you have a hard time swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72eaa4de-b5c5-4a72-8d94-f12565095f43",
+    "data": [
+      {
+        "text": "why does it take you longer to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1912357c-5d12-417b-a071-ebe7d9631250",
+    "data": [
+      {
+        "text": "WHAT PROBLEMS ARE YOU HAVING SWALLOWING?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a1e416f-9234-4a77-9cbd-7310d2ad34af",
+    "data": [
+      {
+        "text": "WHAT ARE YOUR MAIN PROBLEMS WHEN SWALLOWING?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc18a579-a500-4152-baae-e3dbba5ce4c9",
+    "data": [
+      {
+        "text": "can you swallow the pureed food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c49383db-b93d-4254-acdc-fec15efe7e59",
+    "data": [
+      {
+        "text": "are you having difficulty swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd19a013-aa00-489f-a599-db20fa861f02",
+    "data": [
+      {
+        "text": "are you having trouble swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21c0d433-dcbd-4f07-9704-22d82151a7d0",
+    "data": [
+      {
+        "text": "Do you have to swallow multiple times to get the food down?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98d352b4-603c-4c6b-9b68-a6bd68b4c7f9",
+    "data": [
+      {
+        "text": "how\u0027s your swallowing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8898a7b0-d2f2-4fdc-a770-bc4a004a9a46",
+    "data": [
+      {
+        "text": "Do you have problems moving your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0ec9068-8d33-48be-b590-eb598428cf53",
+    "data": [
+      {
+        "text": "How much effort does eating take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec49db4d-4c3f-4757-bf4a-fb63365f5c9b",
+    "data": [
+      {
+        "text": "What exactly happens when you try to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5843f99-ba83-472a-8ab2-bb5256a90aee",
+    "data": [
+      {
+        "text": "Is it difficult to initiate a swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d28c72ef-4cee-481c-b9ae-b5f2b6ec8f35",
+    "data": [
+      {
+        "text": "How often do you have to swallow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db03d6c1-58ac-4236-8bbc-c548c65ceae9",
+    "data": [
+      {
+        "text": "Do you have problems swallowing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56d0daf6-1b28-40d6-8839-ba065bcae672",
+    "data": [
+      {
+        "text": "Does it take much effort to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d48c673b-f4e6-41e0-9b3a-e64cc85d52fe",
+    "data": [
+      {
+        "text": "does everything go down in ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0687db3e-7e66-4052-b36d-a0aa6d5b64a5",
+    "data": [
+      {
+        "text": "do you have multiple swallows?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f687fc90-0f73-4555-a5eb-399e54ca4e7e",
+    "data": [
+      {
+        "text": "do you need multiple swallows?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8bae460-6d68-4876-aabd-9b103828f022",
+    "data": [
+      {
+        "text": "when you swallow, do you have to swallow multiple times or does it go down with ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

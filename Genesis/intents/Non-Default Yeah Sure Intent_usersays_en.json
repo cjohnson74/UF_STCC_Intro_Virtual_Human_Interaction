@@ -1,0 +1,67 @@
+[
+  {
+    "id": "bce5c964-b208-4c62-9af1-686d866c1aae",
+    "data": [
+      {
+        "text": "I would like to give you speech and swallowing therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb19ca4f-a9b0-4452-93ff-24991365e410",
+    "data": [
+      {
+        "text": "We can do some swallowing therapy to help you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16ffa1cd-a501-4d2a-8e62-4b0a0c4737e2",
+    "data": [
+      {
+        "text": "I am hopeful that therapy can help you. I need to ask you a few more questions.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd5f3ba3-c287-462d-ad0a-81f554d4232b",
+    "data": [
+      {
+        "text": "I will be asking you a few questions if that is ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6aa85ab-a25f-41d7-83f9-03ed7baadc7b",
+    "data": [
+      {
+        "text": "Yes I have many questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

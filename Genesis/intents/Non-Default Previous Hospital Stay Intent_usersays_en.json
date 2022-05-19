@@ -1,0 +1,488 @@
+[
+  {
+    "id": "85eb2c78-e274-4941-bdaf-bc5596957b82",
+    "data": [
+      {
+        "text": "did you stay in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe4ddac4-b484-4a6c-8ab7-363c8469c441",
+    "data": [
+      {
+        "text": "were you hospitalized?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4dbf2d8-9cc3-4280-ab14-255d55e9e2e9",
+    "data": [
+      {
+        "text": "Did you lose consciousness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2873ed9-d9e4-47a4-9a28-00d379ede74c",
+    "data": [
+      {
+        "text": "Any chest infections?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2aea196b-7cef-49e9-8fde-9b76444988bf",
+    "data": [
+      {
+        "text": "Any other problems from your brainstem stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "177239a5-8742-486c-878e-9bc2d661dfa2",
+    "data": [
+      {
+        "text": "Have your ever had pneumonia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7b7b3e2-d407-4223-89f1-e7e50639af68",
+    "data": [
+      {
+        "text": "Did you have any other medical complications after the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "594d601b-50e2-429a-80a5-0f1299e0f4fb",
+    "data": [
+      {
+        "text": "Have you had pneumonia recently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64d96f1d-5f04-4c0c-9419-52ec75be6bdf",
+    "data": [
+      {
+        "text": "Did you have any complications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43eaf8f9-a24c-43f7-8a35-602ead099106",
+    "data": [
+      {
+        "text": "Were there any other complications from the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a04f828-b250-4723-9ff9-edc3ca18a5b6",
+    "data": [
+      {
+        "text": "Have you had pneumonia in ",
+        "userDefined": false
+      },
+      {
+        "text": "the past year",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "991e5c14-eff3-4ea2-bff3-6d30b2b77c42",
+    "data": [
+      {
+        "text": "Did you encounter any other problems during your recovery in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "409a8cbe-aea8-4639-9e0c-7a7b25d5fcb7",
+    "data": [
+      {
+        "text": "Did any other problems accompany your stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c258cada-8424-4a0f-8d28-ff623ac02941",
+    "data": [
+      {
+        "text": "have you have pneumonia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69f0aa13-9407-4815-98b7-badef43bc98b",
+    "data": [
+      {
+        "text": "Were you diagnosed with anything else while in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5591fd5-6729-4fd7-8a7a-8ad1b05df584",
+    "data": [
+      {
+        "text": "Have you had any chest infections recently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0b4f411-8c65-405d-8f0b-b33067f6e41f",
+    "data": [
+      {
+        "text": "any other complications with your brainstem stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69bf8113-3fe7-4253-9333-a4d616358f6c",
+    "data": [
+      {
+        "text": "have you had pneumonia in ",
+        "userDefined": false
+      },
+      {
+        "text": "the last year",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27dcdbab-d93d-45a9-9663-d7c063b433fa",
+    "data": [
+      {
+        "text": "Have you had any chest infections?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2b81222-d801-4a07-b1d7-19da49e41d73",
+    "data": [
+      {
+        "text": "Have you ever had pneumonia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d288901-d9d3-4e91-9c39-dcad53180597",
+    "data": [
+      {
+        "text": "have you had any cases of pneumonia since your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc22078d-aa5d-445b-8227-0c800eb59efa",
+    "data": [
+      {
+        "text": "Are you having any chest pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcdb515d-8427-4a1f-9a94-0592365c2e22",
+    "data": [
+      {
+        "text": "Have you had pneumonia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c9c17f6-691d-4580-a7c3-91e6951ab08a",
+    "data": [
+      {
+        "text": "Any history of chest infections?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16137882-0389-4495-a14a-f2a18e70569c",
+    "data": [
+      {
+        "text": "Have you had a virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81177fa1-94af-4729-94a2-52a612951a50",
+    "data": [
+      {
+        "text": "Have you had any infections?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01042e3a-a118-4ff0-8745-27345d417f57",
+    "data": [
+      {
+        "text": "Any complications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09e3090c-536e-4040-bdc7-1f7d660afa73",
+    "data": [
+      {
+        "text": "Were there any complications with your surgery?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e5edfb0-4783-4aad-98d5-ce70355c0dc9",
+    "data": [
+      {
+        "text": "Did you have any complications from the endotracheal tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a017b27-189a-41db-9993-3e7e6a2ef0f9",
+    "data": [
+      {
+        "text": "What happened at the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23322be3-5bdf-4a45-a009-bc8b29843eb2",
+    "data": [
+      {
+        "text": "Did you have any problems in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "daa418aa-e8ef-4397-b83c-a36649fdec30",
+    "data": [
+      {
+        "text": "Were you diagnosed with anything besides the stroke in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "821a3402-ed9d-4c6f-8523-f4bc78501290",
+    "data": [
+      {
+        "text": "Did you encounter anything besides a stroke while in the hostpital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d75ac02-b0b6-4e2b-8fb2-9893fb62c931",
+    "data": [
+      {
+        "text": "How was your stay at the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca3775ac-451c-4e07-be65-d56d6fe3f152",
+    "data": [
+      {
+        "text": "Were there any complications with your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7dc7b52-8271-4d94-8a02-23f91a911f4d",
+    "data": [
+      {
+        "text": "Have you had any chest infections or pneumonia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

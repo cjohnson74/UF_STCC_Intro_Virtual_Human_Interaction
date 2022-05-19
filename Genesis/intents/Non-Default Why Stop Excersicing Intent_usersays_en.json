@@ -1,0 +1,236 @@
+[
+  {
+    "id": "f988d4a3-3cf8-4f54-b5f4-57b4adf8857c",
+    "data": [
+      {
+        "text": "are you interested in doing some exercises for your swallowing at home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "676ab6d1-9e1f-4026-9751-4642114a0375",
+    "data": [
+      {
+        "text": "why did you stop doing your exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80389e5d-3c61-453f-bc05-ce508ebbd8c6",
+    "data": [
+      {
+        "text": "Why have you stopped your exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77488133-f8dc-4555-8c77-0cfe1d28d63d",
+    "data": [
+      {
+        "text": "Why did you stop doing those exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e773b3fa-8228-4cb6-92e4-8c44ccabe08e",
+    "data": [
+      {
+        "text": "Why did you quit doing your exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57eb00bf-8771-409e-8174-8fbe7a591896",
+    "data": [
+      {
+        "text": "Why did you stop therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d44410a2-5fcc-45a7-a99b-5a02a4262319",
+    "data": [
+      {
+        "text": "Did you follow through with the exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c4236e9-4f35-4c37-ae55-c76e705d5409",
+    "data": [
+      {
+        "text": "why did you stop the swallowing exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66677906-e01c-451a-be0c-970b0be2adb7",
+    "data": [
+      {
+        "text": "Why don\u0027t you do your exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4bf32cd-af38-4f8c-9023-b50292678d8f",
+    "data": [
+      {
+        "text": "Why did you stop the exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c1db458-dc67-4d4c-90ef-c8e2e893e886",
+    "data": [
+      {
+        "text": "Was there a reason that you stopped doing the exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c372ba0-e9f0-4aca-aaab-e4ec5fb866f5",
+    "data": [
+      {
+        "text": "Do you continue the exercises from therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa8e9d10-1061-458e-9abb-55c5735d2672",
+    "data": [
+      {
+        "text": "Are you interested in trying more exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e9a036f-dca3-489b-bfcb-f67d74426494",
+    "data": [
+      {
+        "text": "Would you be willing to try exercises again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b59048c-be48-4da9-a5a9-0af11c02ca73",
+    "data": [
+      {
+        "text": "So, the exercises were helping?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cd02c62-6c83-4cee-876d-932c2522ac58",
+    "data": [
+      {
+        "text": "why did you stop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e84d7be-d2e8-4203-9333-ae16bece89ba",
+    "data": [
+      {
+        "text": "Why did you quit your excercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5dd8fe06-6fee-4b61-adc7-738d83c7f0d3",
+    "data": [
+      {
+        "text": "What made you stop doing your excerises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

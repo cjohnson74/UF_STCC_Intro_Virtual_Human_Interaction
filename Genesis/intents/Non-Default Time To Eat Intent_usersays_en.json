@@ -1,0 +1,93 @@
+[
+  {
+    "id": "034d5a59-b550-4ba7-b9e2-273a04023c26",
+    "data": [
+      {
+        "text": "Is it taking you a longer time to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b2b5bb5-6b8d-4428-8526-87b32c636d88",
+    "data": [
+      {
+        "text": "How long does it take you to eat? Is it longer or shorter than before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36c87145-5536-4564-856b-f6671d50c1c4",
+    "data": [
+      {
+        "text": "How long do you take to finish eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d026f4fc-9426-4f45-b3b1-d0ce2502c501",
+    "data": [
+      {
+        "text": "Is eating a long endeavor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54449b24-b487-4f12-b2d2-f7a5d95704c5",
+    "data": [
+      {
+        "text": "Is it taking a long time to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6272fd0-561b-4533-a630-1947457c37ef",
+    "data": [
+      {
+        "text": "how long did it used to take you to eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d0850f3-8602-4c38-a3bd-c9f1738fdda7",
+    "data": [
+      {
+        "text": "How long has it been taking you to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

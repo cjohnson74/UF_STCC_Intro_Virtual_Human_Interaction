@@ -1,0 +1,36 @@
+{
+  "id": "d94f8595-ab6e-4ee4-8bd4-52cf1ad29708",
+  "name": "Default Physical Therapy Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I used to, but not anymore.  Insurance won\u0027t pay now that I am a year out.",
+            "I still see a physical therapist occasionally, but I don\u0027t go to OT anymore."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

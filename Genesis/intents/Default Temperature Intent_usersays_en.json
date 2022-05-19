@@ -1,0 +1,67 @@
+[
+  {
+    "id": "8464be69-3e10-415a-b620-24db68b98b87",
+    "data": [
+      {
+        "text": "Do you have a fever?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f8739c7-01c1-4785-961d-f3d80de96baf",
+    "data": [
+      {
+        "text": "Has your temperature been checked?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e939ad66-3023-4fef-af3f-59be746b70d7",
+    "data": [
+      {
+        "text": "Is your temperature normal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c174b5b-6c14-4282-909b-ed6e3eabcbb0",
+    "data": [
+      {
+        "text": "Are you running a fever?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "098aaf6d-8508-4d5d-8101-994dd46664f3",
+    "data": [
+      {
+        "text": "what is your temperature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

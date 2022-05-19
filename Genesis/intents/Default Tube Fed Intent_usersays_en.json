@@ -1,0 +1,275 @@
+[
+  {
+    "id": "ab73e71e-4538-46e0-9f1b-0f307a6b2292",
+    "data": [
+      {
+        "text": "Do you have to use a feeding tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f56e7d1-b4e5-4be1-907c-b7cf171606b0",
+    "data": [
+      {
+        "text": "Were you intibated when you had your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f339906-120b-4aa6-92af-9d3facff0be3",
+    "data": [
+      {
+        "text": "Were you on a PEG or GI tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50cbe37f-2c96-4c89-b27b-78dab06645d2",
+    "data": [
+      {
+        "text": "were you fed by tube in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65d48b49-27d5-4826-8657-c0822e294d2c",
+    "data": [
+      {
+        "text": "Did you have a PEG tube placed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7944716-bc48-45a4-ad6a-c7603bee3de9",
+    "data": [
+      {
+        "text": "have you ever had a feeding tube",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14573359-0b9c-4764-94f7-6b440493407c",
+    "data": [
+      {
+        "text": "Are you on a feeding tube",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45bd1124-d5ae-48ba-9b67-0be716ca8cbc",
+    "data": [
+      {
+        "text": "have you had a feeding tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d37ae155-1181-489d-bc36-8654d91b017b",
+    "data": [
+      {
+        "text": "Were you on a feeding tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "133135b9-5692-459f-b2d1-59b411d78499",
+    "data": [
+      {
+        "text": "Do you have a gastronomy tube placed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f4e4890-8291-4357-beed-722f41eda216",
+    "data": [
+      {
+        "text": "did you have a PEG?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5fe39da-8bd1-4856-b565-6b1aa3cff8af",
+    "data": [
+      {
+        "text": "did you have swallowing problems in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4fc2928-2f88-4213-8148-79031b2f9695",
+    "data": [
+      {
+        "text": "Have you ever been on a feeding tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "167a3734-a463-4a53-9f3f-221be43042a6",
+    "data": [
+      {
+        "text": "do you have a PEG?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2bffe9a-7173-43bf-bff5-9b0987005807",
+    "data": [
+      {
+        "text": "Were you able to eat immediately after the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "151aa8a0-0f06-4c02-bf49-72cf007b0f84",
+    "data": [
+      {
+        "text": "Were you on a ventilator?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "076081e8-ab70-4121-85d7-8f23a98fe677",
+    "data": [
+      {
+        "text": "Were you ever on a feeding tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23a1370c-efd5-4ea0-9cf6-9f75977ba869",
+    "data": [
+      {
+        "text": "have you ever had tube feeding?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2a3d47e-b91f-412e-b630-c4e60c06a69c",
+    "data": [
+      {
+        "text": "have you ever been fed by tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f265b0f-cf2d-4415-adc9-2f1e0f2e6828",
+    "data": [
+      {
+        "text": "Have you ever had a PEG?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "783af428-9571-432b-b1e2-dca383e2f619",
+    "data": [
+      {
+        "text": "Have you ever been tube fed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

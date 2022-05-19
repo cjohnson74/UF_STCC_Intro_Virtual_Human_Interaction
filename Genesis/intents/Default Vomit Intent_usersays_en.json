@@ -1,0 +1,236 @@
+[
+  {
+    "id": "56542384-2124-4fb6-8e2e-c82a1cfd7b0a",
+    "data": [
+      {
+        "text": "Do you ever throw up after a meal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "981ac7b4-7fe8-4f63-9715-23d7b36ad3aa",
+    "data": [
+      {
+        "text": "Do you every throw up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dd4404c-d4f8-4339-8979-a3a283d8c1e6",
+    "data": [
+      {
+        "text": "When does the food come up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "929a2e34-fbe0-4845-880d-2c7ff3b3f1aa",
+    "data": [
+      {
+        "text": "Are you regurgitating your food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2676d6cf-ca3f-49fc-a0bd-800ec6eedb5f",
+    "data": [
+      {
+        "text": "Do you ever throw up after eating or drinking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "354c858d-a8c8-47e0-b22e-2fa38bb6edd4",
+    "data": [
+      {
+        "text": "do you ever vomit after eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53bfc5ab-6331-4a2c-8508-2dc5ff8f762c",
+    "data": [
+      {
+        "text": "Do you ever regurgitate food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06e7e96a-e99c-4fdc-8d77-385632fa4bd3",
+    "data": [
+      {
+        "text": "Do you regurgitate food at night?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "055641a1-91da-4739-ad01-e69c250ab483",
+    "data": [
+      {
+        "text": "Do regurgitate food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc958fb9-3455-42dd-961c-6c368ef1b046",
+    "data": [
+      {
+        "text": "Do you throw up after eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64560293-689a-4da3-afb5-8b1d17f40291",
+    "data": [
+      {
+        "text": "how often do you barf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00a32664-4384-4368-8253-b81e8d95613e",
+    "data": [
+      {
+        "text": "Do you throw up every time you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94a98e95-5eae-43a1-8683-44a46e6d0e35",
+    "data": [
+      {
+        "text": "How often do you throw up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d6cb862-b888-4f57-8f4a-eaa260d719c1",
+    "data": [
+      {
+        "text": "Have you vomited?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fce97aa-4c5d-4857-9cc8-b01d2a2e1802",
+    "data": [
+      {
+        "text": "Have you been feeling nauseaus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "471267b4-a12c-4e11-97d7-dae448a08824",
+    "data": [
+      {
+        "text": "Do you vomit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f62027f-ddaf-4190-86e9-689eca8be504",
+    "data": [
+      {
+        "text": "Do you vomit frequently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2a5146a-5f66-4f51-8996-e75450de7a43",
+    "data": [
+      {
+        "text": "How often do you vomit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

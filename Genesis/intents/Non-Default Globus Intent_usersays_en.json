@@ -1,0 +1,54 @@
+[
+  {
+    "id": "370ea709-8aef-4916-adb1-1baead303cb5",
+    "data": [
+      {
+        "text": "Do you know what globus sensation is?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f06a9e02-7f06-47ac-8dd2-5c04110e4509",
+    "data": [
+      {
+        "text": "Have you been diagnosed with globus sensation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1419148-59af-4ad8-9d23-8f90c19b7c9a",
+    "data": [
+      {
+        "text": "Does it feel globus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16b0f6bc-121b-413a-8a31-3b6f1acdba95",
+    "data": [
+      {
+        "text": "do you have a globus sensation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

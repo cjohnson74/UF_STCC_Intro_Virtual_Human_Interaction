@@ -1,0 +1,80 @@
+[
+  {
+    "id": "11ff2477-9760-497f-82d3-ff6cb93b2031",
+    "data": [
+      {
+        "text": "Why haven\u0027t you returned to your  original speech therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9aa59274-3b21-4ef2-82bb-cd9417faf2da",
+    "data": [
+      {
+        "text": "Why haven\u0027t you gone back to your primary speech therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5df88957-b044-4978-bca0-69784eb098cc",
+    "data": [
+      {
+        "text": "Any reason you aren\u0027t going to your primary speech therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d61d4fdf-5ef8-4616-aa7f-87281d6d6024",
+    "data": [
+      {
+        "text": "Why are you not seeing the original speech therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d935697-238f-4e68-ae11-9f77563d793f",
+    "data": [
+      {
+        "text": "What happened to the original speech therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78e4a04b-43c6-4279-b79c-1374a170ae96",
+    "data": [
+      {
+        "text": "why are you not going back to your original speech therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

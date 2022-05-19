@@ -1,0 +1,197 @@
+[
+  {
+    "id": "2faca4b0-9107-4593-a569-2d3be98ef20a",
+    "data": [
+      {
+        "text": "Have you seen a speech therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d925f317-a981-48b8-96a2-4e9a488b6cb3",
+    "data": [
+      {
+        "text": "Are you going to speech therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "498d622d-ba7d-4215-9a75-ba034b863c03",
+    "data": [
+      {
+        "text": "have you been to a speech therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "255928e3-0df3-4041-89cc-fa6049aae242",
+    "data": [
+      {
+        "text": "are you seeing a speech therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2bd7742-7c1e-4fb6-8abe-a1070cdbc916",
+    "data": [
+      {
+        "text": "Did you have a speech-therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e63e293-948f-4443-87f6-d8305e965301",
+    "data": [
+      {
+        "text": "have you had any speech therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbc0613a-1034-4049-bbf8-ea2d8c29f84b",
+    "data": [
+      {
+        "text": "Did you receive therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b3c5016-cf96-4308-8ed0-63c372a2c5ab",
+    "data": [
+      {
+        "text": "Have you been seen for swallowing problems before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b24feb7-955d-4661-9f5f-4759a801ff9a",
+    "data": [
+      {
+        "text": "have you had speech therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e375473b-ac22-4519-9b36-bf287572a5f5",
+    "data": [
+      {
+        "text": "Have you received any treatment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8d96f05-5e2c-4e54-9641-b02fd0405ca2",
+    "data": [
+      {
+        "text": "Who gave you exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecd6fff6-3277-477e-986e-252afc7a85fb",
+    "data": [
+      {
+        "text": "Have you had speech-therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f6e9b08-d5b0-4645-a3be-dd92a4795f31",
+    "data": [
+      {
+        "text": "Have you received therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd45692a-70c6-4183-b74a-63b6ba71cd3f",
+    "data": [
+      {
+        "text": "Did you ever receive treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26219654-d1d2-47bc-adb7-daad6a308faa",
+    "data": [
+      {
+        "text": "did you ever receive therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

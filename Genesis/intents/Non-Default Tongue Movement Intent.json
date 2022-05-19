@@ -1,0 +1,36 @@
+{
+  "id": "d6f1f593-0ed3-4a72-92db-18ef58265e3d",
+  "name": "Non-Default Tongue Movement Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Somewhat. Sometimes it feels really difficult to control what\u0027s in my mouth.",
+            "It just feels really difficult to control what\u0027s in my mouth."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

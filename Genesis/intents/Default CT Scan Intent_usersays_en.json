@@ -1,0 +1,28 @@
+[
+  {
+    "id": "fd3b815a-1d1e-45ac-a8cb-d108de415da3",
+    "data": [
+      {
+        "text": "Have you had a CT Scan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "580273a5-27cb-4e1d-b38c-d72ce36ba18b",
+    "data": [
+      {
+        "text": "Did you have CT scan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

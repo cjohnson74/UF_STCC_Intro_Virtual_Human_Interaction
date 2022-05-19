@@ -1,0 +1,405 @@
+[
+  {
+    "id": "f154556a-b851-4981-b277-82845d26eff7",
+    "data": [
+      {
+        "text": "Did you ever have swallowing therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5416c06-9bb9-48a3-b43b-528bbb846fc1",
+    "data": [
+      {
+        "text": "Did someone else look at your swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e7768bd-1a61-404d-9315-62bd37610a32",
+    "data": [
+      {
+        "text": "Have you received prior therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ab6b8d7-6f4a-4858-b60c-37f38c8503f6",
+    "data": [
+      {
+        "text": "Have you had any swallowing therapy since your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46a59840-2419-4b44-93ed-4588245acd79",
+    "data": [
+      {
+        "text": "have you had any previous therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3f7aada-91d4-400f-903d-a72bdabc9cb5",
+    "data": [
+      {
+        "text": "Have you been receiving any therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "687d2ff2-29c8-4be1-bd4a-b429f45ad2c9",
+    "data": [
+      {
+        "text": "Are you receiving any therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec390dbd-c740-48b7-9ad9-fa2f845f56bd",
+    "data": [
+      {
+        "text": "Did you receive therapy in the hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76d51c36-452f-420b-8449-819b34ce90bb",
+    "data": [
+      {
+        "text": "Have you tried any postural changes while swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47e911e6-f1c9-4ab9-b8d4-a3b216c16b2f",
+    "data": [
+      {
+        "text": "Did you ever receive any swallowing therapy after that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7203584f-1b6a-4e3d-b79a-9c69291c27db",
+    "data": [
+      {
+        "text": "Have you received any therapy for your swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddcaedbe-36e0-42c1-9b1b-34fd7327aeec",
+    "data": [
+      {
+        "text": "Did you receive any swallowing therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1df2f31-cc6d-4c0f-8ca2-0ca051915644",
+    "data": [
+      {
+        "text": "have you had therapy for the swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b6201e5-6cff-45dd-b585-fe918f422fc8",
+    "data": [
+      {
+        "text": "have you had any therapy for your swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51806785-c6cb-4f22-bf29-b6ff58c96404",
+    "data": [
+      {
+        "text": "have you had therapy for your swallowing issues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "201b7b84-4e21-48aa-8ef1-7527d02af199",
+    "data": [
+      {
+        "text": "have you had any previous therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98d9961f-9f59-457d-b227-2ce585ca5d06",
+    "data": [
+      {
+        "text": "have you ever had therapy for swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51062b32-833b-4119-85fa-55ca17404bc9",
+    "data": [
+      {
+        "text": "Did you have any speech therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "271349c2-b75b-4bf9-ba47-e9ac1d0170a4",
+    "data": [
+      {
+        "text": "Have you received any other speech therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf45def6-672c-4317-a4c3-9d43efc1959c",
+    "data": [
+      {
+        "text": "Have you had treatment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f02fc7f8-8b29-4337-9394-39b75c3c9516",
+    "data": [
+      {
+        "text": "Have you had swallowing therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6407aea5-53f7-42fd-b965-7f671f684423",
+    "data": [
+      {
+        "text": "Did you do strengthening exercises in therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "842131fa-f931-4bca-ac51-e2880bec2a5b",
+    "data": [
+      {
+        "text": "What treatment did you receive for your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8511ed45-ca3f-477f-b0b6-233486dab0e3",
+    "data": [
+      {
+        "text": "Tell me about your previous therapy.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "637974d8-edd9-4a49-9aa7-d4ddd8c76211",
+    "data": [
+      {
+        "text": "anything to help swallowing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58262eb1-9f43-492d-a4b6-d9ff28785994",
+    "data": [
+      {
+        "text": "previous therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3107c531-c027-469a-89f3-124e4ad8b230",
+    "data": [
+      {
+        "text": "Have you had speech therapy at all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3c9f553-b216-4ad6-9fd5-07e3a0b9d7c0",
+    "data": [
+      {
+        "text": "Any speech therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d85d20a-abc4-4f07-b0b8-9f32008f62c9",
+    "data": [
+      {
+        "text": "Have you seen anyone else in regards to your swallowing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5aa373d3-10b6-4131-b169-07fcb15fe21e",
+    "data": [
+      {
+        "text": "Who did you see for swallowing therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30c6b934-d850-4272-b4e4-695765d63e89",
+    "data": [
+      {
+        "text": "Have you had any treatment for your swallowing difficulties?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

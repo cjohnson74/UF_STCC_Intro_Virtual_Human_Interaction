@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "d8abf73b-f20f-4802-bcfe-deed019cf90e",
+    "data": [
+      {
+        "text": "What food can\u0027t you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed73a5d8-de87-4923-ba18-b0e47447ef01",
+    "data": [
+      {
+        "text": "Are you avoiding some food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "270fc1d3-ab21-40f9-985b-35f006718c22",
+    "data": [
+      {
+        "text": "What foods do you avoid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f155b39d-bca6-47f5-85a6-d4dfa8b2ee68",
+    "data": [
+      {
+        "text": "Are there any other foods you\u0027ve been avoiding?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e471454-7757-49af-aa79-50309c43269f",
+    "data": [
+      {
+        "text": "What kind of food are you avoiding?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abcd15cf-510d-42d1-a49a-b6f86228107c",
+    "data": [
+      {
+        "text": "Are you avoiding certain types of food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb60d860-a11d-4e26-bad5-2d493ae0f61b",
+    "data": [
+      {
+        "text": "What foods are you avoiding?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "624a1e96-7b72-488c-89a0-30f2438e3264",
+    "data": [
+      {
+        "text": "Is there anything else you avoid eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "878d3350-3557-46e1-9ef9-2a83e3171f9d",
+    "data": [
+      {
+        "text": "Is there anything else you can\u0027t eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c5a7c80-a0c4-4c6e-8b31-f8c7cb037068",
+    "data": [
+      {
+        "text": "What other foods are you having trouble swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28229026-807b-432c-8284-39162b29f48f",
+    "data": [
+      {
+        "text": "Is there anything else you are having trouble swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3bef213-a0d9-4bf6-9aae-6acfd560840f",
+    "data": [
+      {
+        "text": "Does this happen with all consistencies of food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "269071a9-c0da-4633-9570-624f2405e24e",
+    "data": [
+      {
+        "text": "What type of food feels like it goes down the wrong tube?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "065dbe68-452b-41c7-adf2-33e581e3f67f",
+    "data": [
+      {
+        "text": "What happens when you try to eat solid foodds?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc4c1955-1bfe-4755-894c-ed8c147717fc",
+    "data": [
+      {
+        "text": "Any food that is especially hard to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87c43dd7-5791-4c13-9778-4dfc4bbf1e4b",
+    "data": [
+      {
+        "text": "why did you change your diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f3fa861-4781-4cd7-b3d5-daa0dccb6ffd",
+    "data": [
+      {
+        "text": "What happens if you eat normal solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef61893d-ed15-4f22-be53-220867f288d1",
+    "data": [
+      {
+        "text": "Can you eat ice chips?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a0578cd-3131-4fdf-876d-fdc7b0e38b58",
+    "data": [
+      {
+        "text": "Do you have trouble swallowing your food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9eee7788-aa6c-47ae-8105-3bd4f39bb6f5",
+    "data": [
+      {
+        "text": "Do you cough up solid foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e890480-f846-4da1-90b4-ce36c9c38425",
+    "data": [
+      {
+        "text": "What foods are the most problematic?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b0a7d5c-de3a-4370-b46f-632a88fd249f",
+    "data": [
+      {
+        "text": "What happens when you try to eat solid foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "921862d7-4756-4a14-be0f-83ad4d382847",
+    "data": [
+      {
+        "text": "Which foods do you have the most trouble with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11b60145-570b-4de6-904c-0ee81493da59",
+    "data": [
+      {
+        "text": "Have you tried eating solid food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b07a7ac2-48bc-42a8-a235-4546a7d8e848",
+    "data": [
+      {
+        "text": "Are you able to eat solid foods safely?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11a17851-77eb-4038-baaa-c81e4bd15d97",
+    "data": [
+      {
+        "text": "what types of food do you have trouble with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "931ff30d-b4c6-49cf-86c7-1eac41e1d82d",
+    "data": [
+      {
+        "text": "What kind of difficulties do you have when you eat solid foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8a93b1a-984c-4365-913e-0e29173a3b50",
+    "data": [
+      {
+        "text": "What type of foods can you no longer eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5dc95fb-706c-445e-af9b-8733720fdea8",
+    "data": [
+      {
+        "text": "Can you eat solid foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d05d5c1b-9bfe-427b-afb4-623f5932256e",
+    "data": [
+      {
+        "text": "Do you have problems with dry foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e335a8d-7c63-42ca-9f85-25ff24386365",
+    "data": [
+      {
+        "text": "What foods can you not eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1831469b-77d5-4703-afa0-5d69af61f977",
+    "data": [
+      {
+        "text": "do you have problems on certain kinds of foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9629ed4f-5b84-4097-84e7-e600cf4d1bd2",
+    "data": [
+      {
+        "text": "What foods are the hardest to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c90c487-40e0-4ed7-a64a-81bb18809b94",
+    "data": [
+      {
+        "text": "What type of foods give you the most trouble?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54599072-3f1b-44ea-be6a-f76749e42d92",
+    "data": [
+      {
+        "text": "is hot food easier?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1856a74d-b835-4e91-8067-ae42c8860308",
+    "data": [
+      {
+        "text": "Are there certain foods that make this worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87ab8968-90b4-4f20-876c-84dcb3eaa8fe",
+    "data": [
+      {
+        "text": "How are you with eating solid foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6f90fdf-f3fb-4101-857f-2152ded3ffc1",
+    "data": [
+      {
+        "text": "do you cough with solids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96e5321a-cc7c-44a9-aad0-e96628000974",
+    "data": [
+      {
+        "text": "DO you have trouble swallowing solid foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b24d71c-13fb-4619-8d85-19374a77fb35",
+    "data": [
+      {
+        "text": "Have you attempted to eat solids in ",
+        "userDefined": false
+      },
+      {
+        "text": "the past year",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c94f4df-55cd-4b68-9ec2-0dec91ee80f9",
+    "data": [
+      {
+        "text": "What foods give you trouble?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aed522b4-28c0-4eae-9ea4-69cc25644246",
+    "data": [
+      {
+        "text": "Is your main swallowing problem with hard foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bad71c2f-f4f5-4413-aa91-3797e52bd493",
+    "data": [
+      {
+        "text": "what foods do you have difficulty with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03aca021-ca3e-44dd-adfc-7423d2f49b9a",
+    "data": [
+      {
+        "text": "what kids of foods are hard to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "114b4ab4-9bbe-4a64-85c7-2b8591da6190",
+    "data": [
+      {
+        "text": "have you avoided any foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cf8f980-8acd-4c92-9495-68baf13897e6",
+    "data": [
+      {
+        "text": "why don\u0027t you eat solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "509d24b2-75de-4940-bd99-8ede14595383",
+    "data": [
+      {
+        "text": "what happens when you eat solid foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20cd6eb0-9333-4ecf-b944-75e50468eaf5",
+    "data": [
+      {
+        "text": "is spicy food hard for you to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3975069c-b0c8-4d0b-a0b8-47d4239620f4",
+    "data": [
+      {
+        "text": "How do you do with hard food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a60d2324-641c-4786-b077-9605ee0e323f",
+    "data": [
+      {
+        "text": "What happens when you try eat food that is not pureed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e09fac4d-4180-435a-aadd-1e8b0b6839be",
+    "data": [
+      {
+        "text": "Do you have trouble swallowing meats?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1842cf29-a97d-4d05-bdc9-37b3975198ad",
+    "data": [
+      {
+        "text": "Do you have trouble with solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0780a4e6-3fdc-4f34-8ff5-1379c45386dd",
+    "data": [
+      {
+        "text": "What happens when you eat italian food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9020c084-4d04-4eb4-8f6a-ab4ae566b5c0",
+    "data": [
+      {
+        "text": "Are solid foods a problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b2156e4-7e78-4032-bfc0-e52721d9abdb",
+    "data": [
+      {
+        "text": "do you choke on solid food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2486a650-7f1e-43a1-8826-a5c3980e047e",
+    "data": [
+      {
+        "text": "do you have difficulty with food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a1ee2e5-1c5c-4978-b646-30244046b207",
+    "data": [
+      {
+        "text": "Do you only have problems with liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "761264c6-731c-44a8-85c0-ad53adc3dff7",
+    "data": [
+      {
+        "text": "Do you have difficulty swallowing solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f9707eb-50e0-4bd9-b8e0-2884734a0c26",
+    "data": [
+      {
+        "text": "Do you have difficulty with solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adab9b4e-84f6-491e-bc31-568662413e78",
+    "data": [
+      {
+        "text": "can you swallow small amounts of solid food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca2533d2-d60e-4876-bba2-cf627c2ed516",
+    "data": [
+      {
+        "text": "do you have trouble swallowing solid food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "902b31b1-a457-4e00-b9fc-02c90b817241",
+    "data": [
+      {
+        "text": "do you have trouble swalllowing solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53aada69-f3ba-48f2-8805-5ae21ddbb391",
+    "data": [
+      {
+        "text": "Are you having trouble swallowing solid foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1b80d87-af2b-44df-8358-e84670fe121a",
+    "data": [
+      {
+        "text": "Do you cough when you eat solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fae3816a-20d2-4872-875d-40b2339335eb",
+    "data": [
+      {
+        "text": "What type of food do you have the most trouble with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b8810de-46d8-4516-85b9-c52a1e43f311",
+    "data": [
+      {
+        "text": "Do you eat solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd85aa39-e57e-4fce-9026-cb68a2ac62dc",
+    "data": [
+      {
+        "text": "Do you cough on solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "465a1613-9ae6-4cae-9323-abb443b24ff9",
+    "data": [
+      {
+        "text": "Do you have problems eating solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc907aad-c00f-4bb5-ad97-8cceaef82748",
+    "data": [
+      {
+        "text": "Do you have problems with solid foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41bb60c7-40b6-4758-8965-151de15e6ec3",
+    "data": [
+      {
+        "text": "Do you avoid certain foods/",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d00ffe0-22a4-4f13-a4d7-192bdce2a642",
+    "data": [
+      {
+        "text": "are solid foods difficult to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "226b81a9-2bab-4107-8f95-edb406fa711c",
+    "data": [
+      {
+        "text": "do you have trouble swallowing all the time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6eb90b2-8b97-48b7-b3c9-186bc98b2f10",
+    "data": [
+      {
+        "text": "What food do you have trouble with",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c813886e-2ae9-4f6c-87f5-066d057f6b92",
+    "data": [
+      {
+        "text": "any difficulty with particular food texture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e29d2d1-ff99-45d3-8d29-e1449e5db29c",
+    "data": [
+      {
+        "text": "What kind of foods do you have trouble with",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "594ffd5e-d8bb-4317-be61-bce7d108144f",
+    "data": [
+      {
+        "text": "How about solid foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5d04b4b-a00d-4aac-964a-9efb27ef5769",
+    "data": [
+      {
+        "text": "What kinds of foods are you having trouble with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f2f40d7-1e26-4049-b083-e34be44aba40",
+    "data": [
+      {
+        "text": "Do you have trouble with just liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "730338c4-46a3-470b-aad3-ec3004c327a4",
+    "data": [
+      {
+        "text": "do you have problems with solids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc59fe49-e90a-45b8-a34e-2dad0ed1035b",
+    "data": [
+      {
+        "text": "what happens when you eat italian food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23b290dd-0703-4fb7-a473-1818f1b4b8dc",
+    "data": [
+      {
+        "text": "Do you cough when eating solid food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f81af538-f41d-4236-8791-63dac9e30fa1",
+    "data": [
+      {
+        "text": "Do you have trouble swallowing solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c77608e8-ee96-470c-b0f7-68c93464cdb8",
+    "data": [
+      {
+        "text": "Can you swallow solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "446344b2-fbeb-474f-b2b4-543f082698be",
+    "data": [
+      {
+        "text": "do you have more trouble with solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

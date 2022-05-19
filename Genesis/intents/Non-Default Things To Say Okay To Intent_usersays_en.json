@@ -1,0 +1,645 @@
+[
+  {
+    "id": "3d7d56c1-dd49-4e21-b1c2-815d7a071f27",
+    "data": [
+      {
+        "text": "How is your day going",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eda3addd-3407-439f-9b6e-1c826edb1e2a",
+    "data": [
+      {
+        "text": "How is your day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8f71e1b-bff4-4016-b745-7abda9618f15",
+    "data": [
+      {
+        "text": "The hydrodiuril may be causing you to be dehydrated.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4a98bce-4172-4bf0-9148-4653c5944478",
+    "data": [
+      {
+        "text": "Well, we\u0027re going to give you a little test and see what we find out from that. Then, we\u0027ll take it from there.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02cbd6cf-7303-41df-97ba-49687c3aa628",
+    "data": [
+      {
+        "text": "How do you feel ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cb084ec-ef10-41de-9be4-a9f1c2ddffe6",
+    "data": [
+      {
+        "text": "Perhaps we can develop some things for you to do, that we both agree are acceptable.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5912e97-f54e-4d1b-9484-69167a02601c",
+    "data": [
+      {
+        "text": "Now, I cannot guarantee anything. But, our hopes would be to get you where you want to be.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10d9539f-b28a-4ac4-bd93-259d9d2bb044",
+    "data": [
+      {
+        "text": "I think we can make some changes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b2b0c25-4186-4812-9be8-dd5f609cb844",
+    "data": [
+      {
+        "text": "We need to do a barium swallow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fca8ef5-9732-46d4-b043-b140586f1c95",
+    "data": [
+      {
+        "text": "We can do a barium swallow study to find out more about your swallow then figure out some exercises to get you strong enough to swallow again.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9f42de6-7b27-476f-93a6-3ae60a664487",
+    "data": [
+      {
+        "text": "Okay let\u0027s go do the barium swallow study.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca90b3f9-40ea-4204-a890-4ed918982371",
+    "data": [
+      {
+        "text": "Hopefully the swallow study will help us figure out what is wrong.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a85843ba-637f-4df7-a98b-1ef626c90b03",
+    "data": [
+      {
+        "text": "Vinny we will look at the results of your barium swallow study and see what we can do to help you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70b5a326-07af-4341-afc3-6e07f322165f",
+    "data": [
+      {
+        "text": "It is when we take x-rays while you swallow.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ed3ba38-fe37-4f86-9f0c-9b94aabe30b5",
+    "data": [
+      {
+        "text": "It is when you are asked to consume different substances while we take x-rays of your swallow.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5af85bed-4260-43a5-9af5-fe06c06d02af",
+    "data": [
+      {
+        "text": "Ok Vinny I believe we need to order a barium swallow study to get a closer look of what is happening during your swallow.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ed0225b-c1be-41fb-865f-e2cb414e1bac",
+    "data": [
+      {
+        "text": "We are going to take you to x-ray your swallow.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6234ab7-f0bb-45eb-9f49-e8fc5a2f8e53",
+    "data": [
+      {
+        "text": "Well ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " we\u0027re going to try and see exactly what the difficulty is coming from and then we can discuss your prognosis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c940402-e91d-4b64-ab06-78396c2b959a",
+    "data": [
+      {
+        "text": "We can do a swallowing examination and endoscopy to further assess the problem. After the evaluation is complete, we can discuss the possibility of swallowing exercises.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b6bf4ec-9de2-45c2-8436-587f0a92244e",
+    "data": [
+      {
+        "text": "I am not sure. I will have to discuss this with the nutritionist.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8d7e575-c67a-4858-acff-da3996dc873d",
+    "data": [
+      {
+        "text": "Well I think we will go ahead with the barium swallow study and see what is going on so we can figure out how to help you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6be0052-c831-4790-ae01-590619a9b8b7",
+    "data": [
+      {
+        "text": "It is a swallow study to see exactly what happens when you swallow.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06bb4928-4cd9-4262-bc8b-444d8163efad",
+    "data": [
+      {
+        "text": "No, it shouldn\u0027t.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb5b4904-f067-4aea-8393-cb2ed7935158",
+    "data": [
+      {
+        "text": "We need to do a rehab barium swallow study in order to determine where your issue lies.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e5a317a-1cf4-47bf-ac7a-af0cfcc122e4",
+    "data": [
+      {
+        "text": "It\u0027s a swallow study where you swallow liquids next to a xray so that we are able to track what is happening to your food when you eat it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5296091-b14d-465f-89a7-aa26428f6f6b",
+    "data": [
+      {
+        "text": "I would like to see how you swallow, if that\u0027s ok?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b82b9fb-5ebb-44e3-a275-43de1003e90c",
+    "data": [
+      {
+        "text": "i\u0027m not sure, we\u0027ll have to do a lot of tests",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c67c28ec-5eb6-4f39-8932-b173bd39fad1",
+    "data": [
+      {
+        "text": "Not now, but it is important to know just in case. It may provide a better understanding of your stroke.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b32c1b5-19ee-4ea4-be0c-9c6f2b4e242f",
+    "data": [
+      {
+        "text": "ok I would like to do a modified barium swallow study",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c4e7567-04c9-482c-aa22-7e00b6e99e50",
+    "data": [
+      {
+        "text": "An x-ray of your swallow.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e49f735-764c-45a8-8b20-d01436759868",
+    "data": [
+      {
+        "text": "Let\u0027s do a modified barium swallow.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad0f041b-2635-4da9-96e3-100ba760342b",
+    "data": [
+      {
+        "text": "Well we will have to do some more tests and then assess your potential for rehabilitation.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c1c2402-9ad3-4459-ad70-411400f65c24",
+    "data": [
+      {
+        "text": "Yes, if you have not had ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", we may want to consider it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11028357-96a2-46d0-bf3f-a24772e188fa",
+    "data": [
+      {
+        "text": "How are you doing ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1acbb4b1-9d6d-4ea4-9462-9c58395fa703",
+    "data": [
+      {
+        "text": "Probably not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "236c3ac0-42ba-4367-94f2-00960367c627",
+    "data": [
+      {
+        "text": "We will also teach you a few compensatory methods while eating food to see if that helps, like a chin tuck or a head turn to your stronger side.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cdc2d10-b570-4ae3-80a4-b50bef33b8df",
+    "data": [
+      {
+        "text": "I would like to conduct a swallow study on you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b222d90-a529-473e-99a0-3a1502d672ae",
+    "data": [
+      {
+        "text": "hi how are you doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0727c73-729a-4795-bda4-69f1af284f2a",
+    "data": [
+      {
+        "text": "How are you ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80752018-1880-409a-99eb-cd3d7880188a",
+    "data": [
+      {
+        "text": "we will figure that out. I want to know more. exercises may help get you back eating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80c57799-7aa0-451b-a802-46711a13b8e9",
+    "data": [
+      {
+        "text": "Hi Vinny how are you ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b45d20c5-e3d3-4b57-9927-b7a544a737d1",
+    "data": [
+      {
+        "text": "I can\u0027t make promises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e948613-ae74-4439-a66a-a7f7e5b7ab2c",
+    "data": [
+      {
+        "text": "We will have to do some tests to see and then some therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a63ee9f2-8362-4a10-a894-2db5cb8975a9",
+    "data": [
+      {
+        "text": "I would like to make some reccommendations to you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "717d7592-49dc-4fbd-b1a2-79e51a987b4a",
+    "data": [
+      {
+        "text": "I think we can make some changes to help you better lead a normal life",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85212bc5-24b8-4ba0-9035-5c8726911a05",
+    "data": [
+      {
+        "text": "We need to have you swallow some barium to see what your swallow is like. Then we can start doing exercises or another procedure to help you eat better.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

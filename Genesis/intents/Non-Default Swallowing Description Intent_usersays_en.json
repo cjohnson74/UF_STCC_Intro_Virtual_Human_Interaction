@@ -1,0 +1,739 @@
+[
+  {
+    "id": "8854091a-9be8-4264-b32f-42c4a16dc492",
+    "data": [
+      {
+        "text": "Is the swallowing problem preventing you from taking your medicine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60634208-7060-4211-9665-ff1fe7813478",
+    "data": [
+      {
+        "text": "Are you able to take your medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac72a4d7-620f-475d-b285-c76c00d5a52b",
+    "data": [
+      {
+        "text": "Do you swallow your medications alright?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06eb421a-3139-4d0b-b941-3ad3a4038ae0",
+    "data": [
+      {
+        "text": "Can you swallow your medications ok?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdc1c1b4-47c1-4feb-a820-120896c4d6b7",
+    "data": [
+      {
+        "text": "Can you swallow your medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "341031db-6849-42a6-a548-e6a0e8983121",
+    "data": [
+      {
+        "text": "How difficult is it to swallow your medicine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "419101e2-a9ba-43e5-8c5b-2d3f6d0a88d8",
+    "data": [
+      {
+        "text": "How hard is it to swallow your medicine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5db7675c-6664-4385-92ac-a661b37f5bec",
+    "data": [
+      {
+        "text": "Is it difficult to swallow your medicine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09285856-ecc2-49db-81b8-9f501d373b3a",
+    "data": [
+      {
+        "text": "Is it hard to swallow your medicine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5903b1e8-0d28-4620-8b06-066bdf31bae7",
+    "data": [
+      {
+        "text": "Do you have difficulty swallowing your medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9b08e70-f6a5-4286-8f36-2f7d028de947",
+    "data": [
+      {
+        "text": "Do you have trouble swallowing your medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cc17a68-e8d1-4d03-ac01-502e1fe1ebeb",
+    "data": [
+      {
+        "text": "Does coffee cause you to cough?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1252019c-9d14-4f22-9168-1c501ce81055",
+    "data": [
+      {
+        "text": "can you describe your swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c71c6e32-3612-4893-aa01-4feb94901fdb",
+    "data": [
+      {
+        "text": "What\u0027s the problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b641dc82-51ae-41d9-b25b-debf342baddd",
+    "data": [
+      {
+        "text": "Describe your swallowing problem to me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3db2d52e-0ab8-4f3b-8697-163d1817aa39",
+    "data": [
+      {
+        "text": "Can you describe your swallowing problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "575412e6-225a-463d-a66b-48311c684ffd",
+    "data": [
+      {
+        "text": "Just okay? What seems to be the problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8492a611-a37d-4290-b195-f86055bab828",
+    "data": [
+      {
+        "text": "I\u0027m sorry to hear that. Can you try to describe the problem for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74e2405a-1ca6-4679-9db1-22f0548d0fd7",
+    "data": [
+      {
+        "text": "Are there certain foods or liquids that are hard to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0376a3c-253d-4f8c-abfb-91f4f1c9e891",
+    "data": [
+      {
+        "text": "What if your main swallowing complaint?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2745aeb-c8d4-40bb-9466-c652ed7b1642",
+    "data": [
+      {
+        "text": "Tell me more about your swallowing problems.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6d9d7e9-947c-494e-baad-b70b4de039a4",
+    "data": [
+      {
+        "text": "Do you personally notice problems with your swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16124071-62d1-4798-bbaa-3dd76eee5856",
+    "data": [
+      {
+        "text": "describe your swallow to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abba5712-c47e-48ba-96f8-b191a05ce8b9",
+    "data": [
+      {
+        "text": "What happens when you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b689353f-da1d-4c4f-9374-763a50d83874",
+    "data": [
+      {
+        "text": "Can you describe the problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adaacc8b-14ef-4a3f-91d0-a60c629a2513",
+    "data": [
+      {
+        "text": "can you describe the swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a7cc322-6dc6-4279-b1e8-21a8f5aaa074",
+    "data": [
+      {
+        "text": "can you describe the swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "504f36ef-2ed3-411e-af3d-4f04d6a0abfa",
+    "data": [
+      {
+        "text": "can you describe your problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b687a249-8ff0-40e1-8a96-0cd9d8d2da19",
+    "data": [
+      {
+        "text": "How often do you cough during meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "769c17ea-b198-48f7-a43a-5487e1db9792",
+    "data": [
+      {
+        "text": "Can you describe the problem please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bba472e-474a-4a33-865e-6ee497399b99",
+    "data": [
+      {
+        "text": "Do you have difficulty with solids and liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfaffa22-5b53-42f9-a121-122a33c3d710",
+    "data": [
+      {
+        "text": "Why are you embarrassed to you out to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cf3e44c-c202-43df-9426-3fd09acf1a4d",
+    "data": [
+      {
+        "text": "Any difficulties",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6bfc476-51f6-4058-86ac-908e4961808c",
+    "data": [
+      {
+        "text": "Why did you come in to see me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9103d816-c903-499e-9ada-8909b4425ac3",
+    "data": [
+      {
+        "text": "Why are you here ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c579d21a-7020-4645-94ce-9983dc983854",
+    "data": [
+      {
+        "text": "What seems to be the problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1347c0d6-63f1-4458-8fde-44c1d37e1603",
+    "data": [
+      {
+        "text": "What is going on with your swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ab22d71-98bc-4654-a8e5-7bbd08188c84",
+    "data": [
+      {
+        "text": "What is going on with your eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a36aa955-00f3-4639-95af-49d88686cb1a",
+    "data": [
+      {
+        "text": "trouble eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32f92e2b-1d82-429a-aaed-f303c324e0a5",
+    "data": [
+      {
+        "text": "Tell me about your swallow.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41e76221-11bc-4643-aec7-c9d32d3a0117",
+    "data": [
+      {
+        "text": "How is your swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8cec251-5e8a-4656-a68b-5a64c9a05557",
+    "data": [
+      {
+        "text": "Can you explain the problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24bd4904-ca96-40b9-88a2-66c963d1bc75",
+    "data": [
+      {
+        "text": "what are these problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fe5d0f6-16b2-48e4-a48e-1a037a292afd",
+    "data": [
+      {
+        "text": "Please describe the problem you are having",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc0e5db4-179b-4aa0-8901-cd243e038145",
+    "data": [
+      {
+        "text": "Do you have to use a lot of effort swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcdc7a46-3a9d-4115-ab5c-65eecf77c8a6",
+    "data": [
+      {
+        "text": "What can you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9a6fee5-2ac9-4d93-b34b-d1cc8a404326",
+    "data": [
+      {
+        "text": "Why is eating difficult?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75af2e67-fc5c-43d1-8bac-cc562576cf4f",
+    "data": [
+      {
+        "text": "What problems are you having?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23b7e1b3-c4cb-47dd-9c94-e266097c4980",
+    "data": [
+      {
+        "text": "do you have problems with solids or liquids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50f216f1-f37c-498d-83e9-cc522d81767d",
+    "data": [
+      {
+        "text": "Is your swallow weak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b60ec0bb-1f40-48e9-813e-cdcf8c3d0b04",
+    "data": [
+      {
+        "text": "Can you swallow liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bebd359d-9917-4c1b-be4b-d19fe96f210b",
+    "data": [
+      {
+        "text": "can you drink liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77537f42-bba9-4dd5-bd4c-dfd3dc114578",
+    "data": [
+      {
+        "text": "Is it hard to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b81dbfea-226b-4e34-ba5a-e372ea70abe3",
+    "data": [
+      {
+        "text": "Is it difficult to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "249f7248-993d-4295-8674-aa30840d5374",
+    "data": [
+      {
+        "text": "Describe your swallow.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7d77b99-a82c-40fb-9fcc-d6b47736434e",
+    "data": [
+      {
+        "text": "Can you describe your swallowing problems to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

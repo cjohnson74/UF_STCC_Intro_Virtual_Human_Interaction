@@ -1,0 +1,245 @@
+[
+  {
+    "id": "5ced23f9-b804-4025-9bbf-d542a6601d2c",
+    "data": [
+      {
+        "text": "Do you experience pain when swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9a98961-ca10-4fd4-98cf-460dbb201b9f",
+    "data": [
+      {
+        "text": "Do you have any stomach pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "508cd7bf-dbfc-4f48-a271-cda614e488c6",
+    "data": [
+      {
+        "text": "Is it painful when you do the exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "953d17bf-3f3f-4688-b9ee-3a618d4a0aa5",
+    "data": [
+      {
+        "text": "Do you have pain when you eat solid food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "898e1bb2-0959-4e65-87b5-11aac432e4a8",
+    "data": [
+      {
+        "text": "Are you in any pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85697c24-1337-4f53-a697-d3bd002768a7",
+    "data": [
+      {
+        "text": "any pain during swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7403820a-b741-4d2b-acb6-98c8276e5596",
+    "data": [
+      {
+        "text": "having any pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36b07a6b-1fad-4414-aef6-0a8ac0c3a63b",
+    "data": [
+      {
+        "text": "any burning or chest pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a68a3e4b-68c7-46eb-b942-d0f1fec288de",
+    "data": [
+      {
+        "text": "Hvae you had any chest pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2e0af07-661b-4ac6-b1fe-58aa907ccb9c",
+    "data": [
+      {
+        "text": "Do you experience pain while swallowing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f45ac928-b86f-4ce8-baff-4b567addcbb7",
+    "data": [
+      {
+        "text": "Do you have pain when swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9abee40-ee13-4a5d-abbf-4081512d206b",
+    "data": [
+      {
+        "text": "Do you have any pain ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5447a2f-0dcd-4d54-98ef-5d41d552d02e",
+    "data": [
+      {
+        "text": "Does it hurt to chew?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80ad9162-81bb-42d4-a262-2182b8a4a03f",
+    "data": [
+      {
+        "text": "are you hurt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d79d82ed-b0fd-4fe3-901c-6406b671ccf4",
+    "data": [
+      {
+        "text": "are you in pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6667ddaf-c9bb-4e09-ab12-cef40996bd0d",
+    "data": [
+      {
+        "text": "are you in pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8ec842e-7ae8-49ab-bcf4-042d4138fbc4",
+    "data": [
+      {
+        "text": "Do your legs hurt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3a2c18e-b116-455d-a2ab-d632a87ffaa4",
+    "data": [
+      {
+        "text": "Does chewing hurt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

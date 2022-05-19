@@ -1,0 +1,41 @@
+[
+  {
+    "id": "2d94b621-1890-4eaf-b41b-ca486d5114fa",
+    "data": [
+      {
+        "text": "What is wrong with your swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc7b0b21-b6b4-4775-b21d-589215466f96",
+    "data": [
+      {
+        "text": "Whats been wrong with your swallowing lately?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba7d7265-e0c8-4b4c-a5ab-41d11c646b57",
+    "data": [
+      {
+        "text": "what is wrong with your swallowing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

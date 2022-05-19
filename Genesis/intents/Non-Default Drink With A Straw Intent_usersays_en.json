@@ -1,0 +1,80 @@
+[
+  {
+    "id": "a5bf9137-096e-48fc-a8d8-6b3342bba95f",
+    "data": [
+      {
+        "text": "Can you suck liquid through a straw?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0ae9b8f-661e-4e19-bd74-31404b286d3d",
+    "data": [
+      {
+        "text": "Do you drink Ensure with a straw?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b74eff5-b442-4879-b282-a4bfef54b423",
+    "data": [
+      {
+        "text": "Have you tried using a straw?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7627367a-785e-470b-b8ea-6a0a0415d0fe",
+    "data": [
+      {
+        "text": "Any trouble swallowing from a straw?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c20450fb-6455-4240-b475-e11922e2256e",
+    "data": [
+      {
+        "text": "Can you drink with a straw?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "107c408a-ad67-4511-8c86-bb7edf72fadc",
+    "data": [
+      {
+        "text": "Do you sometimes use a straw?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

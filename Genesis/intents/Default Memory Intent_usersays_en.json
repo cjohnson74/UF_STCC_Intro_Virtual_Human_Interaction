@@ -1,0 +1,67 @@
+[
+  {
+    "id": "8fd1b95d-4dc0-4ab6-8d69-ca81d1771aeb",
+    "data": [
+      {
+        "text": "Do you have memory problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bad9691a-e865-4b74-b4ef-5340d5966122",
+    "data": [
+      {
+        "text": "How has your memory been?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e477c27-a8f8-425a-86eb-6474c0a173fa",
+    "data": [
+      {
+        "text": "How\u0027s your memory?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c61b2a3-ee6d-48e6-b621-f6683d7a49e9",
+    "data": [
+      {
+        "text": "How are you at remembering things?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b4233cf-5903-40d1-a398-1a6c2e519d22",
+    "data": [
+      {
+        "text": "how is your memory?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "id": "592b00c3-d1b3-4e43-a962-3b8cf4c208e7",
+    "data": [
+      {
+        "text": "Do you any trouble chewing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "280c02f9-db3a-486f-a5ea-06f10e979774",
+    "data": [
+      {
+        "text": "do you have trouble moving food in your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48d928db-db83-4dd6-b705-19b28c4c2108",
+    "data": [
+      {
+        "text": "do you have any trouble chewing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a906ec08-fe8c-4a9f-a328-0e8e4e4ed603",
+    "data": [
+      {
+        "text": "How is your chewing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b0b9091-0c64-40dd-b83b-fe4369b5f88a",
+    "data": [
+      {
+        "text": "do you have trouble moving your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22d2860c-cc43-45c8-b8d1-d8e030c91195",
+    "data": [
+      {
+        "text": "Do you have trouble chewing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00b47421-2bc7-42a1-821a-0ae8b1eb596c",
+    "data": [
+      {
+        "text": "When you chew the food do you notice any difficulties?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e85d0350-94f3-42ba-8df9-152fc2959d71",
+    "data": [
+      {
+        "text": "Does chewing the food take a long time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "711a5c49-97e3-4717-9beb-e71e37f13060",
+    "data": [
+      {
+        "text": "is it hard to chew",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e8e1b8b-aed2-430e-a165-edbf01a5cd79",
+    "data": [
+      {
+        "text": "Do you have difficulty chewing solid food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "359f1462-a836-4868-b699-29a4a66d32ed",
+    "data": [
+      {
+        "text": "Do you have trouble chewing solid foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f17a9175-682b-435f-8bed-ee88306a9bc9",
+    "data": [
+      {
+        "text": "Do you have any problems chewing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2c28cb5-9455-4168-bf45-003027efa9be",
+    "data": [
+      {
+        "text": "No you have any problems chewing foods or only swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27dfaca8-b50a-4471-9ffe-75483f225ba2",
+    "data": [
+      {
+        "text": "Do you have problems chewing your food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be447846-9088-4642-bd38-f895953a8f33",
+    "data": [
+      {
+        "text": "Can you chew food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9aac0a7b-be87-43f8-aa7b-1f7d24b2c55d",
+    "data": [
+      {
+        "text": "Are you able to chew?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3aad1dde-840c-4d8a-9032-8c007e357a8d",
+    "data": [
+      {
+        "text": "are you able to chew foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91ec4ba7-7050-4c68-88a3-fcbf31652f29",
+    "data": [
+      {
+        "text": "Do you have difficulty chewing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d664c68-5731-4809-b6e2-c19e29733663",
+    "data": [
+      {
+        "text": "Are you experiencing any problems chewing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6905f8e2-5beb-46de-92b9-8191bf238164",
+    "data": [
+      {
+        "text": "Do you have problems chewing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91bac075-8dc2-44bd-b720-0f65232deecc",
+    "data": [
+      {
+        "text": "Can you chew?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c6240ec-2834-4140-bc1c-d88c9dd1305b",
+    "data": [
+      {
+        "text": "Are you able to chew food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

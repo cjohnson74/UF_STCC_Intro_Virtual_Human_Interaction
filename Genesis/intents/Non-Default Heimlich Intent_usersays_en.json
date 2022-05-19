@@ -1,0 +1,67 @@
+[
+  {
+    "id": "6d15279d-5e5b-414b-b870-6feb4cb0bf96",
+    "data": [
+      {
+        "text": "Have you required the Heimlich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21937485-5fa8-4558-9002-41b9fc7882e8",
+    "data": [
+      {
+        "text": "Have you had the Heimlich manuever performed on you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3059a801-b1c9-4e63-a11f-8a35c2b52888",
+    "data": [
+      {
+        "text": "Have you ever received the Heimlech manuveur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec460d68-ccd5-4b2c-bbe9-c8df233bd998",
+    "data": [
+      {
+        "text": "Has anyone performed a heimlich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ae30ef4-6e70-466e-ba8a-b6bf22fc9a3b",
+    "data": [
+      {
+        "text": "have you needed the heimlich manuever?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

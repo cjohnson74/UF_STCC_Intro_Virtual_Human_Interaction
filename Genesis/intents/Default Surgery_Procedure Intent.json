@@ -1,0 +1,36 @@
+{
+  "id": "2a3d233a-ad83-4c39-b53f-432128e38c7d",
+  "name": "Default Surgery/Procedure Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I had some surgery around the time of my stroke, but that was a year ago.  Would it make a difference now?",
+            "Yeah, I had one when I had the stroke a while back. I don\u0027t remember what it\u0027s called. It\u0027s related to my stroke."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

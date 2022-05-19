@@ -1,0 +1,639 @@
+[
+  {
+    "id": "0cdce3b9-3242-4598-83dd-3cce2125814a",
+    "data": [
+      {
+        "text": "Do you cough with your pureed food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ac55314-736b-46d9-a8ad-86cd7344d439",
+    "data": [
+      {
+        "text": "Solids or liquids harder?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c7351c6-3219-4518-a956-1d17d31cc897",
+    "data": [
+      {
+        "text": "Are liquids or solids harder to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d7298dd-1818-4b41-8ea3-7f7a7085ff60",
+    "data": [
+      {
+        "text": "Are thicker juices easier to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ede7971-20ea-4f4f-97b6-a555cb317824",
+    "data": [
+      {
+        "text": "have you tried thickened liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5c927f0-68fb-479a-83a4-f73c0af5922a",
+    "data": [
+      {
+        "text": "Does the liquid diet give you trouble?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b987a3d-29ea-486d-a8a9-57607d5eaf4a",
+    "data": [
+      {
+        "text": "Do you cough on liquids or solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4141d09d-0187-4d70-b813-ce64869f2c6c",
+    "data": [
+      {
+        "text": "Are you eating pureed foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d326697-b1aa-40a6-836f-7cb9021fdff4",
+    "data": [
+      {
+        "text": "Do you cough with puree foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbe2fb66-f4b9-4dfb-8c73-23f7784f1696",
+    "data": [
+      {
+        "text": "Can you swallow pudding?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fa9740c-b649-48b7-a3ca-f7b24f04a665",
+    "data": [
+      {
+        "text": "Why are you on pureed foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5481bfaf-73ed-4bb7-bcaa-811960b03f80",
+    "data": [
+      {
+        "text": "Are there any foods you are avoiding?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "935f9f52-7153-45a9-a557-e3a0e81b8e41",
+    "data": [
+      {
+        "text": "Do you have trouble with certain foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e60b3456-45be-446a-9bb7-80f4293894d8",
+    "data": [
+      {
+        "text": "What do you have the most problem chewing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0248292b-643d-4b19-bab2-98398343f98b",
+    "data": [
+      {
+        "text": "Have you tried thickening you liquids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f49a368b-33bd-4b74-a444-2cc312ed136d",
+    "data": [
+      {
+        "text": "Do you cough for solids and liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bb184a2-933e-4e77-9c28-4d198be7e423",
+    "data": [
+      {
+        "text": "have you ever tried drinking thickened liquids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef49b329-9f17-4181-9f06-5432e37f9050",
+    "data": [
+      {
+        "text": "are you able to drink thickened liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "927ae274-6953-4321-b81c-7d11e58b3a55",
+    "data": [
+      {
+        "text": "are there certain foods you have trouble with",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfd8eba3-075f-483b-8cb6-7ab1068a696c",
+    "data": [
+      {
+        "text": "are thickened liquids easier to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "983b803b-242c-4a67-a064-1fd42771692d",
+    "data": [
+      {
+        "text": "Does thick liquids help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0405976b-b4e1-480a-9f1b-5c5214d3948e",
+    "data": [
+      {
+        "text": "Are there any foods you can eat that aren\u0027t difficult to get down?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2a156fb-67e3-4ff0-8f61-3d0d4a9b8d31",
+    "data": [
+      {
+        "text": "Do you have difficulty with liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c217f2d9-a711-4dbe-8cb1-ba26257fc93e",
+    "data": [
+      {
+        "text": "what types of food can you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fec7dc9c-2a2d-4617-8ea2-7a5bc6744a66",
+    "data": [
+      {
+        "text": "What kind of food or liquid do you have trouble with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97ac8485-5a79-49e0-bfc1-407ade51d3db",
+    "data": [
+      {
+        "text": "what types of food do you haev difficulty wiht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1436b6a4-0f30-4a36-8ae7-f847d50159a3",
+    "data": [
+      {
+        "text": "what food can you swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b03baf86-3f23-49c1-baf0-178678f19465",
+    "data": [
+      {
+        "text": "What kind of food can you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42ea4db3-3bad-4a7e-8c4f-a9caf10ad0f6",
+    "data": [
+      {
+        "text": "do you have trouble drinking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e12d929a-900f-4a94-a8fb-7757f60c1e86",
+    "data": [
+      {
+        "text": "do certain foods pose a problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48dd38c3-b779-477a-9991-759f551165fe",
+    "data": [
+      {
+        "text": "what are you having trouble swallowing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78161e2b-3fb5-4506-91bb-9dec7d76bd1a",
+    "data": [
+      {
+        "text": "have you had trouble swallowing since your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39a1bf2f-6317-489b-a04e-1bcf37bcfc2c",
+    "data": [
+      {
+        "text": "Do you have problems with liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24b2cdda-fb1f-4145-8416-0f124a851b18",
+    "data": [
+      {
+        "text": "With your swallowing difficulties do you have problems with solids or liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2eaf185b-1c31-4c0d-8a5f-7b5eb8121ed8",
+    "data": [
+      {
+        "text": "Do you have difficulty swallowing soft foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b52ec3bc-fea6-4d01-9c44-fba8f0f8b732",
+    "data": [
+      {
+        "text": "Is the problem only with liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cee5fe95-ef6b-4099-8716-04c817b13ada",
+    "data": [
+      {
+        "text": "Do you have difficulty swallowing liquid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "570a4f53-406d-43de-9212-f1aea846ccb0",
+    "data": [
+      {
+        "text": "Do you have trouble swallowing certain foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcdd8446-266f-4a73-9f19-78b841e507f5",
+    "data": [
+      {
+        "text": "What do you have difficulty swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c44f2334-1445-4360-ba5e-07c7f29c692b",
+    "data": [
+      {
+        "text": "Is it easier to swallow thicker liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36aa05c8-28bc-4d79-9ea8-d02a6794e4ca",
+    "data": [
+      {
+        "text": "So liquids are a problem to swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abe13791-d539-4079-a77b-84dcb7584c14",
+    "data": [
+      {
+        "text": "What gives you the most trouble, solids or solids and liquids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1955856-f17f-4b1b-967b-a3a302aef626",
+    "data": [
+      {
+        "text": "can you eat pureed foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c34f4b8-f420-4ca9-8d14-916bcd1e7543",
+    "data": [
+      {
+        "text": "Does the problem affect solids and liquids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "796482d2-8b2e-4685-9491-63921c4fa523",
+    "data": [
+      {
+        "text": "Do the pureed foods go down smoothly?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3c65d21-c692-433d-87f6-c6ba26d9d22c",
+    "data": [
+      {
+        "text": "Do you only eat pureed foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8861646d-851c-4e8e-a513-aa7399f71003",
+    "data": [
+      {
+        "text": "Are there any foods you\u0027ve been avoiding?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0ee39e3-339e-4c8c-8f70-28f6b13f10c2",
+    "data": [
+      {
+        "text": "does the problem get worse with solids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b960e5e-2b8d-4908-9f8c-5b1888e98801",
+    "data": [
+      {
+        "text": "Are soft foods okay?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

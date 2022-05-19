@@ -1,0 +1,184 @@
+[
+  {
+    "id": "b52264b5-55cc-4416-ab03-8a4ea6925279",
+    "data": [
+      {
+        "text": "are you anxious?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d85cae4-5b89-4142-9c13-a2296d87cb97",
+    "data": [
+      {
+        "text": "Are you fearful of eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "999687f7-ef78-429b-b39d-dc08b37dbecd",
+    "data": [
+      {
+        "text": "how is your stress level?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e09a17b6-31a2-4f65-b8d8-4430e31d0b73",
+    "data": [
+      {
+        "text": "tell me more about your stress",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b50e9af0-a72b-4553-9f54-55d666838420",
+    "data": [
+      {
+        "text": "How concerned are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4082111b-6bae-41e9-b5c6-55dcadeb6889",
+    "data": [
+      {
+        "text": "do you have anxiety?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46a3885f-e834-447d-9bc8-fda74e5bd1fc",
+    "data": [
+      {
+        "text": "have you noticed any behavioral issues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2c65e55-b0c6-4418-a8f6-39c4abd04c17",
+    "data": [
+      {
+        "text": "Are you suffering from any stress?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cd4d591-0b31-44b3-805b-59a30f8733e5",
+    "data": [
+      {
+        "text": "Do you feel you have a lot of stress in your life?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4a72e0d-68bb-49d4-9f98-c4ee3030b9e8",
+    "data": [
+      {
+        "text": "stress?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e052009a-ab15-4779-95a8-d8cea068662c",
+    "data": [
+      {
+        "text": "any stress?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45d532c0-5fcb-4e85-b9c9-457e86070367",
+    "data": [
+      {
+        "text": "are you experiencing any stress",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7956065c-546e-4658-bad0-b5ef8cb2f4c5",
+    "data": [
+      {
+        "text": "Are you stresed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15f3a3c9-0e75-48a4-af57-103caf5ccbe2",
+    "data": [
+      {
+        "text": "are you more stressed lately",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

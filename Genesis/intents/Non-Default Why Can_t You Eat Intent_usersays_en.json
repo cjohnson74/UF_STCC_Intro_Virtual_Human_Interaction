@@ -1,0 +1,54 @@
+[
+  {
+    "id": "cb327d33-7014-418a-b6ae-b7cbd232f705",
+    "data": [
+      {
+        "text": "do you still eat your wife\u0027s cooking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1def6980-7d02-48a2-85ee-62e254bf6003",
+    "data": [
+      {
+        "text": "do you still eat veal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b32fc5e-446c-4341-b62e-eb31588c3935",
+    "data": [
+      {
+        "text": "do you still eat lasagna",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "155b0fb4-4678-480e-a803-3299567c378a",
+    "data": [
+      {
+        "text": "Why can\u0027t you eat your wife\u0027s veal parmesan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

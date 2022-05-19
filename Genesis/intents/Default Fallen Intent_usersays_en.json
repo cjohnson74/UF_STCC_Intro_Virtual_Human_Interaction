@@ -1,0 +1,80 @@
+[
+  {
+    "id": "a89344b3-643c-4b74-abd2-606ceaaf618e",
+    "data": [
+      {
+        "text": "Do you ever fall?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5aad002c-91f3-42db-b899-4b5055f8977e",
+    "data": [
+      {
+        "text": "Any previous falling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "040dc1d2-f00d-4457-a5a2-b317b02c846f",
+    "data": [
+      {
+        "text": "Any falling in the past?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2464a515-dd01-4d1a-888e-b63f3744d09b",
+    "data": [
+      {
+        "text": "any history of falls?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "859ff250-043d-4db6-b7ee-fae25038f6b4",
+    "data": [
+      {
+        "text": "did you fall?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40132114-70e4-45cd-898c-d5806d18e72a",
+    "data": [
+      {
+        "text": "have you fallen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

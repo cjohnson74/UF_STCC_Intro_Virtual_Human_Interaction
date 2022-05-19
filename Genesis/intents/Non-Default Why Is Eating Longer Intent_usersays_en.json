@@ -1,0 +1,80 @@
+[
+  {
+    "id": "59276d09-e963-4bb4-9220-c9138776305e",
+    "data": [
+      {
+        "text": "Tell me about your treatment plan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bb555e5-dd7c-4ddb-b281-166f8673a18b",
+    "data": [
+      {
+        "text": "What are you doing, or supposed to be doing, as part of your treatment plan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0586da1-b572-4213-a23f-5c02b5a0657b",
+    "data": [
+      {
+        "text": "What is taking you longer to eat meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fc91884-6a9e-45ef-b407-a9d0c84a22b2",
+    "data": [
+      {
+        "text": "Why does it take you longer to eat your meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "736ef6d6-840b-45d7-a469-09072d27a210",
+    "data": [
+      {
+        "text": "Why do you eat longer than usual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "735dd44b-fdc8-42f1-9e0e-f28d0a3528aa",
+    "data": [
+      {
+        "text": "Why do you think your meal times have been taking longer than usual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f899bd46-f6e7-43ba-9bdf-2810fc21b3c2",
+    "data": [
+      {
+        "text": "Any issues with drinking wine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9531d9f0-fe5c-4b30-a83c-7801b22979f4",
+    "data": [
+      {
+        "text": "Are you able to drink wine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f75056f-1246-4091-b80e-cfb3f9460841",
+    "data": [
+      {
+        "text": "Could you drink wine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "073fb42d-a814-4e98-870b-fada9cb4be0c",
+    "data": [
+      {
+        "text": "Can you consume wine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "042b062f-b4ac-45cf-9f23-5c25ce25143f",
+    "data": [
+      {
+        "text": "can you drink wine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "id": "73e888ce-cac7-414d-8411-0239f87394be",
+    "data": [
+      {
+        "text": "Do you have head/neck cancer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0ace36a-f491-43b7-9a10-46bf23b7f6a7",
+    "data": [
+      {
+        "text": "Have you ever had cancer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea162bef-5b73-4b98-9845-ec4977b7d289",
+    "data": [
+      {
+        "text": "you have Oropharyngeal cancer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f998673-d8aa-4bec-962c-3611c7547027",
+    "data": [
+      {
+        "text": "So you have cancer.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0959f8ad-5994-49bd-ac37-d6837c45a8e8",
+    "data": [
+      {
+        "text": "Oropharyngeal cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87222db6-7e23-48e0-9300-34ab54f49291",
+    "data": [
+      {
+        "text": "Do you have cancer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e3a3426-605a-4c50-8b95-9f25e3a49f34",
+    "data": [
+      {
+        "text": "Any cancer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "906541dc-f307-4740-8ac6-88b9f0cb3a92",
+    "data": [
+      {
+        "text": "are you cancer free now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8839d33a-7d23-4fd2-8a09-c081701d272c",
+    "data": [
+      {
+        "text": "Did you have laryngeal cancer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a5a1a07-96f7-4ee9-886e-07401fc17a88",
+    "data": [
+      {
+        "text": "Did you have head/neck cancer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b38a03b9-8b8e-49e0-bc09-6eafbd6da145",
+    "data": [
+      {
+        "text": "Did you have chemo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26275a9c-8857-487c-8ec1-e705290d4600",
+    "data": [
+      {
+        "text": "are you cancer free?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a518e90-f303-4388-b610-b70e842cf4a1",
+    "data": [
+      {
+        "text": "Was all of the cancer removed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80565c61-7b47-4e84-947e-6f15a6ea1b2c",
+    "data": [
+      {
+        "text": "where was your cancer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65558b26-2018-459f-9ec9-f795b4094835",
+    "data": [
+      {
+        "text": "Where was your tumor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9114e944-0c78-460c-9e91-d228b9081d12",
+    "data": [
+      {
+        "text": "You had cancer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36038165-2bb0-436e-b025-55fd3b095d19",
+    "data": [
+      {
+        "text": "how did they treat your cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af548f68-eb6c-4ce5-8606-4a6daae1d533",
+    "data": [
+      {
+        "text": "is the cancer in remission",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c407286-c1f7-400e-aa47-bbd9c357fe45",
+    "data": [
+      {
+        "text": "Did the cancer spread?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

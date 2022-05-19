@@ -1,0 +1,670 @@
+[
+  {
+    "id": "c9882037-10b9-40f2-9ebf-2b478a4042d8",
+    "data": [
+      {
+        "text": "Do you take any medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "849121d9-89c3-4523-8680-c35f5dc3da4c",
+    "data": [
+      {
+        "text": "Do you take any drugs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aeb470c7-99c7-4f54-84e2-5c1cec0c7736",
+    "data": [
+      {
+        "text": "25 mg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of what?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3aa657e-f713-4b20-a400-576d2bcdd931",
+    "data": [
+      {
+        "text": "Do you take any other medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee74c37c-35e9-456c-8a9e-63b64e574b49",
+    "data": [
+      {
+        "text": "Are you currently taking any medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7af7b469-71d3-4296-9c47-5ad931255411",
+    "data": [
+      {
+        "text": "What medication do you currently take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a48f7932-a58b-409f-8cf1-d667f017c507",
+    "data": [
+      {
+        "text": "What medications are you taking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "373b6a96-0b69-4723-804c-4502314aa024",
+    "data": [
+      {
+        "text": "Do you take medication for hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55dc27fd-4bcd-47e0-853e-cdaafbbce099",
+    "data": [
+      {
+        "text": "Do you take medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "050722ff-b4c3-4e3c-9775-a8a929b4b8cb",
+    "data": [
+      {
+        "text": "Do you take any medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db3b7c3d-4bd6-4f26-b3ba-44d1933bed4f",
+    "data": [
+      {
+        "text": "Are you taking any anticoagulants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd8c9a0a-6c50-49f0-bdbb-5a97ad68f074",
+    "data": [
+      {
+        "text": "Are you taking anything for your hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35a8f607-decb-413e-a3a4-edf15829388e",
+    "data": [
+      {
+        "text": "Do you take any specific medications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afc0d272-df0c-4193-b62d-5709ac761c7a",
+    "data": [
+      {
+        "text": "Do you take blood pressure medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f30f71db-c6d3-4edf-8662-9197b0398fb5",
+    "data": [
+      {
+        "text": "Do you take medication for your hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "faf2e985-a16e-4c0e-af2e-62767279b47f",
+    "data": [
+      {
+        "text": "what do you take for your blood rpessure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1c0c7fa-cd67-4fa4-b5f1-29f47fcf9f4c",
+    "data": [
+      {
+        "text": "what do you take for your hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afed5a75-ff78-4e94-acc9-22d0f5c8f68d",
+    "data": [
+      {
+        "text": "Are you on any medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "815208b9-1ca9-4c4f-add3-be1b3db9d689",
+    "data": [
+      {
+        "text": "What medication are you taking currently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2a54b69-89fa-4ef2-b5cc-d8b7f1381e60",
+    "data": [
+      {
+        "text": "Are you currently on any medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "764e4a46-2f82-4774-a576-2fc059597cb8",
+    "data": [
+      {
+        "text": "Are you on any medications now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c845b133-2f01-49eb-962f-8c16aa012109",
+    "data": [
+      {
+        "text": "what medications are you on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2116ae20-b6e3-4aac-8b43-33044de2aaf6",
+    "data": [
+      {
+        "text": "what type of medications do you take",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3808aea9-d1b1-4a60-83a0-7536f445efb7",
+    "data": [
+      {
+        "text": "what type of medications are you on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf797d2f-9b7c-41d9-af94-129c957f65f9",
+    "data": [
+      {
+        "text": "Are you taking any medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf04586c-0dac-4f6e-86c5-df470bdafa0c",
+    "data": [
+      {
+        "text": "What medications are you currently taking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c805ff79-4186-4ec3-aea4-565bfce6fb37",
+    "data": [
+      {
+        "text": "what medicines do you take",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d45b3bc7-4a1f-4e67-8b85-29ec67a96b89",
+    "data": [
+      {
+        "text": "Are you on any medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88488480-e721-4b06-84ea-3fc96a7a2e3f",
+    "data": [
+      {
+        "text": "Are you on medication for hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea06760e-ec09-4ce5-9533-4c53083af532",
+    "data": [
+      {
+        "text": "Are you taking any supplements?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e37fb79e-a767-4059-ab32-741608a59aa0",
+    "data": [
+      {
+        "text": "any prescribed medication",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99e50a50-8af8-4092-84f7-4e0a7f58e4fd",
+    "data": [
+      {
+        "text": "Are you on medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2649c68-fdd1-4c20-aeea-825b8f0ad689",
+    "data": [
+      {
+        "text": "what medications do you take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c69f212-9298-4ee1-b0e5-3f612b50052c",
+    "data": [
+      {
+        "text": "What medication are you currently on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5d3a3a3-bf88-4165-9a4a-4cabd85e8bfa",
+    "data": [
+      {
+        "text": "Prescription drugs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd1758d3-05de-4c73-9047-edc2583efe32",
+    "data": [
+      {
+        "text": "No medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "936bf848-393d-452f-b639-34757aca2692",
+    "data": [
+      {
+        "text": "Have you been prescribed anything?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a196a14-a421-4809-b474-eb9ecb08b30d",
+    "data": [
+      {
+        "text": "Do you have a prescription?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "581eeaba-5285-42ca-b1b4-50230733d150",
+    "data": [
+      {
+        "text": "any current medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5bc06c6-f892-4256-8411-e40c64cb48d1",
+    "data": [
+      {
+        "text": "what medications are you on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afd86a7e-c923-491a-a699-1d69566b4a6c",
+    "data": [
+      {
+        "text": "do you take medications as prescribed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbb9340a-964e-4144-923c-b8e88bdae431",
+    "data": [
+      {
+        "text": "are you currently taking medications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1c20379-6a74-4a60-a9d6-f49569b254f7",
+    "data": [
+      {
+        "text": "Are you taking medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a5d6d90-500d-48c2-a641-d85c32dd1163",
+    "data": [
+      {
+        "text": "Are you currently on medications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a0a2fa6-a6c1-4f04-ab88-42d35c93fff8",
+    "data": [
+      {
+        "text": "Are you on medicine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5a7e5f4-d112-4f6a-997f-fcc83dd30436",
+    "data": [
+      {
+        "text": "Are you on any medicine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b2645f7-6c45-43c4-9bc6-58b4654bbdbf",
+    "data": [
+      {
+        "text": "prescription medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79a83b52-861c-417d-abef-34e657673840",
+    "data": [
+      {
+        "text": "Do you have any prescriptions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf74060e-c087-4318-b61e-bab5a39a8466",
+    "data": [
+      {
+        "text": "Do you do anything for your hyertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94841eb0-9f7b-47f2-918a-3d3459df4b21",
+    "data": [
+      {
+        "text": "Do you have medicine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dda31aa5-e100-4d4c-a2db-b63ce7fc0f64",
+    "data": [
+      {
+        "text": "Are you taking any medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

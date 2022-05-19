@@ -1,0 +1,145 @@
+[
+  {
+    "id": "99bc8e63-3f33-41d5-bce3-a9715ef65119",
+    "data": [
+      {
+        "text": "Are you nauseus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2f9c11e-e5f5-4e28-9687-7287621f9023",
+    "data": [
+      {
+        "text": "Any nausea?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b553838-4e97-4606-bff6-28c29d47f581",
+    "data": [
+      {
+        "text": "tell me about the vomitting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e39283e5-482f-4393-a5eb-d6891957168b",
+    "data": [
+      {
+        "text": "Do you have emesis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0279b3c-fd8b-4323-b182-55239860b0b2",
+    "data": [
+      {
+        "text": "Do you vomit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2832cf4-8c03-46a3-b5c7-d50b86bbf5b6",
+    "data": [
+      {
+        "text": "Vomit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "374e937b-6e28-4452-8286-2ae590b547ff",
+    "data": [
+      {
+        "text": "Do you ever throw up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "813e59d4-9434-48df-bd75-b5f7fea6fad8",
+    "data": [
+      {
+        "text": "Do you ever feel like throwing up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "caecbd3b-faef-4124-ad75-fadc85a3e0c7",
+    "data": [
+      {
+        "text": "feel like vomiting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08af41ee-e841-4aed-a14e-4bfd70332ff9",
+    "data": [
+      {
+        "text": "any vomiting sensation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7310fd2e-cf4a-4e68-a325-07dd2e8e10e7",
+    "data": [
+      {
+        "text": "do you have any nausea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

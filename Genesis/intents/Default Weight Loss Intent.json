@@ -1,0 +1,35 @@
+{
+  "id": "af6b66de-58b8-4048-86b6-5df21d943751",
+  "name": "Default Weight Loss Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Well, I\u0027ve always been a big guy, so I could stand to lose a pound or two. But I lost about 20 pounds without trying since I changed my diet. That\u0027s a lot! I\u0027m a little concerned."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

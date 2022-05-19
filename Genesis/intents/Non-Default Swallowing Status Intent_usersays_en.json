@@ -1,0 +1,644 @@
+[
+  {
+    "id": "79cbcd50-eab6-4e41-8dcb-e6853b631ad7",
+    "data": [
+      {
+        "text": "Have you noticed any decline or improvement?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "333cd0fd-34ca-44fb-be26-6c3c270ddfb6",
+    "data": [
+      {
+        "text": "What has changed ",
+        "userDefined": false
+      },
+      {
+        "text": "3 months ago",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "052d6b62-b0b7-43b6-ad41-5adf5bca4d0b",
+    "data": [
+      {
+        "text": "Do you seem to be getting better?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bba7b1f1-04de-4d42-b3cb-de047efd806f",
+    "data": [
+      {
+        "text": "have you gotten any better?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85343c90-63dc-4de5-925a-0f26d5b2ad88",
+    "data": [
+      {
+        "text": "Did you have swallowing problems immediately after your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc042d9f-e64a-459c-b603-7f6315333bba",
+    "data": [
+      {
+        "text": "Has your swallow changed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a71291b3-e37f-4353-b3fc-f1e330a9c7d8",
+    "data": [
+      {
+        "text": "Is your swallowing better than when you ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " had your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cbc1751-8db2-4eb2-ba0e-f7a50bdbd956",
+    "data": [
+      {
+        "text": "Has your swallowing gotten worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd280e92-a609-4001-ade6-212f4e39ac48",
+    "data": [
+      {
+        "text": "Has your swallowing improved?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4fa7302-5e3e-4a0c-b691-1b530f2ad469",
+    "data": [
+      {
+        "text": "What caused the change back to pureed food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f7331fe-e62a-4c5a-87b1-b49628df2503",
+    "data": [
+      {
+        "text": "has your swallowing gotten better or worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51c14a41-8abb-4aa9-aa06-7cdbb9663db6",
+    "data": [
+      {
+        "text": "has your numbness gotten better or worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79c2712e-a9bc-457c-a330-ef7181212e74",
+    "data": [
+      {
+        "text": "Has your swallowing gotten worse since stopping swallowing therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13cb27c2-b6dd-4f59-a0f3-d9ad9ab2cf31",
+    "data": [
+      {
+        "text": "Is your swallowing getting worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b3bf8b6-9c5e-44fe-9721-f1387b9dd0a2",
+    "data": [
+      {
+        "text": "Has your swallow gotten worse over time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef275583-d83f-4c42-90da-ec317432101c",
+    "data": [
+      {
+        "text": "has your swallowing got worse or better?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "559736a9-f5e9-474d-8fa2-fb89ba1d8c5b",
+    "data": [
+      {
+        "text": "Do you feel like your problems are getting worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "195c3491-24b0-4de7-9b38-188e6c88623d",
+    "data": [
+      {
+        "text": "Has your swallowing improved since the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4506b444-09bd-45e8-9c70-c8bd0eb19d5f",
+    "data": [
+      {
+        "text": "has your swallowing gotten better or worse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c28df79-ac06-44f1-a245-c00df0dc484f",
+    "data": [
+      {
+        "text": "Has the problem gotten worse since the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "756d7b92-15a9-4af6-83d6-2032b4fb5855",
+    "data": [
+      {
+        "text": "Has your swallow improved at all since the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "315f7f21-54c2-438a-a9f7-78ffd0c530d2",
+    "data": [
+      {
+        "text": "Is it better now than when you were in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8819faf-b345-42f2-8f91-2c7e10b1c9c2",
+    "data": [
+      {
+        "text": "Is your swallow better now than it was after your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5d5b335-d0ce-48c9-a1d5-c77a93cd00e9",
+    "data": [
+      {
+        "text": "Is your swallow getting worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "873b9e35-b70f-4b4b-b0e5-17c3686ef84d",
+    "data": [
+      {
+        "text": "Did the problems get worse slowly or quickly?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d316197-e4ee-49ab-9d64-0872d7b7aeaa",
+    "data": [
+      {
+        "text": "Has your swallowing problems worsened since then?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83898f44-7e03-4c36-96c3-0788ec7087f8",
+    "data": [
+      {
+        "text": "Does eating require more effort?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1d337f9-797a-456c-8246-13ea38aefdfd",
+    "data": [
+      {
+        "text": "Do you feel like the swallowing difficulty has gotten worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d814958-f7ba-477f-96a6-3b991c8d30f6",
+    "data": [
+      {
+        "text": "Has the problem gotten worse over time or stayed the same?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7b06361-71f2-40f0-a0ee-8aead925b3e2",
+    "data": [
+      {
+        "text": "is the problem worse now than it was just after your stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bea07820-5224-4c57-a598-013346d2c005",
+    "data": [
+      {
+        "text": "is it getting worse or staying the same",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1457b5ec-b330-4fca-a31e-f0030e0d9709",
+    "data": [
+      {
+        "text": "has the swallowing problem been getting worse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16105b4b-fe40-4322-9522-74c6eb2f03b5",
+    "data": [
+      {
+        "text": "Has the swallowing problem been getting worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9e1a733-50d3-440e-a1af-ff999a6285f3",
+    "data": [
+      {
+        "text": "Is your swallowing delayed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1417dd7-3561-47f3-ae17-4e999a92b7f4",
+    "data": [
+      {
+        "text": "Did it get worse over time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9076ba32-0627-4acd-99cb-1572c823f631",
+    "data": [
+      {
+        "text": "Has your problem been getting worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fbe33cc-b97e-47ec-bd63-0f855030e270",
+    "data": [
+      {
+        "text": "Have the problems gotten worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "823bd01e-74cf-48af-9e39-837ce758841b",
+    "data": [
+      {
+        "text": "Is your swallowing worse since your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7b357ec-64d1-4beb-bd80-049dd42d01e5",
+    "data": [
+      {
+        "text": "things got worse after therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d6ba43d-f2d7-4d69-b31b-fcaf86dbc9c4",
+    "data": [
+      {
+        "text": "has the problem gotten worse or stayed the same?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e40ffa9-8961-4c2f-b175-a1befe59ae8f",
+    "data": [
+      {
+        "text": "Has your condition improved?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db3bd8c8-a5a4-4fc6-9a34-e50d2d40538e",
+    "data": [
+      {
+        "text": "Have your symptoms improved?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78d769a6-5535-4ece-851a-bb4f08cfb1f6",
+    "data": [
+      {
+        "text": "Have your symptoms worsened?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37e6caf2-0e3b-4ad0-a4f6-22cca7622c0f",
+    "data": [
+      {
+        "text": "Have your symptoms gotten worse since then?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "980afe96-9dfd-4542-9277-7c97bc03025b",
+    "data": [
+      {
+        "text": "Has it gotten worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73648549-4820-479c-8d2d-0c469f6069ea",
+    "data": [
+      {
+        "text": "Did your swallowing get better or worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2009c09-c007-414a-b7d2-bc48aae13858",
+    "data": [
+      {
+        "text": "How is your swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34672b49-fc44-46cf-8d6d-fae35bd1d36e",
+    "data": [
+      {
+        "text": "Is your swallowing the same or has it got worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

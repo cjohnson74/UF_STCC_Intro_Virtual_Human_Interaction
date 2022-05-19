@@ -1,0 +1,236 @@
+[
+  {
+    "id": "6c119840-c4e1-4913-8c01-f95ffabdc6fa",
+    "data": [
+      {
+        "text": "Any history of stroke in your family/",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df55d84c-73ab-43d6-a146-53711eb2654b",
+    "data": [
+      {
+        "text": "Tell me about your family health problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a221e95b-f5b8-41d1-a9cb-b26358ee031e",
+    "data": [
+      {
+        "text": "Any family history?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "096a4c6f-b5b4-458a-ac7e-9a8382fcaa23",
+    "data": [
+      {
+        "text": "Does your family have a significant medical history?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3aee0a4-3536-41e1-8c25-697c46b5cb48",
+    "data": [
+      {
+        "text": "Does your family have a history of stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfa8a358-56e9-4623-9f71-5460bfc63622",
+    "data": [
+      {
+        "text": "Any family history of stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5137bc65-97a6-47eb-b1fb-fd8c8491464c",
+    "data": [
+      {
+        "text": "how are parents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae69c147-a685-4275-b6f3-f38b2924072c",
+    "data": [
+      {
+        "text": "Do your parents have any illnesses or diseases?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10ed9574-b858-447d-80e2-2b7562af0853",
+    "data": [
+      {
+        "text": "What is your family history?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03fb3282-fe22-4d4a-aa25-8bbec9f0b52e",
+    "data": [
+      {
+        "text": "what is your families medical history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c5d47fc-e2ee-4098-ad8d-bb1d3f86fe81",
+    "data": [
+      {
+        "text": "Can you tell me anything else about your family history?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5d3ff14-74c1-41ff-a611-6c352f567c84",
+    "data": [
+      {
+        "text": "How are your parents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "769293a4-e232-4bf7-8795-2ab036f8c933",
+    "data": [
+      {
+        "text": "Okay, let\u0027s get some history from you, could you tell me about your parents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17193b2e-12d6-49eb-b5d1-e22dc9377a2c",
+    "data": [
+      {
+        "text": "Tell me about your parents.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "540afe37-71f4-4040-9be7-4e11d5e4e964",
+    "data": [
+      {
+        "text": "Okay, let\u0027s get some history from you, could you tell me about your father?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af5b84d7-4a1c-4e72-81ff-b319b8c3a9ef",
+    "data": [
+      {
+        "text": "And your father",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1ba4c14-ec55-4458-a585-16d4a8560ca8",
+    "data": [
+      {
+        "text": "tell me about your dad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61e55a7f-953f-42e3-a8a6-72752924ab58",
+    "data": [
+      {
+        "text": "Tell me about your father",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

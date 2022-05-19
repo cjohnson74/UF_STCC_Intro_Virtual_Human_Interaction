@@ -1,0 +1,145 @@
+[
+  {
+    "id": "176b8070-f73a-48a9-99f7-fd3b1599fdff",
+    "data": [
+      {
+        "text": "How long were you in the hospital after your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b798d7d4-8b14-4ca7-af17-08c778871358",
+    "data": [
+      {
+        "text": "How long were you in the hospital for your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ddaf3cb-9692-47a7-a7dd-edb2d88cf84a",
+    "data": [
+      {
+        "text": "How long did you stay in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4700133-27f0-4023-8f7c-bbad3b98f0ae",
+    "data": [
+      {
+        "text": "How long were you hospitalized?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49faeb26-3ba8-4a83-b66e-a6b1ab2b6a1b",
+    "data": [
+      {
+        "text": "How long were you in the hospital for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e0a6c67-02f1-4f89-849b-32701ad32008",
+    "data": [
+      {
+        "text": "How long were you in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cfffe9f-2c73-4c8e-bca9-881f4baf685c",
+    "data": [
+      {
+        "text": "how long were you in the hospital after your stoke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86aa7112-6e69-4b95-b97b-2161abefb761",
+    "data": [
+      {
+        "text": "Did you have a long stay in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0a23264-4eb3-411f-b46c-f09c2462aa99",
+    "data": [
+      {
+        "text": "Did you spend a lot of time in the hospital after your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33cfddf1-4154-4574-a82a-115fe52d56a2",
+    "data": [
+      {
+        "text": "How long was your stay in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46204040-0866-4288-b7c6-71e983c3b8a8",
+    "data": [
+      {
+        "text": "How long were you in the hospital after the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

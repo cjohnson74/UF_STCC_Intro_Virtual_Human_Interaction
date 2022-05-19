@@ -1,0 +1,54 @@
+[
+  {
+    "id": "71b2cbec-bde5-418e-a54d-b90e588ee068",
+    "data": [
+      {
+        "text": "Is the numbness only on one side?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5a0041f-ae0e-40f0-b37a-b4c38792a6b9",
+    "data": [
+      {
+        "text": "Do small amounts of food or liquids ever fall out of your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0599672-65d1-4740-a2cf-4ac95bbb8c12",
+    "data": [
+      {
+        "text": "Do you have numbness in your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89b54ccd-3515-4cde-adfa-eb1c5cf4c873",
+    "data": [
+      {
+        "text": "Is just one side of your mouth hard to chew food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

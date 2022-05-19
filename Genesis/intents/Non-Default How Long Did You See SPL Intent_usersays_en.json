@@ -1,0 +1,145 @@
+[
+  {
+    "id": "8b8c2c51-5001-4e4d-9451-4638943ebf62",
+    "data": [
+      {
+        "text": "How long did you see a speech pathologist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ca580d7-4d4b-480e-8a19-ca40c07aa495",
+    "data": [
+      {
+        "text": "How long did you see them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ec2ac29-c012-4103-b915-771d53a65f0b",
+    "data": [
+      {
+        "text": "Do you still see her?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2af39360-a53f-45f7-889c-9deb454552df",
+    "data": [
+      {
+        "text": "When was your last doctors appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7bac56f-31fd-4eda-badd-f1632e35f02a",
+    "data": [
+      {
+        "text": "Are you receiving therapy for your swallowing difficulties?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c80fe2b3-9146-4da0-bfbd-a2fae5e0d860",
+    "data": [
+      {
+        "text": "When is the last time you went to the doctor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2986ce3-3338-4a81-b3d2-63b0f6733998",
+    "data": [
+      {
+        "text": "How often did you see a speech language pathologist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6141fa7f-cc96-48a0-83bd-02c903259497",
+    "data": [
+      {
+        "text": "When did you last see your doctor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84834c60-8e47-409d-ad76-fa9656df24c8",
+    "data": [
+      {
+        "text": "did you see the speech therapist often?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a979ce4-04c4-46b4-9aca-4f80ea312a02",
+    "data": [
+      {
+        "text": "how long did you see the speech therapist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfc787eb-184c-4b39-8253-51fd451cf7ec",
+    "data": [
+      {
+        "text": "how long did you see her?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

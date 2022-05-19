@@ -1,0 +1,93 @@
+[
+  {
+    "id": "ec9c4923-907e-4874-908d-5f5583e13f6b",
+    "data": [
+      {
+        "text": "What side effects do you have from the medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3e26448-f20f-474c-9aae-5468d4ea67de",
+    "data": [
+      {
+        "text": "What symptoms do you see from your medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08af637f-aa21-4b63-9085-410f14261c9b",
+    "data": [
+      {
+        "text": "Do you have any side effects from the medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6feaed94-f874-4ad3-afa5-11728eecd9ec",
+    "data": [
+      {
+        "text": "are you having any side affects from your medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce355c82-3a32-43a2-a304-f92cd66c1664",
+    "data": [
+      {
+        "text": "ok. Did you have any symptoms from your medicine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eda9ffa2-af33-42c5-a40f-ad5653f57dac",
+    "data": [
+      {
+        "text": "Did the hydrodiuril give you symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ec33f83-245b-421f-bb6f-5d5ac78bebf0",
+    "data": [
+      {
+        "text": "Has the medication had any side effects?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

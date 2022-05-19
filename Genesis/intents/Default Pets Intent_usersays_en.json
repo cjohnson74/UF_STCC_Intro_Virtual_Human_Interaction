@@ -1,0 +1,54 @@
+[
+  {
+    "id": "857e3d4e-51f0-415d-a736-bec20b8b06bc",
+    "data": [
+      {
+        "text": "Do you own a cat or dog?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "694ab0d0-82f7-433f-86ab-e3a637676afb",
+    "data": [
+      {
+        "text": "Any pets?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65315878-9e58-4ee0-b1d8-e029bea8450a",
+    "data": [
+      {
+        "text": "Do you live with animals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de78da82-8539-45db-a0e9-8ffbb5c41fb1",
+    "data": [
+      {
+        "text": "Do you have any pets?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

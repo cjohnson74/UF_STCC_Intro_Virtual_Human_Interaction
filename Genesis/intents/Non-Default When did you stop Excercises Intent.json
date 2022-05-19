@@ -1,0 +1,36 @@
+{
+  "id": "474fc372-b2e2-4ae5-9211-bb3e4054eb14",
+  "name": "Non-Default When did you stop Excercises Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oh, I was so busy when my daughter had the baby, so I just kind of lost track of it. I\u0027d say it\u0027s been about 3 months.",
+            "I stopped doing them three months ago"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

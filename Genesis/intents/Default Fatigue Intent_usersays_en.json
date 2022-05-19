@@ -1,0 +1,119 @@
+[
+  {
+    "id": "3f3281dc-e5a2-423a-b93a-4defdc55c9bb",
+    "data": [
+      {
+        "text": "Have you felt ill at all recently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47cf409f-58fc-47d5-a522-621b9e2dcfa4",
+    "data": [
+      {
+        "text": "Do you have fatigue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e1bdeac-8da4-4e44-8e3b-70a83d66e668",
+    "data": [
+      {
+        "text": "Are you weak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4721805e-667e-43ef-b1ce-bfce1c980d4f",
+    "data": [
+      {
+        "text": "have you been getting tired easily",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c74095d1-a3a2-4c1f-90be-8e66ad540a79",
+    "data": [
+      {
+        "text": "have you been sleeping a lot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06cadee1-0c7e-4a55-aa9d-c5a030749464",
+    "data": [
+      {
+        "text": "have you been feeling weak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a486317-7cdf-4bc2-a3e2-82f3e0dc85b9",
+    "data": [
+      {
+        "text": "are you fatigued?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35b38853-dc23-43be-aeb1-a47bd71805d0",
+    "data": [
+      {
+        "text": "Are you experiencing fatigue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2e47d41-ae08-43c9-bd14-155cd6434ab1",
+    "data": [
+      {
+        "text": "are you tired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

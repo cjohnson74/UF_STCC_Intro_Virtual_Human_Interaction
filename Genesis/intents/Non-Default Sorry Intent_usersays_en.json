@@ -1,0 +1,41 @@
+[
+  {
+    "id": "6c3aa45f-0480-4c05-b0f0-dae0a4ad6933",
+    "data": [
+      {
+        "text": "I\u0027m sorry to hear that.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68ec646a-274b-4a48-9e27-724f8949c2e9",
+    "data": [
+      {
+        "text": "I\u0027m sorry to hear that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "994337ad-3d34-4ec7-8a1d-5efc2b710fc3",
+    "data": [
+      {
+        "text": "I\u0027m sorry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

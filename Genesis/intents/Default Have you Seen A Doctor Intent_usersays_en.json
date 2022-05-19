@@ -1,0 +1,28 @@
+[
+  {
+    "id": "b41123ae-abd9-4e6b-a4d0-c19487a38fbd",
+    "data": [
+      {
+        "text": "have you seen any other doctors?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "742410c1-ba90-4d53-ae12-5051dc95d343",
+    "data": [
+      {
+        "text": "Have you been to the doctors?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "05c256c4-c874-4616-8a5f-edb15cb4d07e",
+    "data": [
+      {
+        "text": "Do you have an STI?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8260da7-46ca-4e55-849e-b3d9a9e37110",
+    "data": [
+      {
+        "text": "Do you have any sexually transmitted infections?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "771a7ee5-a547-4b1f-9bd2-c19706b1a43e",
+    "data": [
+      {
+        "text": "Do you have a STD?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "653c29d9-fc4e-4707-b586-2803dcfdc59d",
+    "data": [
+      {
+        "text": "Do you have any sexually transmitted diseases?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

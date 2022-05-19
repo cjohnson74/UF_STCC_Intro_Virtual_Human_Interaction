@@ -1,0 +1,67 @@
+[
+  {
+    "id": "6d907efc-2a67-4ec3-a3d5-7882d9df0b28",
+    "data": [
+      {
+        "text": "How frequently do you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17d3003d-2993-42e2-829f-1e9fd902eaca",
+    "data": [
+      {
+        "text": "Do you eat regularly?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7142d1d7-1f38-4769-b205-c9e81164ee8e",
+    "data": [
+      {
+        "text": "What time do you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "648098da-baed-4b10-92b7-ac25b621c9de",
+    "data": [
+      {
+        "text": "When do you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c58dd1e-5137-4857-afcf-a517d1115b27",
+    "data": [
+      {
+        "text": "How often do you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

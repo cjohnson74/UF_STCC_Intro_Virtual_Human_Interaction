@@ -1,0 +1,457 @@
+[
+  {
+    "id": "054c80d4-5259-4303-9af7-d3bc6bc61c43",
+    "data": [
+      {
+        "text": "Do you have trouble with your salivation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c4a01ce-8f40-41b6-b932-0f0cf1072e0d",
+    "data": [
+      {
+        "text": "What problems have you had with your saliva?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d5b1e7a-b53e-436d-acb6-88fb930102f1",
+    "data": [
+      {
+        "text": "Are you having problems with your saliva?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c571565-57dd-4bd0-8310-9c5d7425ea95",
+    "data": [
+      {
+        "text": "Do you have trouble with salivation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86cf83cf-f23e-470e-938b-ddcf214d059e",
+    "data": [
+      {
+        "text": "Do you have problems with your salivation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35d7a4a9-c47e-4eef-ab34-2923abe9a763",
+    "data": [
+      {
+        "text": "Do you have problems with saliva?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ead1ff4-cc26-4b28-aea6-a2acd74c88e7",
+    "data": [
+      {
+        "text": "Do have anything wrong with your saliva?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4206936d-db41-4056-9df5-10411be34a74",
+    "data": [
+      {
+        "text": "Have you had problems with your saliva?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47f90ee1-9e2c-4474-add8-5309150e6f65",
+    "data": [
+      {
+        "text": "Any issues with your saliva?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35cc43b0-776a-4694-8746-4b6e43056761",
+    "data": [
+      {
+        "text": "How is your salivation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "728751f2-6b43-4571-b18c-8fe94622e2ec",
+    "data": [
+      {
+        "text": "Do you have issues with your saliva?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac70d2da-3d82-40f9-9f8a-192de3086b29",
+    "data": [
+      {
+        "text": "Do you have problems with your saliva?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70ffb052-d6ee-442f-983f-f5be6e730ae3",
+    "data": [
+      {
+        "text": "Is your saliva an issue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0e14225-e931-47df-9858-00a471af2717",
+    "data": [
+      {
+        "text": "Notice any saliva issues?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c2dc752-e18e-40df-8bd6-4d6db5e7bb4a",
+    "data": [
+      {
+        "text": "Any issues with salivation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f710776a-62fc-4d4e-9ed3-287c2c338ceb",
+    "data": [
+      {
+        "text": "Have you ever caught yourself drooling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b64f15c9-f3ca-4f4e-a91a-d57452ad5833",
+    "data": [
+      {
+        "text": "Are you experiencing and salivating issues?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51d28382-81c0-4b90-bdb6-94cadd51202b",
+    "data": [
+      {
+        "text": "Do you have excess salivation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "830c1b48-3254-4685-b97c-98e0fec0c643",
+    "data": [
+      {
+        "text": "Do you salivate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e9bb5e4-b21c-4fec-ad0d-ccc7dfd52c2c",
+    "data": [
+      {
+        "text": "salivation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b52fe1e-ccd9-45e0-a4a6-b35afe787634",
+    "data": [
+      {
+        "text": "Have you had problems with drooling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "354882b8-b99d-47cf-a45d-eeb9af791a02",
+    "data": [
+      {
+        "text": "Have you had problems with dribbling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83fd9a7e-3287-40be-903d-2ef45cb57eb7",
+    "data": [
+      {
+        "text": "Do you have dribbling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73658a2f-ff02-4dc5-951f-a306325606bb",
+    "data": [
+      {
+        "text": "Any dribbling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bedd700c-b966-4fe5-aa1c-1c57b147b468",
+    "data": [
+      {
+        "text": "Do you dribble at all?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "438fac9c-5fdf-459d-aa46-a0b7e5faf2a8",
+    "data": [
+      {
+        "text": "Do you experience drooling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2743e04d-efc4-46c3-b5f1-f21e90c4f45b",
+    "data": [
+      {
+        "text": "Does liquid stay in your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67375137-c027-41f9-8cb5-3f94b8e69264",
+    "data": [
+      {
+        "text": "Do you experience any drooling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e222b0aa-b490-47c9-9743-fbf10b472106",
+    "data": [
+      {
+        "text": "Do you drool when you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6928db5c-c3cc-444c-ba81-9754940f7563",
+    "data": [
+      {
+        "text": "do you have problems with drooling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "770e3d70-92cd-444b-91f7-44e916082fe7",
+    "data": [
+      {
+        "text": "do you have residue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7846e359-54d9-44ec-b3d1-bd1045dda993",
+    "data": [
+      {
+        "text": "do you have drooling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ae881fa-3678-4925-9e4c-59e32cbc5dd8",
+    "data": [
+      {
+        "text": "any drooling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90f23fac-e77f-448c-87f8-d2b95b7fc7fe",
+    "data": [
+      {
+        "text": "any drool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47a527dc-3d3f-4151-bbb9-cd3c8c94cec7",
+    "data": [
+      {
+        "text": "do you have any drooling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

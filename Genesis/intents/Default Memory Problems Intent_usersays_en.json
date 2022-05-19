@@ -1,0 +1,119 @@
+[
+  {
+    "id": "cbd5820d-38cc-473b-a986-0523a21df5b9",
+    "data": [
+      {
+        "text": "Do you have memory problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "563e4ffb-f192-4722-864c-51fdd5dc046a",
+    "data": [
+      {
+        "text": "Do you have any memory issues?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43d77390-ffaa-4ccb-8e86-c0185b384fcc",
+    "data": [
+      {
+        "text": "So you have any memory problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55433b37-c484-40d0-991e-efbd68fcb641",
+    "data": [
+      {
+        "text": "Do you have any problems with your memory?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b448949-f285-422b-9757-55024747626d",
+    "data": [
+      {
+        "text": "Do you find yourself needing a lot of reminders lately?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acc50862-1bff-4027-a52f-8d78b5e16dca",
+    "data": [
+      {
+        "text": "Do you find yourself forgetting things a lot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02b05062-6d19-4178-9a57-a15525573452",
+    "data": [
+      {
+        "text": "Have you been forgetful lately?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6552984-5413-460c-84d2-d7c4a1b755bb",
+    "data": [
+      {
+        "text": "Have you had any trouble with your memory",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32fe54e4-008a-49cb-98f2-830c28b970ae",
+    "data": [
+      {
+        "text": "Do you have any memory problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "a6c5b79d-0ed6-4036-a6e2-508eb734327a",
+    "data": [
+      {
+        "text": "What procedure did you have in the hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5f574ed-d70e-4e46-847a-b2824f16a303",
+    "data": [
+      {
+        "text": "What surgery?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7317a91c-d500-40d1-9e0c-fa12fe7447c0",
+    "data": [
+      {
+        "text": "what kind of surgery did you have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "160fed75-fe34-4e04-89a3-8b2f6f51baed",
+    "data": [
+      {
+        "text": "what type of procedure did you have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2eba0595-a46f-4c72-a1d1-dbe66e07218d",
+    "data": [
+      {
+        "text": "what type of medical procedure did you have around the time of your stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a163bbc-af43-42ba-aff5-ccfa496f7e4c",
+    "data": [
+      {
+        "text": "what type of surgery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10df7012-71a1-4ab3-b0c9-c84bf8cb2901",
+    "data": [
+      {
+        "text": "Did you get surgery for you brain stem stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0e7da0b-0461-4d3a-b505-cae12b3fbff9",
+    "data": [
+      {
+        "text": "Did you have surgery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93df490b-ba5b-49ba-b00f-106269322d5d",
+    "data": [
+      {
+        "text": "what surgery did you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37bb006a-5e91-4514-b3ca-ca18b448fbbc",
+    "data": [
+      {
+        "text": "what kind of surgery did you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f07dd616-4020-4f59-9c7f-1a6309aa13b8",
+    "data": [
+      {
+        "text": "what surgery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c47c1d2-5d45-46eb-9dae-af7e2da8322f",
+    "data": [
+      {
+        "text": "Did you have surgery after your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66fa3b77-e568-4851-908d-f0bf68f19f9e",
+    "data": [
+      {
+        "text": "Did you have surgery?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eace3ae1-e702-4c95-a37a-8a035486b56f",
+    "data": [
+      {
+        "text": "Did the surgery go well?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

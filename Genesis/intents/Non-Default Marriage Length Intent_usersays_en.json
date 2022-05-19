@@ -1,0 +1,67 @@
+[
+  {
+    "id": "a16b8301-b004-4cdf-b5f4-8da7bca9370b",
+    "data": [
+      {
+        "text": "Have you been married a long time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ce8425d-645d-4b00-afea-e406c95a72e6",
+    "data": [
+      {
+        "text": "How many years have you been married?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "610cf1be-8980-4990-babc-b25244659f8f",
+    "data": [
+      {
+        "text": "Have you been married long?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef4e9a5a-5d5e-423a-9aed-fc0c4b2ed814",
+    "data": [
+      {
+        "text": "How long have you been married to your spouse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b7c3711-0263-4836-9cf7-288c36bb3635",
+    "data": [
+      {
+        "text": "How long have you been married?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

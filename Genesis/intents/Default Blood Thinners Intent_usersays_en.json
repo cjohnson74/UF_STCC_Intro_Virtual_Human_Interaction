@@ -1,0 +1,28 @@
+[
+  {
+    "id": "284815f6-1a16-49e2-bdd5-979ad3a64d6c",
+    "data": [
+      {
+        "text": "do you take blood thinners?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9059614-5a5e-4943-99bf-c757f4bdcd7a",
+    "data": [
+      {
+        "text": "Are you on blood thinners?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

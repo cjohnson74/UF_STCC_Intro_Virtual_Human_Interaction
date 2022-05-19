@@ -1,0 +1,38 @@
+{
+  "id": "39c4bf97-09c6-4b65-9655-b97bbb0a279c",
+  "name": "Default Previous Hospitilization",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I sure was. I had a stroke.",
+            "I was hospitalized a year ago for my stroke.",
+            "Just the time I was in there for my stroke.",
+            "Just the time I was in there for my stroke."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

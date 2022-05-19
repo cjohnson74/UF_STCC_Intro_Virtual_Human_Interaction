@@ -1,0 +1,37 @@
+{
+  "id": "2e0b0f3a-8e59-4eb9-9e11-a6b284c0cfe4",
+  "name": "Default Choke Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I don\u0027t know if it is really choking, but not all the food goes down like it should. And that happens probably every meal.",
+            "No, I don\u0027t really choke.  It\u0027s more like food getting stuck and I cough a lot when I eat because of that.",
+            "Sometimes I feel like food gets stuck."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

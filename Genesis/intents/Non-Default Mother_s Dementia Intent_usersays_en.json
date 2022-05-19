@@ -1,0 +1,93 @@
+[
+  {
+    "id": "3f49d56a-fafd-48e8-980f-5fdc352a262d",
+    "data": [
+      {
+        "text": "When did you notice your mother\u0027s dementia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7b99ddc-3587-4d4c-a40d-b1fb397d673f",
+    "data": [
+      {
+        "text": "When was your mother diagnosed with dementia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5967a75e-23c1-409c-8185-9a1ad8a90ca1",
+    "data": [
+      {
+        "text": "When did you start noticing your mother\u0027s dementia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76b06fd3-fc41-49b1-8676-0770ac7e91ab",
+    "data": [
+      {
+        "text": "Do you remember when your mother\u0027s dementia started?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19758e8d-435f-4e8f-99ca-c54c96de84ca",
+    "data": [
+      {
+        "text": "do you know when the dementia started",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec9407c8-617e-492d-a6b4-59f139d20b7b",
+    "data": [
+      {
+        "text": "when did your mom get sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34f6415d-4d29-4924-a304-daf201479d65",
+    "data": [
+      {
+        "text": "When did your mother\u0027s dementia start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

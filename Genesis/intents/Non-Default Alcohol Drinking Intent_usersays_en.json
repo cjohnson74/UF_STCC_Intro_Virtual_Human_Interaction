@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c8dddff2-a6eb-492f-b63a-59f4c098cfc7",
+    "data": [
+      {
+        "text": "How are you controlling your drinking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "600ddda4-1488-4c64-9d3d-051ea256c8e2",
+    "data": [
+      {
+        "text": "In what way do you consume alcohol?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e55cf983-1919-4513-9435-059a9755fd1e",
+    "data": [
+      {
+        "text": "What are the steps you take in enjoying wine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcc79d58-d870-4483-b008-7ca4c40afc22",
+    "data": [
+      {
+        "text": "How do you enjoy your wine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f32b696-f324-4c76-bcbd-f43eb487913f",
+    "data": [
+      {
+        "text": "How do you drink wine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c452143-01b0-4e44-94bf-7d4771b41317",
+    "data": [
+      {
+        "text": "How do you do with drinking the wine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

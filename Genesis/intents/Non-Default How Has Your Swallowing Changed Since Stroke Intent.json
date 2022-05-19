@@ -1,0 +1,35 @@
+{
+  "id": "ed7fef9c-afb7-491f-a37c-ac51662458c2",
+  "name": "Non-Default How Has Your Swallowing Changed Since Stroke Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It takes me a bunch of swallows to get food down.  I cough a lot when I eat. It takes me forever to eat and, frankly, I just don\u0027t enjoy eating anymore. It\u0027s exhausting."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "c2e011ea-ee91-44d1-be85-8cc9f0b9f8e6",
+  "name": "Default Can You Feed Yourself Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I try to feed myself most of the time and I can usually manage. Sometimes when I\u0027m tired because of a long day, my wife will feed me. I feel embarrassed to have to get her to feed me. Usually it happens only when I\u0027ve had to walk a lot during the day and I am super tired. Never in front of my children or others. I hope it doesn\u0027t come to that."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

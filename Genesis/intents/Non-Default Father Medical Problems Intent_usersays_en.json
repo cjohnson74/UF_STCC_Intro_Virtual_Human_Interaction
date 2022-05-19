@@ -1,0 +1,119 @@
+[
+  {
+    "id": "a942c665-f087-4417-aa04-a0b35dd9c03b",
+    "data": [
+      {
+        "text": "Does your father have any health problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15b7f678-a880-4015-8fe5-91c7b6d64c9a",
+    "data": [
+      {
+        "text": "Do you have a family history of hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f6dd838-9265-439a-bf14-ee71fe2fa298",
+    "data": [
+      {
+        "text": "Does anyone in your family have these issues?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cff49951-7b47-44f9-951e-bf1cfa785bbc",
+    "data": [
+      {
+        "text": "Did anyone in your family have hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ce7916c-3ff0-4f2f-841a-2a5b05b6b244",
+    "data": [
+      {
+        "text": "Do any illnesses run in your family?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd1972ba-227e-4a85-b3f9-855d495a198e",
+    "data": [
+      {
+        "text": "How was your father\u0027s health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0af111b-9356-4947-9a65-d70a1057e63d",
+    "data": [
+      {
+        "text": "Did your father have any medical problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "540f01d3-9dfb-4276-8038-861e7e2193ec",
+    "data": [
+      {
+        "text": "did your father have any health problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb90d2be-d5a7-4bc2-85c4-bad721332968",
+    "data": [
+      {
+        "text": "any medical problems in your family",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

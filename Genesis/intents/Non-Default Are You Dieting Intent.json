@@ -1,0 +1,35 @@
+{
+  "id": "16323545-e326-41e2-8c3b-9a767f049b93",
+  "name": "Non-Default Are You Dieting Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Unintentionally. I mean I\u0027ve lost weight, but I don\u0027t want to. My wife says I\u0027m getting too skinny. She likes me nice and burly."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

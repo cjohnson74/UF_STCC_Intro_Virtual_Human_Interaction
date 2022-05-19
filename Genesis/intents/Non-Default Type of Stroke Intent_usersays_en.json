@@ -1,0 +1,158 @@
+[
+  {
+    "id": "9fb9197a-a2fd-44ce-b42a-268dc29e9f33",
+    "data": [
+      {
+        "text": "Have you had a stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dae4b44-3e97-41a1-adee-9ced74ed58f3",
+    "data": [
+      {
+        "text": "Was your stroke due to a clot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45d3bf3a-096b-4e3d-821b-e760db8cdf3e",
+    "data": [
+      {
+        "text": "Could you have had another TIA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fb41118-9781-4110-8427-83cf8ee3a28e",
+    "data": [
+      {
+        "text": "have you had a stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc9a77ca-1190-4c2e-80ef-360f8f78e1a5",
+    "data": [
+      {
+        "text": "What kind of stroke did you have before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8510b41d-59bc-46f3-a260-c3b1582829bb",
+    "data": [
+      {
+        "text": "did you have a stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06c6a916-27f2-4759-bf61-c0917bcc974f",
+    "data": [
+      {
+        "text": "What were you in the hospital for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ece51439-24a9-470a-8113-b064a1e91c99",
+    "data": [
+      {
+        "text": "Have you had any major events in your medical history?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d07973a-437b-44db-9ac5-698967427d2b",
+    "data": [
+      {
+        "text": "What kind of stroke did you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d732b69e-393a-4a04-b908-ee5ff39e8ddc",
+    "data": [
+      {
+        "text": "did you suffer from a stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8b1c7da-d9b2-430e-b191-7b2ce17f2b51",
+    "data": [
+      {
+        "text": "Did you have a stroke previously?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4932b0f-10f5-4c23-8b57-c1ec53845e3e",
+    "data": [
+      {
+        "text": "What type of stroke did you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

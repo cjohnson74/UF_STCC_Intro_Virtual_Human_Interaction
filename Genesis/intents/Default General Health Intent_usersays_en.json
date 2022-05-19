@@ -1,0 +1,154 @@
+[
+  {
+    "id": "660bbe0a-19b2-4e84-be07-c936d062d728",
+    "data": [
+      {
+        "text": "Do you feel healthy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f72a705-1f88-42ab-a484-7d5ebf927bdd",
+    "data": [
+      {
+        "text": "How are you feeling overall?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc262a9b-7e09-4dfd-aa66-1866c15eb5c5",
+    "data": [
+      {
+        "text": "What is your general health like now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbd28dad-bcb7-4f4b-8a67-8aac4b0a37aa",
+    "data": [
+      {
+        "text": "how healthy are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11607d95-e7a8-4c60-b714-c17284a6c989",
+    "data": [
+      {
+        "text": "is your high blood pressure under control",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fe3e081-3ce1-4411-9e0f-cc9972a7f497",
+    "data": [
+      {
+        "text": "is you hypertension under control",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8d495fa-2d5c-4398-8fe5-bf6adc9ca61e",
+    "data": [
+      {
+        "text": "How is your overall health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "714832bc-c08b-4160-bd02-5efca9fd4e59",
+    "data": [
+      {
+        "text": "Do you have heart problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bee87c90-5e5c-423e-ae20-eb62a93798d2",
+    "data": [
+      {
+        "text": "How is your overall health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16fc4bd0-760c-441c-b207-46de83d3b0c2",
+    "data": [
+      {
+        "text": "How is your health ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e34ac594-5d67-4ab1-8ef4-de008d5b6d35",
+    "data": [
+      {
+        "text": "tell me about your general health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

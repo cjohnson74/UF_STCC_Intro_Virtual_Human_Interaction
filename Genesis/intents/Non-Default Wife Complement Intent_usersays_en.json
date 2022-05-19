@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9ba8a50d-2559-476d-bfb3-1697a3095c19",
+    "data": [
+      {
+        "text": "Smart lady!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee59d530-4670-4bde-aa7f-7c062059c4d0",
+    "data": [
+      {
+        "text": "Your wife is a smart lady!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "588fdbe9-43e5-4699-9f7b-eae73a507ca0",
+    "data": [
+      {
+        "text": "Is she your only sexual partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "7a0454e1-d960-4fc1-821b-64d488e75b7f",
+    "data": [
+      {
+        "text": "did you have trouble eating breakfast?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e23840cf-54e2-4737-aa0e-c583a6eb668f",
+    "data": [
+      {
+        "text": "So what did you have for breakfast this morning?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

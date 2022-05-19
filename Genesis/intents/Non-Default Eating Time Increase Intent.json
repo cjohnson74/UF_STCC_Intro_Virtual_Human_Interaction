@@ -1,0 +1,37 @@
+{
+  "id": "5fc3e6ac-d4f2-4a8f-a67f-82cea9317acc",
+  "name": "Non-Default Eating Time Increase Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I don\u0027t know exactly.  Maybe around an hour.",
+            "Yeah, they\u0027re longer.  I don\u0027t know how long really.  Maybe around an hour.",
+            "Yeah, it seems to take forever."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

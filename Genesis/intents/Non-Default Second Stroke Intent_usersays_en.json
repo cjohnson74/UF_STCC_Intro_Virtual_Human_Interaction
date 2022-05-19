@@ -1,0 +1,163 @@
+[
+  {
+    "id": "9d3d7e6e-88ac-4a77-9244-28ef55c461c9",
+    "data": [
+      {
+        "text": "when did you have yours troke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23bcee9e-17f3-41b0-b0eb-5adcd691fde8",
+    "data": [
+      {
+        "text": "When was your brainstem stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba9f48ce-912c-4301-811c-181476126a1a",
+    "data": [
+      {
+        "text": "When was your ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddfde8e9-290e-40d5-a88b-d9e89f2e6ed2",
+    "data": [
+      {
+        "text": "When were your strokes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1aa8564-9ec9-4a4a-a284-9603e1943e91",
+    "data": [
+      {
+        "text": "When was the second one?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cebe6649-b705-4489-9bf3-57f0fdb724e1",
+    "data": [
+      {
+        "text": "When was the other stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9003ac3-2b82-47ad-85f3-a68369e8afa3",
+    "data": [
+      {
+        "text": "when was the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82a9f37b-bf34-4871-abca-896bec218be9",
+    "data": [
+      {
+        "text": "when did the second stroke occur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae1e1e20-52c1-4f35-8814-c84f95178d2f",
+    "data": [
+      {
+        "text": "when was your second stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d62babc-90cd-44fa-99f7-1cc369e696cd",
+    "data": [
+      {
+        "text": "when was the second stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4de0eb6f-038c-40fe-af06-668a362c578a",
+    "data": [
+      {
+        "text": "Where was your second stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

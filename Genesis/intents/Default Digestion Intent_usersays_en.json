@@ -1,0 +1,106 @@
+[
+  {
+    "id": "281ab35f-4cc1-49b8-bc04-a77390395d4a",
+    "data": [
+      {
+        "text": "Do you have any gastrointestinal problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d13c038a-c2b6-4b82-9a48-60e8defcf551",
+    "data": [
+      {
+        "text": "Do you have any problems with digestion?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7331f939-763f-41d3-879a-6ba2f274ceba",
+    "data": [
+      {
+        "text": "how are your meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4c1f529-6778-4510-b1cc-e10f4eb487cf",
+    "data": [
+      {
+        "text": "Do you have digestion issues?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b6bfc42-5e46-4fb1-96b6-46bb553ec6b5",
+    "data": [
+      {
+        "text": "Do you have bad digestion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0d90597-5b8a-4bc7-8f6d-66776c10cd22",
+    "data": [
+      {
+        "text": "Do you have problems with digestion?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "025344d5-a7f7-4d41-a9a8-7366f48578d6",
+    "data": [
+      {
+        "text": "Are you digesting your meals properly?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a21a3305-a47e-4c42-bb36-19f3659b1936",
+    "data": [
+      {
+        "text": "how is your digestion?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

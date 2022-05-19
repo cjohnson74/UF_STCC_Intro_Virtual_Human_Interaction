@@ -1,0 +1,41 @@
+[
+  {
+    "id": "da23b798-8ffa-41fd-80ba-cf61d2ac59f2",
+    "data": [
+      {
+        "text": "Camped Before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f22a1eb3-94eb-4ad3-9fa8-96adf279a7aa",
+    "data": [
+      {
+        "text": "Camped Recently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0be4369f-ea04-411d-aab9-7e0baa4ef208",
+    "data": [
+      {
+        "text": "Have you been camping?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

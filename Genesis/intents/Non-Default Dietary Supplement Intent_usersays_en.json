@@ -1,0 +1,119 @@
+[
+  {
+    "id": "0248b246-5e0a-44d6-9d65-cf17070d6886",
+    "data": [
+      {
+        "text": "Do you take vitamins",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8b8226a-6971-4c9c-9b19-ce35d68e9aac",
+    "data": [
+      {
+        "text": "Do you take any supplements?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "071883a5-1ee7-4bf3-9d4e-aa6af371586f",
+    "data": [
+      {
+        "text": "do you take ensure regularly?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c81d0b91-248b-4c87-8064-2930069423c3",
+    "data": [
+      {
+        "text": "Do you drink ensure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6ba35b8-e904-4d6f-be3f-8875ce1399c7",
+    "data": [
+      {
+        "text": "Are you taking any supplements?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b719675-881b-4a20-9baf-c64e9157601d",
+    "data": [
+      {
+        "text": "are you on a nutritional supplement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f643f7f-fa4b-4e75-b808-d551c1ce08b8",
+    "data": [
+      {
+        "text": "Do you use any dietary supplements?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e9f782c-ddb9-4848-aea3-886878645ac6",
+    "data": [
+      {
+        "text": "do you drink a dietary supplement?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "296bee8d-4fa7-4501-85d7-64d7adb4d10d",
+    "data": [
+      {
+        "text": "how often do you drink ensure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "d3139d76-7241-45ca-9016-ec9ab5082767",
+    "data": [
+      {
+        "text": "Are you experiencing any weakness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0761dd33-d657-48d2-a5c4-3b0514ea3435",
+    "data": [
+      {
+        "text": "Do you have problems physically?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51ea1de3-1ed0-4709-9b99-9d7dd6f4d85f",
+    "data": [
+      {
+        "text": "Are you having weakness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "396ced9e-e11e-40c0-a053-70ca8de3cfcd",
+    "data": [
+      {
+        "text": "tell me more about your symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "433dbc15-eb5e-4eae-9672-e8bcc66b2dae",
+    "data": [
+      {
+        "text": "Where is your weakness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72dfc3bf-ddee-40ed-93b8-61d33a98ff92",
+    "data": [
+      {
+        "text": "Where is your weakness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0417c3e6-c9ab-4c43-b929-3fe749ee44b8",
+    "data": [
+      {
+        "text": "any weakness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b2edb4e-e36a-448f-95e9-f465c15dc97c",
+    "data": [
+      {
+        "text": "Have you had any weakness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ad654e2-bd50-42d9-af53-bfcc282aaa16",
+    "data": [
+      {
+        "text": "do you have any weakness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

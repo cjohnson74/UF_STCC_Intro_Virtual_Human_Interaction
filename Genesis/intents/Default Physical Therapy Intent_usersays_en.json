@@ -1,0 +1,301 @@
+[
+  {
+    "id": "e7bc1730-4533-4780-9dda-284df5c3187a",
+    "data": [
+      {
+        "text": "Have you had any other types of therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09819693-7864-4985-9574-3fd926980952",
+    "data": [
+      {
+        "text": "Did you see an OT?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c761c18-5162-4647-809e-fe2ee3cf705f",
+    "data": [
+      {
+        "text": "Do you currently go to voice therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87218d00-9bae-4e4f-98b4-af0caa168636",
+    "data": [
+      {
+        "text": "When did you stop going to therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "188be354-c49e-4f60-b211-56af12e29166",
+    "data": [
+      {
+        "text": "Have you had a follow up visit with a member of your swallowing management team?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cce681c-f8f5-4039-a442-25e2a58046f6",
+    "data": [
+      {
+        "text": "did you go to occupaitonal therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51aa67b4-a2dc-4f13-8a26-2631370058b3",
+    "data": [
+      {
+        "text": "did you get ot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4dfde7d-d122-4cc3-bb65-87b65fba3e6b",
+    "data": [
+      {
+        "text": "What therapy are you currently receiving?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b43e1c8-8df5-46de-8f78-2765c9357454",
+    "data": [
+      {
+        "text": "what therapy are you currently having",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bfd53a7-a7dc-4c14-8422-2a61525e00f7",
+    "data": [
+      {
+        "text": "have you had any therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da060dcc-5af7-4a3d-95fa-b05a9c60e4db",
+    "data": [
+      {
+        "text": "are you in therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46826ffc-3f8e-4b2f-a20a-ade87141990b",
+    "data": [
+      {
+        "text": "are you currently in therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3c91dbf-45ad-41c6-860c-0a201cb949cb",
+    "data": [
+      {
+        "text": "what types of therapy do you receive?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f8148fb-7c44-4507-86c2-53a7240f7c25",
+    "data": [
+      {
+        "text": "do you get therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "303329ab-169f-4378-baa6-eff07acbbf47",
+    "data": [
+      {
+        "text": "are you in any types of therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "866d30e6-ce0b-4374-a683-26f8487d25eb",
+    "data": [
+      {
+        "text": "Are you still in therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d5c2ba1-55b1-4138-a413-5a1f204b2de9",
+    "data": [
+      {
+        "text": "Do you have insurance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "186fa10f-9310-46fc-9c37-757a6c92e27f",
+    "data": [
+      {
+        "text": "Do you have insurance coverage?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "935e96ab-d82c-4e42-82dc-2684423e818e",
+    "data": [
+      {
+        "text": "Are you still in physical therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cfb8ea2-2008-4982-aa70-ce2ba89ca8cc",
+    "data": [
+      {
+        "text": "physical therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82a502e5-e324-485a-9fe2-7af3365e2378",
+    "data": [
+      {
+        "text": "Occupational therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8d890a2-80f8-40c2-b73c-5c0aa8b32a30",
+    "data": [
+      {
+        "text": "Do you get physical therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd530f33-359e-454e-b06e-cc3280b5c51d",
+    "data": [
+      {
+        "text": "Do you get occupational therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "f07f253d-792c-4eef-84b7-8e3ff14a0ff7",
+    "data": [
+      {
+        "text": "What caused the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b3ade3b-d47d-4120-93f2-c793ec337659",
+    "data": [
+      {
+        "text": "What have your doctors told you about your brainstem stroke and what to expect?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28bec6e1-8c0c-49ee-b885-e2310aa72378",
+    "data": [
+      {
+        "text": "what caused the brainstem stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

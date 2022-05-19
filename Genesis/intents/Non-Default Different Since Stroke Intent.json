@@ -1,0 +1,35 @@
+{
+  "id": "6ea93736-bb04-4240-9979-a35775f06a73",
+  "name": "Non-Default Different Since Stroke Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I have some weaknes on my right side so I can\u0027t play golf.  I don\u0027t go to a lot of social activities. I wish I could, and I wish I could go out and enjoy meals with people."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "b086b196-9f61-4927-acca-235fe4b35200",
+  "name": "Default Drool Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027ve been drooling some, probably because my face is numb.",
+            "I drool sometimes, and sometimes, I don\u0027t even notice it. My wife will usually wipes it off when she notices it. It\u0027s pretty embarrassing. I feel like a baby!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

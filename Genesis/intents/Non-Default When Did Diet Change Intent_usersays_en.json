@@ -1,0 +1,124 @@
+[
+  {
+    "id": "5712c443-52bd-4a7a-b4c3-b8e7c584dc7d",
+    "data": [
+      {
+        "text": "Has it always taken you ",
+        "userDefined": false
+      },
+      {
+        "text": "an hour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to eat meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "807276c3-0c21-490e-8cb7-9586e2b511b5",
+    "data": [
+      {
+        "text": "When did you ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " notice that it was taking you longer to eat meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2965c5c3-c296-40b3-b928-efd5db55f8b4",
+    "data": [
+      {
+        "text": "Why did you switch to this diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3702670e-dea8-486a-95f7-105766cdc3c3",
+    "data": [
+      {
+        "text": "Did you change your diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fe11e63-39a8-4055-8dc7-72ec240ce480",
+    "data": [
+      {
+        "text": "have you noticed a change in appetite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbc87f75-4017-424b-8f4a-6dfa6e05e77a",
+    "data": [
+      {
+        "text": "When did you have to change your diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4029e930-a025-477d-93d0-66f2d54e218b",
+    "data": [
+      {
+        "text": "When did you start to change your meals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbf3f271-02ca-4564-86a9-fe14f6bff0b8",
+    "data": [
+      {
+        "text": "When did you change your diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "4687a8b0-9b54-45fc-9599-b2626e3590bf",
+    "data": [
+      {
+        "text": "Do you have a career?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "603a5952-78a0-4830-afac-65c5177c327b",
+    "data": [
+      {
+        "text": "Do you have a job?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8938ca3-0e13-4e6b-850f-fe9a9a967526",
+    "data": [
+      {
+        "text": "Do you still work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c984f62b-7bb7-43b0-8914-5a05d2cc71ad",
+    "data": [
+      {
+        "text": "Do you work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b5a36f5-98c7-44d2-b967-5ef215c284ac",
+    "data": [
+      {
+        "text": "Are you still working?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0149e1f-d4c5-4375-96bb-946eb0e2684c",
+    "data": [
+      {
+        "text": "What do you do for a living?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a4f3c31-29be-43be-a19f-e5e8b0805f9e",
+    "data": [
+      {
+        "text": "What do you do during the day?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2204886-2746-46ff-8203-5c7f8d53648a",
+    "data": [
+      {
+        "text": "What was your occupation before the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fafa398-f913-4c11-8c00-9612a026857a",
+    "data": [
+      {
+        "text": "tell me more about your work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7897fcf3-44f7-4c65-9a01-8c14b323108d",
+    "data": [
+      {
+        "text": "Where do you work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5a10ee3-d771-4c16-806b-4f5c3fe1e612",
+    "data": [
+      {
+        "text": "What kind of work did you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9142b363-d44b-46a3-9fc4-37e54b6e04fb",
+    "data": [
+      {
+        "text": "Where did you work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a1872a7-1b19-4e06-8b2f-ea8317a6b3d5",
+    "data": [
+      {
+        "text": "What was your occupation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

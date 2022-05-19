@@ -1,0 +1,115 @@
+[
+  {
+    "id": "f9d59fa0-0ec0-4d49-9b59-1ec83c58d3a6",
+    "data": [
+      {
+        "text": "when did it start getting worse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9531e97e-0b1c-43d2-9b5a-a82274684652",
+    "data": [
+      {
+        "text": "Did problems with liquid come after solids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43364015-5169-4748-ba4e-b4297dcfd70c",
+    "data": [
+      {
+        "text": "when did this numbness begin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39b7f0dd-e02e-40be-a1bd-85ccf8c22b32",
+    "data": [
+      {
+        "text": "when did the facial numbness start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65d8e02b-8399-459e-bc8f-b22852931245",
+    "data": [
+      {
+        "text": "When did your diet change?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcc5f099-0d46-435b-9b6d-1c18dc0d709f",
+    "data": [
+      {
+        "text": "When did you ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " having problems with regular food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8216d08-d0a8-434c-9f28-92504cdfa14f",
+    "data": [
+      {
+        "text": "Have you been eating pureed food for a while?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c5e819a-1fb6-4ab6-9c15-5f54a405d1af",
+    "data": [
+      {
+        "text": "When did you start eating pureed foods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

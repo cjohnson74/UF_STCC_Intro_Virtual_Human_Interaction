@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e27f6a2f-f68c-4101-bf0a-af6cf3f9b29c",
+    "data": [
+      {
+        "text": "Do you have an MRI done after your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b7de402-938b-40b4-bf83-4054a0cbab82",
+    "data": [
+      {
+        "text": "Have you had any tests recently for swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ca26b32-3efa-49c9-bb4c-59365d4312ac",
+    "data": [
+      {
+        "text": "Swallowing tests",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c1fe18c-028d-4229-8fdd-5b97f4566e1b",
+    "data": [
+      {
+        "text": "Have you ever had a cranial nerve test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5765bf98-3d7a-47c9-86c9-10059c0ac94d",
+    "data": [
+      {
+        "text": "have you had any exams done?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4219563b-45d8-4aff-a9f9-fb7d6e2f83ad",
+    "data": [
+      {
+        "text": "Have you had any tests done?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

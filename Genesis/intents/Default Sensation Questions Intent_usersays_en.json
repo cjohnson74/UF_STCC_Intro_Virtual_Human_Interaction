@@ -1,0 +1,93 @@
+[
+  {
+    "id": "49454fcd-72f0-4996-92b8-68189e08cdc4",
+    "data": [
+      {
+        "text": "Do you have any sensations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15279dec-f828-45c5-b91b-c480d51de915",
+    "data": [
+      {
+        "text": "Explain your sensation.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba533747-fba8-4e3e-ac23-abc086bf02db",
+    "data": [
+      {
+        "text": "Tell me about your sensation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23297fa4-1636-4e33-aae5-701048769c22",
+    "data": [
+      {
+        "text": "Are you experiencing any sensation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87ef299b-d781-4ef8-a3e6-a0c55d96e913",
+    "data": [
+      {
+        "text": "Describe your sensation.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "618480d9-f196-42a5-87f5-59215ad8c082",
+    "data": [
+      {
+        "text": "Report about your sensation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e75ea7be-e74b-43ec-b904-68eea2f66f98",
+    "data": [
+      {
+        "text": "How is your sensation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

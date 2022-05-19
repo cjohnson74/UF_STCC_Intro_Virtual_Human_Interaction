@@ -1,0 +1,197 @@
+[
+  {
+    "id": "7270adc6-d9d1-48ff-bceb-89469306f96e",
+    "data": [
+      {
+        "text": "Did you receive swallowing therapy in rehab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6d232bb-6e51-454d-b32d-793e3bc1c37a",
+    "data": [
+      {
+        "text": "Have you seen any speech therapists lately?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba3c286b-4b42-48d1-8e8c-0184bc6f6c4d",
+    "data": [
+      {
+        "text": "Did you receive speech and swallowing treatment before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d33b4f9-f37f-478f-a61f-5b0cf2759824",
+    "data": [
+      {
+        "text": "do you see a speech pathologist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8665e686-7c38-4957-ae70-0d1aa696d629",
+    "data": [
+      {
+        "text": "have you gotten therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5095049-295b-4080-9820-5254e1893313",
+    "data": [
+      {
+        "text": "did you like your speech therpaist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fdd756f-180c-4e47-8179-e6612e74ce27",
+    "data": [
+      {
+        "text": "Have you ever received speech therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4827eec-1e6e-47a5-8d6c-f6dddcb53bd9",
+    "data": [
+      {
+        "text": "have you had speech therapy before",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3373fc34-e89d-45bc-8569-ac2e202aebff",
+    "data": [
+      {
+        "text": "Have you seen a speech therapist before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40ad2505-b408-4929-b460-5e0cbb538c75",
+    "data": [
+      {
+        "text": "Have you ever been to a speech pathologist before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81cd0993-c209-4375-9c78-d796be03103f",
+    "data": [
+      {
+        "text": "Have you worked with a speech therapist before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "727eda93-677d-4bdc-bb77-44d2ecdd7057",
+    "data": [
+      {
+        "text": "Did you work with a speech pathologist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b088203-ae82-4a5c-90b2-bbf06696db9b",
+    "data": [
+      {
+        "text": "Did you see someone for your speech?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8a23f3b-b149-4620-ac37-97bb08f48058",
+    "data": [
+      {
+        "text": "Have you ever seen a speech pathologist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "831cac01-a063-478c-ab82-a26abc230b44",
+    "data": [
+      {
+        "text": "Did you see a speech pathologist in rehab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

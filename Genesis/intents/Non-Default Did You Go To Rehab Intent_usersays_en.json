@@ -1,0 +1,80 @@
+[
+  {
+    "id": "b95bceae-5c80-4288-9a28-4bddb23a51d4",
+    "data": [
+      {
+        "text": "Did you attend rehab afterwards?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "371d2ef1-ca18-4c27-a959-f98dd82e5f41",
+    "data": [
+      {
+        "text": "Have you gone to rehab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "395875ee-9578-4e18-b42c-aff22067b65c",
+    "data": [
+      {
+        "text": "Did you have to go to rehab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb00c153-21f1-4113-ae9d-86a0e70c8a6c",
+    "data": [
+      {
+        "text": "Were you admitted to rehab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d921f080-1bb0-45fa-a65c-217494748a8d",
+    "data": [
+      {
+        "text": "did you participate in physical therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46caf73f-3ad4-4dc1-b562-e60110add752",
+    "data": [
+      {
+        "text": "Did you go to rehab afterwards?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

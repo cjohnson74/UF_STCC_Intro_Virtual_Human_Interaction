@@ -1,0 +1,80 @@
+[
+  {
+    "id": "557ff74c-5f67-4209-806d-cccd70826304",
+    "data": [
+      {
+        "text": "Is your mom in good health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52e4fd49-4169-41cc-8489-b19c025b73e2",
+    "data": [
+      {
+        "text": "Is your mom in a good state of health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3208c269-ec04-4dc1-abe7-1d52110d3b9e",
+    "data": [
+      {
+        "text": "Tell me about your mom\u0027s health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebc65892-0e1b-4331-83a6-fd403b9a3444",
+    "data": [
+      {
+        "text": "How would you say your mothers health is?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8250d38a-740c-4ed0-b15e-5fa86ff7654f",
+    "data": [
+      {
+        "text": "How\u0027s your mom\u0027s health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71c34d14-137c-4b46-9a31-b5448cb6aa51",
+    "data": [
+      {
+        "text": "Is your mother healthy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "b8d85a92-d2f6-4214-8b7f-5ea378cbe2ec",
+  "name": "Non-Default Swallowing Status Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It\u0027s gotten worse since I stopped doing my exercises. I didn\u0027t notice it at first, but now I do.",
+            "Yeah that why I\u0027m here. It has gotten worse recently.",
+            "Well, my swallowing got worse."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

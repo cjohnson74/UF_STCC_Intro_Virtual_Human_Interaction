@@ -1,0 +1,28 @@
+[
+  {
+    "id": "9492c174-ccbf-46b1-8353-e8c96c2ae185",
+    "data": [
+      {
+        "text": "hows your sex life",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "416b37b9-d37c-4773-bbad-59fd7f695d44",
+    "data": [
+      {
+        "text": "describe your sexual history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

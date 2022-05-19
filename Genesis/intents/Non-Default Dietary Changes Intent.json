@@ -1,0 +1,36 @@
+{
+  "id": "ed250e21-9b5b-4b6f-bbc3-17a00b6014ac",
+  "name": "Non-Default Dietary Changes Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I drink a Carnation Instant Breakfast.  My wife purees whatever I want.  I tell you what, chocolate cake is better pureed than a ham sandwich.",
+            "I had to change my diet. My wife purees everything for me."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "3a129365-0f15-4101-ad5e-3dc72ea39301",
+    "data": [
+      {
+        "text": "Were you pleased with therapy you received?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcd5f526-43b4-4cef-943c-888d2590c745",
+    "data": [
+      {
+        "text": "Was therapy satisfactory to you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83957da1-8bfd-4609-9144-782a53cc27b6",
+    "data": [
+      {
+        "text": "Was the therapy sufficient?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34131c29-91dd-49f8-9d91-953504783e40",
+    "data": [
+      {
+        "text": "How was the therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ac66dc0-0b2b-4d1e-88e7-2b139758f644",
+    "data": [
+      {
+        "text": "Was your therapy helpful?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "838cf7b1-21ae-4499-bc3c-b1a9aa69ba53",
+    "data": [
+      {
+        "text": "were you happy with the therapy you got?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

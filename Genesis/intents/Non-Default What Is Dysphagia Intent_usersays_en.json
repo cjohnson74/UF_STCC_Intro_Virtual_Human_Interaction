@@ -1,0 +1,67 @@
+[
+  {
+    "id": "e1412e95-2952-4a90-bf1a-7653fc8fd9b4",
+    "data": [
+      {
+        "text": "Do you currently suffer from dysphagia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2617e637-9128-40c4-8d3a-9f813bbfe923",
+    "data": [
+      {
+        "text": "Have you heard of dysphagia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b7ea51f-c73f-4781-bed2-924ebfeafb54",
+    "data": [
+      {
+        "text": "Have you been diagnosed with dysphagia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a162ec5-6c3a-40a0-8fd2-3390d8545532",
+    "data": [
+      {
+        "text": "Do you suffer from dysphagia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afed6aed-083f-46a0-9957-9480d19415ae",
+    "data": [
+      {
+        "text": "do you have dysphagia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

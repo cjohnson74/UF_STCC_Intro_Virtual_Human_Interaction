@@ -1,0 +1,28 @@
+[
+  {
+    "id": "abe53eb7-3583-4100-9c02-ca3f869e6afb",
+    "data": [
+      {
+        "text": "have you seen anyone for your swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e3b6e8d-9f23-419c-932d-8563c0e49409",
+    "data": [
+      {
+        "text": "Have you seen anyone else in regards to your swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

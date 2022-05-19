@@ -1,0 +1,28 @@
+[
+  {
+    "id": "4dd0956b-4122-4e06-b666-35a680640e32",
+    "data": [
+      {
+        "text": "Have you had to change your diet at all?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94e71ec9-c01b-44ab-8ee3-56bb14b8e3bb",
+    "data": [
+      {
+        "text": "How did you change your diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "ea8f6308-cbb8-4ce9-9ed5-f116d37bc8d1",
+    "data": [
+      {
+        "text": "Have you had a tracheotomy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e510406-28f5-4197-a285-3def3b859c70",
+    "data": [
+      {
+        "text": "did you have a tracheostomy or have to be placed on a ventilator while in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7859724b-c0f1-4f02-ae2a-9973a261dfc9",
+    "data": [
+      {
+        "text": "was the tube through your nose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a2db8da-81d5-4058-bfd8-90a6119210e7",
+    "data": [
+      {
+        "text": "Were you put on a ventilator?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "584b76fe-ebc2-4e4a-8142-56331ca2f8c9",
+    "data": [
+      {
+        "text": "Was the tube in your nose after surgery?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f32b7716-c0a5-4c8b-a3f8-65949f6d8e6e",
+    "data": [
+      {
+        "text": "do you recieve oxygen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d769303b-d518-4c72-9d09-600190676b8e",
+    "data": [
+      {
+        "text": "Did you need alternate breathing device placed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78b856a8-cfd0-42bb-a7a8-b6a3fcdc704f",
+    "data": [
+      {
+        "text": "Do you have a breathing tube",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6529a2cd-817d-48ba-8f2f-4eb1a6f5d741",
+    "data": [
+      {
+        "text": "Did you need oxygen when you were in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd17002e-25d7-447e-baf5-249d9e3f41f6",
+    "data": [
+      {
+        "text": "Have you ever been intubated?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab4a95d6-ff10-46e5-bd1c-94ee4b799d83",
+    "data": [
+      {
+        "text": "During surgery were you placed on a breathing tube",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

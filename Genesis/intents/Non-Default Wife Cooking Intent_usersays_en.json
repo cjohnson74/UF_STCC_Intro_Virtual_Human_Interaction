@@ -1,0 +1,106 @@
+[
+  {
+    "id": "feb6eff9-0d21-4bfe-945d-ade722ae8454",
+    "data": [
+      {
+        "text": "Who do you have to help you around the house?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68c62d23-0dc9-4d63-9339-64dfc01943a5",
+    "data": [
+      {
+        "text": "Do you have help at meal times?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92f16252-6fd1-43d0-b281-2a2069bed8f2",
+    "data": [
+      {
+        "text": "Who makes your food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac448a38-37db-41a0-adb9-76672bc6c000",
+    "data": [
+      {
+        "text": "what kinds of food does your wife prepare for you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77783a34-88be-4002-90ae-0610d9b6730b",
+    "data": [
+      {
+        "text": "what does your wife make you for dinner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de25cbee-2dbe-4c61-858e-b33fb4b7e8d8",
+    "data": [
+      {
+        "text": "what does your wife make you for lunch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21ea9ddf-a6e2-4078-b7d5-4e893607b6da",
+    "data": [
+      {
+        "text": "What does your wife make for dinner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1b98eca-d8a0-491a-8136-1524229113e8",
+    "data": [
+      {
+        "text": "Does your wife cook for you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,1070 @@
+[
+  {
+    "id": "9f7819c2-6fb0-42f5-b1b5-6ed6f7b00aaa",
+    "data": [
+      {
+        "text": "Why did you start to eat pureed food again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "210f4170-b000-4a01-aef2-bf2ab75321a8",
+    "data": [
+      {
+        "text": "When did they begin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51c8279d-9f84-46a7-8c61-243027b6c054",
+    "data": [
+      {
+        "text": "How long have you had trouble eating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbcbc87e-2f3a-4fa2-8950-0f8837dad16a",
+    "data": [
+      {
+        "text": "How long have you had trouble swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34b1c060-7127-436b-bd25-84864c39ab46",
+    "data": [
+      {
+        "text": "Did you have any difficulty swallowing following your TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25fda346-a71b-44d2-9983-927e099ee95a",
+    "data": [
+      {
+        "text": "when did this start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "922c7325-111c-46af-adbf-b8f864acdbeb",
+    "data": [
+      {
+        "text": "Did you have swallowing problems from the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dfa182d-ecc1-4faa-9621-95d1f2dd26b2",
+    "data": [
+      {
+        "text": "When does the problem occur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05a0f2e1-21b0-427c-8dbe-752b6ddcbb97",
+    "data": [
+      {
+        "text": "When did you ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " notice the swallowing difficulty?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cee4b43-bca4-43f5-9a76-c960a80d2957",
+    "data": [
+      {
+        "text": "When did you ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " notice these changes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5caf33f7-76c2-49d5-88d5-dc860acc01aa",
+    "data": [
+      {
+        "text": "Was there something specific that happened prior to you having this problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38388245-084f-499d-8169-106279b0dcb7",
+    "data": [
+      {
+        "text": "How long have you been having problems swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc6d0835-d5a6-4fc7-b622-7475aec19e9a",
+    "data": [
+      {
+        "text": "Ok. When did the problem begin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1850a2ba-cc23-4394-a5ce-753ba01e4172",
+    "data": [
+      {
+        "text": "Did you have trouble swallowing before the TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "640a83b0-7873-4508-9a64-c047ec293cec",
+    "data": [
+      {
+        "text": "When did you start to have swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bc471ef-a3d9-4e2a-be3b-243b9a6770f0",
+    "data": [
+      {
+        "text": "How long have you had difficulty swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "682e9cb6-dda4-4de6-b6d3-a4eda443bb96",
+    "data": [
+      {
+        "text": "When did your swallowing issues ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "048a8755-ceac-4439-aa3e-3c9b44c8860c",
+    "data": [
+      {
+        "text": "Hi Vinny. I see your main complaint is that you are only able to eat pureed foods. Why did you begin a pureed food diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf4c6ddc-a067-4c62-adf5-56a6a2685fc5",
+    "data": [
+      {
+        "text": "Did the numbness start the same time as the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d844e9a4-7117-4998-9f7a-e1715f961216",
+    "data": [
+      {
+        "text": "Did you suffer from swallowing problems from the TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d16ba36a-f509-4255-a80c-7a1d829756b4",
+    "data": [
+      {
+        "text": "When did your swallowing problem begin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16faf84f-1177-4490-8fe4-cd8c1c2901b9",
+    "data": [
+      {
+        "text": "When did you ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " notice your swallowing problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce5c35b8-97e2-4747-a87f-012dff216dab",
+    "data": [
+      {
+        "text": "Did you have swallowing problems afer that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8752dc05-f467-4ab6-b3fd-d360c3371c1a",
+    "data": [
+      {
+        "text": "How long has this problem persisted?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ad16b74-f13e-4c6b-9738-08764335f998",
+    "data": [
+      {
+        "text": "Did you ever eat normally after your stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "618a2234-68d9-4235-bf7d-cc57fc5078f1",
+    "data": [
+      {
+        "text": "when did the swallowing problems begin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30e674f1-1930-4d4c-bece-70feb4f6f8b4",
+    "data": [
+      {
+        "text": "how long has this been going on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b86b3809-6490-43f9-ba15-d17c7793b921",
+    "data": [
+      {
+        "text": "When did this begin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebf80024-c2b8-4be6-ad9f-adbc9c9f19e7",
+    "data": [
+      {
+        "text": "Hi Vinny, when did you your problems begin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e2d2e66-d9b7-4ed6-b8c1-4a4cd0957e9b",
+    "data": [
+      {
+        "text": "how long have you been having this problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cec939f9-b6f4-4e0d-837d-0c6de71dc9d3",
+    "data": [
+      {
+        "text": "So, when did these symptoms start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "555750f8-63c3-4eca-9a54-9f680193bcf9",
+    "data": [
+      {
+        "text": "How long have you had this problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd80ec9b-fbaf-4b35-9f3a-aaf300529240",
+    "data": [
+      {
+        "text": "did the stroke affect your rehab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "675f0336-ee39-4829-8924-da94e7564e26",
+    "data": [
+      {
+        "text": "did your swallowing trouble begin with the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbe1c845-29c5-4fb0-8727-485406908275",
+    "data": [
+      {
+        "text": "How long have you had a problem swallowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7c5545e-0512-4be2-98ce-4a5dc8a43aae",
+    "data": [
+      {
+        "text": "When did the numbness begin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5745f69f-96a9-4754-949f-10299f789731",
+    "data": [
+      {
+        "text": "How was your swallowing before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c95e40d-a8bd-44ef-b037-4da0fa950740",
+    "data": [
+      {
+        "text": "When did the swallowing problems begin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "457c4e23-d9a1-47f6-b0bb-b04e235ab1a7",
+    "data": [
+      {
+        "text": "Have you had trouble swallowing in the past?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e49215d-4a2e-4e70-9bcd-3c81ceefb555",
+    "data": [
+      {
+        "text": "When did you ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " notice the problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf9407bf-9a13-454a-bd1d-dc7b700669e4",
+    "data": [
+      {
+        "text": "How long have you had the swallowing problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17a5c135-227f-490a-a83e-d5ec431c11fa",
+    "data": [
+      {
+        "text": "When did this problem start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "615404cb-32ed-46d0-8c9b-b9e5c25bb705",
+    "data": [
+      {
+        "text": "did you have any swallowing problems after the TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e4067d1-e164-4181-8cb2-e924fa603de7",
+    "data": [
+      {
+        "text": "did you have any swallowing problems after the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5ec6f2f-1bed-4222-b336-295ee96d3847",
+    "data": [
+      {
+        "text": "did you have swallowing problems after the TIA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dadb18ea-7f08-489b-8c7e-450527a3bbd6",
+    "data": [
+      {
+        "text": "when did the problem start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b195471-754c-48b9-b4b0-830a2e1baca0",
+    "data": [
+      {
+        "text": "Did you have swallowing problems after your TIA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "808741f0-51e9-4a19-87f6-a1429917c147",
+    "data": [
+      {
+        "text": "How long have been having trouble swallowing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "470c98cc-de3c-46a5-b521-11c9b3a9dc4f",
+    "data": [
+      {
+        "text": "When did the swallowing problems start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5f654ed-f2a6-477f-9332-eb4c2829ff76",
+    "data": [
+      {
+        "text": "Did you have swallowing problems before the TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e5dc314-a871-490a-b22a-97ca3c72cc5d",
+    "data": [
+      {
+        "text": "did you have swallowing problems before your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f568c75-e485-4540-94ad-33b7aa746eb1",
+    "data": [
+      {
+        "text": "Did your problems begin after your TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e974b4fc-c12f-4972-a13b-dc7423cf7e91",
+    "data": [
+      {
+        "text": "How long have you been experiencing these problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "406b05a6-6c53-4a66-9066-e26437d1d8b4",
+    "data": [
+      {
+        "text": "Did you notice any swallow problems after the TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a2f087e-70fe-41ba-9760-5d751bfc346c",
+    "data": [
+      {
+        "text": "When did you begin experiencing swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f9126d3-7733-42a7-979b-c952907f7260",
+    "data": [
+      {
+        "text": "Did your numbness start after the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce834f6b-4c93-4b61-aae3-73f191f4c76c",
+    "data": [
+      {
+        "text": "Have you had any problems other than swallowing since the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a45f758b-3247-4e0b-92b6-ec930fda806d",
+    "data": [
+      {
+        "text": "Any problems besides swallowing after the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74af7b9b-d9fd-42b7-90fd-1b22ae17b31f",
+    "data": [
+      {
+        "text": "When did this problem start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38936b6a-1f7b-4ad3-a32d-7b2817088bbd",
+    "data": [
+      {
+        "text": "when did your symptoms start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2454c275-acfa-42f6-80a8-4c8b50497acd",
+    "data": [
+      {
+        "text": "did you have problems swallowing after the TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ecb558c-7ea4-4072-b38d-a88000e276f5",
+    "data": [
+      {
+        "text": "when did your swallowing problems start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e9c46a1-a45f-489e-89b3-849212dd3284",
+    "data": [
+      {
+        "text": "Did you have any swallowing problems after your TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1818cbb-fb19-480c-b5f8-1af349f9f409",
+    "data": [
+      {
+        "text": "When did your swallowing problems begin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52d4f7ba-33c3-46d8-8d98-3334c9769cb0",
+    "data": [
+      {
+        "text": "When did your swallowing problem occur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c520beaa-2ab9-4630-9441-75db82343701",
+    "data": [
+      {
+        "text": "When did you notice your swallowing problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7baf8fdc-1cea-4810-9370-e51ff3a11772",
+    "data": [
+      {
+        "text": "tell me more about your swallowing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8da7cb1-7a2b-417f-8fb7-67fa370e37a1",
+    "data": [
+      {
+        "text": "how long have you had swallowing problems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38c285fe-91d0-412d-9cac-f5102c8ee46b",
+    "data": [
+      {
+        "text": "Did your swallowing problem start recently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2ce028e-7e41-482a-8d6d-35cdf86699e8",
+    "data": [
+      {
+        "text": "Did you have any problems with your swallowing after the TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4cbc4cc-6dad-464d-bfd5-e85104f8d2a6",
+    "data": [
+      {
+        "text": "When did the problems start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b673f50-4373-4051-858c-2e69f66e8464",
+    "data": [
+      {
+        "text": "when did this happen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73a0f5a1-07e0-45ba-9384-05b6cdbde0fc",
+    "data": [
+      {
+        "text": "how long have you been having difficulty?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45707863-2b18-4690-981c-f51f65789f53",
+    "data": [
+      {
+        "text": "Since when have you been having these issues?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03c588e2-dda8-4166-bc0e-86cfa8cc2e3a",
+    "data": [
+      {
+        "text": "Ok, how long have you been having this problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "367de235-a32a-4974-a49a-fad1c7f1fff7",
+    "data": [
+      {
+        "text": "when did the swallowing problem start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0badb0d9-d626-491a-9663-fff2e9291373",
+    "data": [
+      {
+        "text": "Any problems after the TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c2e839d-88da-4099-b85b-24097538d98c",
+    "data": [
+      {
+        "text": "Ok did you have any problems after the TIA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

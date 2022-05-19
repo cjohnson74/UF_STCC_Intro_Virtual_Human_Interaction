@@ -1,0 +1,28 @@
+[
+  {
+    "id": "a8ed4839-7b5c-42ff-81d2-c86c5eb2d7b9",
+    "data": [
+      {
+        "text": "are you spanish?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ae4a352-8c8b-48df-b1b7-baee1d5f2c6b",
+    "data": [
+      {
+        "text": "ethnicity?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

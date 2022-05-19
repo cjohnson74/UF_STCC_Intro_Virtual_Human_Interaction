@@ -1,0 +1,35 @@
+{
+  "id": "87fd4f98-a24d-46b5-b364-39e5e99a713b",
+  "name": "Non-Default Alcohol Drinking Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Well, I\u0027ll take it slow.  I take sips.  My wife will be eating while I drink my wine, so I need to make it last the whole meal!  Small sips have been the trick!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

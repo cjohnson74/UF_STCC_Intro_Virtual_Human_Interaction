@@ -1,0 +1,41 @@
+[
+  {
+    "id": "43e6a467-8bdf-4df1-9822-b682482f4b55",
+    "data": [
+      {
+        "text": "Do you take your medication regularly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97d54014-4be9-4993-ae26-75c36b67fb9e",
+    "data": [
+      {
+        "text": "how often do you take your medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2427448a-0bae-4c2c-ac1b-c1b65f7ad37b",
+    "data": [
+      {
+        "text": "how often do you take hydrodiuril?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

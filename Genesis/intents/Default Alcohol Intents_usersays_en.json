@@ -1,0 +1,223 @@
+[
+  {
+    "id": "f740c029-252b-4e1f-a1c0-3b020d397fee",
+    "data": [
+      {
+        "text": "What about a history of alcohol consumption?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2214e757-df4f-4b96-90b0-2720913c581b",
+    "data": [
+      {
+        "text": "Do you drink any alcohol?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd006bb5-7a5e-4676-8682-95705a5a02a3",
+    "data": [
+      {
+        "text": "Do you drink or smoke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74a813b5-2086-4341-bb7a-cb7f1ccc0322",
+    "data": [
+      {
+        "text": "do you smoke or drink alcohol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c995622-3c33-43da-bfb4-03b21a68e1b1",
+    "data": [
+      {
+        "text": "do you still drink and smoke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "187d50cd-7070-4b12-ab06-5a77112439d7",
+    "data": [
+      {
+        "text": "Do you drink?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e876658-bb7d-43c7-a17c-98c0bd4507e9",
+    "data": [
+      {
+        "text": "do you consume alcohol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c7a7093-226a-41b6-b685-dd39eda61f9e",
+    "data": [
+      {
+        "text": "what about drinking alcohol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "edd31686-814f-4fb2-be74-b63eb04a5bdf",
+    "data": [
+      {
+        "text": "do you drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f059e44d-2579-4825-bc1c-9d27a949b42d",
+    "data": [
+      {
+        "text": "do you drink alcohol on a daily basis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfa5ed7a-b8ff-43e2-a9cb-554b0b0b0cc8",
+    "data": [
+      {
+        "text": "do you drink any alcoholic beverages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "770c023c-09a1-4eaf-aebb-f718d619fb72",
+    "data": [
+      {
+        "text": "do you drink beer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bb402a9-2b30-466b-bd3c-1e3cf3493ee9",
+    "data": [
+      {
+        "text": "do you drink often?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97cacd73-0bce-421f-8fef-014343fc6422",
+    "data": [
+      {
+        "text": "do you drink regularly?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc1cafd7-9388-4051-b5a6-b0e2e6e04a37",
+    "data": [
+      {
+        "text": "do you drink socially?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76c2a6bf-eb32-4e19-9406-d5870814999c",
+    "data": [
+      {
+        "text": "do you drink wine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4edd9c1c-f9fb-48f3-a891-865174e769cc",
+    "data": [
+      {
+        "text": "do you use alcohol?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

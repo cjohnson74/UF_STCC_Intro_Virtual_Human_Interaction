@@ -1,0 +1,89 @@
+[
+  {
+    "id": "d70a9e54-50e3-411e-ae95-47e7f63ceeb8",
+    "data": [
+      {
+        "text": "What do you do when you sneeze?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49c72ae3-7c82-4b1d-b923-bb215729cb8c",
+    "data": [
+      {
+        "text": "What happens when you sneeze?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcfa6690-26fb-47f3-b962-acdfa82f6b84",
+    "data": [
+      {
+        "text": "When you sneeze what do you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c31749b-fbec-43e2-bea8-1e6ea1454a94",
+    "data": [
+      {
+        "text": "When you cough what do you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07be4550-bfa4-449d-86eb-95021a7a9023",
+    "data": [
+      {
+        "text": "What happens when ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " cough?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68b8a5ef-f943-4205-804f-decad5ef729d",
+    "data": [
+      {
+        "text": "What do you do when you cough?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

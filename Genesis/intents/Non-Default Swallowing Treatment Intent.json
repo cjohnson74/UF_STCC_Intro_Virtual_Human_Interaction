@@ -1,0 +1,35 @@
+{
+  "id": "9a9f5314-59ba-4b86-828f-f360b4d26479",
+  "name": "Non-Default Swallowing Treatment Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Well, right after the stroke, I was seeing someone.  A speech pathologist. Is that what you are?  Anyway, I was seeing someone, and she got me swallowing and eating this pureed stuff.  She gave me lots of exercises to do!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

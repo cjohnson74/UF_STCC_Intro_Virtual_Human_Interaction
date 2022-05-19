@@ -1,0 +1,54 @@
+[
+  {
+    "id": "15c2ac06-cc71-4781-a239-48e5269c209a",
+    "data": [
+      {
+        "text": "How are your bowel movements?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f6896e3-46b9-460b-a6fd-9f998624306f",
+    "data": [
+      {
+        "text": "are your bowel movements normal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe618532-170a-445a-a424-e10db2d661e2",
+    "data": [
+      {
+        "text": "How is your bowel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afbeea3b-66c2-4903-af73-38e503561fc7",
+    "data": [
+      {
+        "text": "How is your bowel movement?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

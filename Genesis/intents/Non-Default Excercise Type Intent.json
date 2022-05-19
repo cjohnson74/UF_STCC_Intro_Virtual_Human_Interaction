@@ -1,0 +1,35 @@
+{
+  "id": "5681877f-3ddc-44e6-815a-f0b74954c306",
+  "name": "Non-Default Excercise Type Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The speech therapist I saw told me to do this thing where I should HAWK real loud. She also used to have me swallow real hard.  And another one where I had to lift my head up and hold it when I was sitting in my lazy boy."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

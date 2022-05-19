@@ -1,0 +1,106 @@
+[
+  {
+    "id": "503e3551-a786-440e-a5c3-affefc5e910f",
+    "data": [
+      {
+        "text": "Do you have, or have you had, any major illnesses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e187ca4a-9efb-4def-99c1-dde2495bde8c",
+    "data": [
+      {
+        "text": "Anything of note in your medical history?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "542a185d-51a7-49a1-970c-f1f9ef1c8609",
+    "data": [
+      {
+        "text": "Do you have any medical conditions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f82d39d-05b6-426a-9a69-f5a635d5c012",
+    "data": [
+      {
+        "text": "What troubles have you had in the past?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c6d8615-7d8a-46f9-865d-99742db5399c",
+    "data": [
+      {
+        "text": "Tell me about past illnesses.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49c924ec-c790-4b4e-a99e-495b776b3637",
+    "data": [
+      {
+        "text": "Past medical history?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23e1a254-c256-4185-bd75-44d7e05236d6",
+    "data": [
+      {
+        "text": "other illnesses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "765b5186-a8b4-44bf-a997-1ed24071fd25",
+    "data": [
+      {
+        "text": "any history of illnesses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

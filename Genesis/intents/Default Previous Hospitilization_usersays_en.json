@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1a34600d-ef6a-4474-8116-5a23ef24f745",
+    "data": [
+      {
+        "text": "how many time have you been hospitalized?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4dcc0789-dea4-4647-9811-049ee3cc7af1",
+    "data": [
+      {
+        "text": "Have you ever been hospitalized?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "490c77b8-b7e8-44a7-83d3-436ab420d166",
+    "data": [
+      {
+        "text": "Have you been hospitalized?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d765a33e-dc91-4a92-ab59-d926961013ba",
+    "data": [
+      {
+        "text": "Do you have any experience being hospitalized?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3296a89b-a5cf-4f01-bbcd-b5041eeeca97",
+    "data": [
+      {
+        "text": "How many times have you been hospitalized?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac271fc5-31d4-4053-bdd3-ffe74b606b66",
+    "data": [
+      {
+        "text": "Any hospitalizations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de24905e-23dc-4a25-81f4-5613d00665ba",
+    "data": [
+      {
+        "text": "What prior hospitalizations have occured?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fade758c-f59b-42a1-b44e-e3ba49ebb72f",
+    "data": [
+      {
+        "text": "Tell me about any prior hospitalizations.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a69f13f-7569-424c-ac46-69677fec637b",
+    "data": [
+      {
+        "text": "Have you been to the hospital before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b35c4f51-4e8b-45ef-b058-9241115d6a25",
+    "data": [
+      {
+        "text": "any other hospitalizations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dd6a6bb-03f9-4a5b-a271-ebbc46d18ea0",
+    "data": [
+      {
+        "text": "been in the hospital prior to this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d74e948f-7805-4d5c-a152-d082acb1100d",
+    "data": [
+      {
+        "text": "ever been in the hospital before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88341d58-e011-4afc-abf8-f20d3ed9982b",
+    "data": [
+      {
+        "text": "Prior hospitalizations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e721609d-3fdb-4bf4-9ced-0907fa9c0b2f",
+    "data": [
+      {
+        "text": "have you been hospitalized before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40d71956-0758-49b5-936f-d60796cbf915",
+    "data": [
+      {
+        "text": "have you been to the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0b02530-1d28-4476-ad77-31beaf74334a",
+    "data": [
+      {
+        "text": "have you recently been hospitalized",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e36cef6-17f7-41e3-ac26-f66779451ef0",
+    "data": [
+      {
+        "text": "Have you been in the Hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f956372e-ed26-43d8-b565-df3d9524ac59",
+    "data": [
+      {
+        "text": "Have you ever been in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4822e5d2-ac71-47af-980d-134cfbb10cf3",
+    "data": [
+      {
+        "text": "So your chart mentions a hospitalization a while back.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef65b5a6-8204-4244-b396-c332183da015",
+    "data": [
+      {
+        "text": "I read here that you were hospitalized",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "c3389de3-b426-409c-a337-eacc479905e7",
+    "data": [
+      {
+        "text": "It\u0027s a pleasure to meet you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31df7b11-7a0e-44db-9811-fe2cdd83500d",
+    "data": [
+      {
+        "text": "Good to meet you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "707a77bc-96e7-4c52-890a-9c24fc34a441",
+    "data": [
+      {
+        "text": "Great meeting you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c77d6666-2dd8-49c0-9359-49311a893ae2",
+    "data": [
+      {
+        "text": "Nice to see you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "698888fc-e9f0-4f10-b266-6dfb2a9bc136",
+    "data": [
+      {
+        "text": "Nice to meet you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

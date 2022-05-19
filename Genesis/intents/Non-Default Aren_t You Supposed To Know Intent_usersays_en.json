@@ -1,0 +1,80 @@
+[
+  {
+    "id": "194d6673-1fc0-4901-98e1-ee0b8e2acd66",
+    "data": [
+      {
+        "text": "what is the diagnosis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72de4171-51be-4aaa-b95e-8d1523e45307",
+    "data": [
+      {
+        "text": "Do you know your prognosis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f995f7c8-0bef-429e-a8a3-d742e5e0c98c",
+    "data": [
+      {
+        "text": "What did they say?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "449db6d0-d425-40d4-bf14-c50ad43e232c",
+    "data": [
+      {
+        "text": "What did the doctors say?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b34a81e8-cbc7-4201-8d1c-52c95734d39c",
+    "data": [
+      {
+        "text": "What did they tell you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a4f114e-09d5-4b88-b00e-90f167bf943b",
+    "data": [
+      {
+        "text": "What is your prognosis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

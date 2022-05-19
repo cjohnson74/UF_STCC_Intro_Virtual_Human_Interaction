@@ -1,0 +1,36 @@
+{
+  "id": "3f64f076-af3a-44d9-8608-67ad48e7427d",
+  "name": "Non-Default Previous Hospital Stay Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I had pneumonia when I was in the hospital for the stroke, but I haven\u0027t had any chest infections since.",
+            "Yes, I was in the hospital a long time."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

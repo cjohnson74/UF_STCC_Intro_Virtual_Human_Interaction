@@ -1,0 +1,67 @@
+[
+  {
+    "id": "62955ffe-8315-4f8c-bd18-aa90e2521015",
+    "data": [
+      {
+        "text": "Have your vitals been recorded by the nurse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88741270-4816-461e-baab-904ab4c4c13e",
+    "data": [
+      {
+        "text": "Has the nurse taken your vitals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16d2e180-b4a9-4768-a6bc-236ff51804b2",
+    "data": [
+      {
+        "text": "Did the nurse measure you vitals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a889b750-e3b7-43b5-ba4f-dac66f019aaa",
+    "data": [
+      {
+        "text": "Did the nurse test your vitals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ac558ee-55df-4919-b5ea-1c7e1214c383",
+    "data": [
+      {
+        "text": "Did the nurse take your vitals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

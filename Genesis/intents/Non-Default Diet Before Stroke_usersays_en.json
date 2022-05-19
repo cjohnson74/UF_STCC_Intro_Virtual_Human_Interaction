@@ -1,0 +1,111 @@
+[
+  {
+    "id": "4f7b7ac0-fb4b-4a1e-85f7-bb3e1fcc1fa9",
+    "data": [
+      {
+        "text": "Did you have a normal diet before your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dd481b6-d2af-4226-90fc-cb6a62e5edbd",
+    "data": [
+      {
+        "text": "did your puree diet start ",
+        "userDefined": false
+      },
+      {
+        "text": "a year ago",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5d79d36-20b8-4a82-b9e7-9e9b831b2f8d",
+    "data": [
+      {
+        "text": "What was your swallowing like before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa99c6c6-77e9-4463-8af1-ff1f24d51a2f",
+    "data": [
+      {
+        "text": "How was your diet before the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d52cf37e-fed1-4952-bc75-d582669b95c7",
+    "data": [
+      {
+        "text": "Did you have a normal diet before the stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0455202a-c98d-4339-8d3f-bcceb595dd9f",
+    "data": [
+      {
+        "text": "What was your diet like before your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ddb9a46-4505-4cc5-8322-2206f05438ba",
+    "data": [
+      {
+        "text": "Did you notice swallow difficulties after your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34e1c17a-f491-4661-b664-d2136bd7c3c1",
+    "data": [
+      {
+        "text": "did you ever have a normal diet after your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

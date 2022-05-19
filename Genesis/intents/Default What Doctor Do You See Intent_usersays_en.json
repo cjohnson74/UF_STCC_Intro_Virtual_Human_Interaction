@@ -1,0 +1,132 @@
+[
+  {
+    "id": "64ae469e-32ec-4bc9-bd16-c72b4d165db4",
+    "data": [
+      {
+        "text": "When\u0027s the last time you saw a neurologist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "550294b2-62a5-45ff-91b5-b304ae20012b",
+    "data": [
+      {
+        "text": "Have you been to a neurologist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ab278a0-4a20-4fc6-8f47-fa332ae02948",
+    "data": [
+      {
+        "text": "When were you last at the doctor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6665ab29-74ea-498e-8d69-46c1ea1054e5",
+    "data": [
+      {
+        "text": "What doctors have you seen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f90c8f1f-51ec-474b-b2bb-03ce35297111",
+    "data": [
+      {
+        "text": "Have you seen a neurologist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "164f9607-b460-4ab4-8aa3-5a0997f435e2",
+    "data": [
+      {
+        "text": "Have you seen a GI?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74c2176a-b4c6-4488-96bf-d0d922713a32",
+    "data": [
+      {
+        "text": "what other doctors do you see?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9f0bb2c-48f3-4625-9cff-a9b9ef822372",
+    "data": [
+      {
+        "text": "Are you seeing any doctors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb5844ef-22a1-46c9-b10c-93e3c9d84f7b",
+    "data": [
+      {
+        "text": "Have you seen other doctors?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96048fd5-a2a3-41c4-8658-a79e389ec8a9",
+    "data": [
+      {
+        "text": "Do you see other doctors?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

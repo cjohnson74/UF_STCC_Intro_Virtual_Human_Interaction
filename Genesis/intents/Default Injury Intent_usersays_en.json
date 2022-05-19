@@ -1,0 +1,67 @@
+[
+  {
+    "id": "9679a744-5983-4c64-8b5e-c275e966bb80",
+    "data": [
+      {
+        "text": "Have there been cases of trauma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe19e885-c076-4631-90fb-1411665e4bce",
+    "data": [
+      {
+        "text": "Have you had any traumas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da5c5ae7-7660-42aa-8efe-c85cdb1065e4",
+    "data": [
+      {
+        "text": "Have you experienced any trauma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e35a1555-1595-43d8-afa1-90e8110e9cb4",
+    "data": [
+      {
+        "text": "any significant injuries?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e74db403-6688-42b5-b3ff-77644a1ade8a",
+    "data": [
+      {
+        "text": "do you have any cases of trauma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

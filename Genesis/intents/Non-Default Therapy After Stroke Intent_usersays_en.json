@@ -1,0 +1,171 @@
+[
+  {
+    "id": "8f048fe5-6b77-4705-9ffd-015785850a10",
+    "data": [
+      {
+        "text": "What kind of therapy have you had?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2667b665-7735-4c0d-9976-d4964a73db54",
+    "data": [
+      {
+        "text": "What therapy have you had?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8b65b88-efae-4a65-a8f8-dfab125018c8",
+    "data": [
+      {
+        "text": "Did you receive any speech therapy after your stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "269a6330-d1d4-4289-91b7-57619d72f959",
+    "data": [
+      {
+        "text": "have you had any therapy before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a18147b-4e5e-4de7-a11d-db9a557c7cb3",
+    "data": [
+      {
+        "text": "Have you had your throat examined before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "753701c3-3ef7-4393-b677-ea07cbb31aa6",
+    "data": [
+      {
+        "text": "Have your received other therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a513a3a-02ae-41fd-ae35-49b1957f5cc7",
+    "data": [
+      {
+        "text": "Have you received any therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f4eea91-6164-4de6-b316-2f59804a3497",
+    "data": [
+      {
+        "text": "Have you received any other therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a1249d7-6bff-4271-8650-40e0929c6629",
+    "data": [
+      {
+        "text": "Have you had an evaluation before?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f149129-ca22-4bc9-9428-b56e68595a88",
+    "data": [
+      {
+        "text": "have you had any therapy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3977e670-65c1-4cbf-8445-ed692ba33567",
+    "data": [
+      {
+        "text": "Have you had any other therapy since your brainstem stroke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cbf46f3-5146-4470-aded-fc4ac4f9fc8d",
+    "data": [
+      {
+        "text": "did you have therapy after your stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2c12d9f-df4c-41d5-915d-e1a3b3bf8936",
+    "data": [
+      {
+        "text": "did you have therapy after your brainstem stroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "203ee3e4-c4bd-4ebb-895c-0d7b4176b0dd",
+  "name": "Default Stress Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Only when I\u0027m eating.",
+            "Not really. I\u0027m just stressed out about eating. I don\u0027t know what I can eat and what I can\u0027t.",
+            "I\u0027m not really that stressed. Just when I eat."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

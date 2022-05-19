@@ -1,0 +1,67 @@
+[
+  {
+    "id": "19465f2e-35ff-4508-acf0-bec7a2ac2476",
+    "data": [
+      {
+        "text": "does the facial numbness making eating difficult?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16af6519-add6-408e-a241-4b2e2b04754a",
+    "data": [
+      {
+        "text": "There is food in your cheek?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d044237c-80f3-41a2-b04a-677d77f2fdc7",
+    "data": [
+      {
+        "text": "facial weakness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "249b4633-7f48-45f2-af14-842218da727d",
+    "data": [
+      {
+        "text": "How much weakness do you feel in your cheek?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6006483-3da6-421c-96be-04d4e7ccf135",
+    "data": [
+      {
+        "text": "How bad is your facial numbness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

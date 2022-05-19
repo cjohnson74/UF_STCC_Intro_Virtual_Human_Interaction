@@ -1,0 +1,535 @@
+[
+  {
+    "id": "62d4d15a-9e6b-4a0e-afd7-4ac67dca0a51",
+    "data": [
+      {
+        "text": "Which side of your face is numb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf6468a5-0f5f-43da-a31e-4d77f7a6d720",
+    "data": [
+      {
+        "text": "Is there numbness in your throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fa68bcc-364a-453f-95eb-ba1bb57263a5",
+    "data": [
+      {
+        "text": "Which side do you feel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f68a8632-c45e-45cf-a3b3-b7fc2c0f5c84",
+    "data": [
+      {
+        "text": "Do you have lip weakness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08152f67-dafa-44be-9149-1d875f40e1fa",
+    "data": [
+      {
+        "text": "Are your lips weak or numb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4dc861c-1c4d-47b9-a4f5-23482d5d4381",
+    "data": [
+      {
+        "text": "Is the left side of your body numb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fad6aaaf-7742-486c-b257-b2dcdbf14f21",
+    "data": [
+      {
+        "text": "How does your face feel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24b0e63d-8cbd-4592-b8e7-931594999521",
+    "data": [
+      {
+        "text": "Is your face always numb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd8ab769-73b3-45e3-84b1-d0d69c15819c",
+    "data": [
+      {
+        "text": "What side of your face is numb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e7c5a63-a91b-4b10-aebf-a157dbbb0502",
+    "data": [
+      {
+        "text": "What side can you feel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f34d02b9-80a1-4445-8d4e-ae2cc3dcf8f4",
+    "data": [
+      {
+        "text": "is your face weak too?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83180829-c85a-4f36-91dc-fde70922c39c",
+    "data": [
+      {
+        "text": "do you have sensation in your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46efe9e2-3918-479c-b4fb-e08053443732",
+    "data": [
+      {
+        "text": "what side of your face feels numb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d247640c-5994-40db-bd54-7f38a8c40049",
+    "data": [
+      {
+        "text": "What side of the face feels numb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27ccc808-02b5-4364-b086-68e9f76cdb03",
+    "data": [
+      {
+        "text": "Is your tongue numb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce2623b9-5a3e-49af-880a-6fc4f75504a5",
+    "data": [
+      {
+        "text": "which side of your face feels numb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebc4feea-7b7d-4ea8-9ac5-2506ccdef6e5",
+    "data": [
+      {
+        "text": "Is all of the right side of your face numb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91a7f559-2c5c-4759-9bd3-7fa8f8306a4c",
+    "data": [
+      {
+        "text": "do you have right sided weakness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a496f85f-0a07-493c-9060-e53b31fd6c1e",
+    "data": [
+      {
+        "text": "Do you have numbess?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7722d46f-f44d-484f-b36e-06e0203daa20",
+    "data": [
+      {
+        "text": "Are you experiencing any numbess?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c723fdc-ac45-40c4-a5c4-21387860bf83",
+    "data": [
+      {
+        "text": "do you have sensation in your face?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e860d4f-1551-4555-96ff-e61ed3d0e2fb",
+    "data": [
+      {
+        "text": "Where is your numbness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e634cc7-385a-47fc-8900-405dc45f87b9",
+    "data": [
+      {
+        "text": "Does your face ever feel numb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa86ac6e-bc2b-4c29-a4b4-9a7da122899d",
+    "data": [
+      {
+        "text": "Do your cheeks ever feel numb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba0cf7d0-e828-4c13-9313-4f19523db604",
+    "data": [
+      {
+        "text": "Are you having trouble with numbness in your face?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99c61cb1-fd00-43b6-a605-d4bb0a749a2c",
+    "data": [
+      {
+        "text": "Where are you experiencing numbness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60ffc983-db2e-4e69-94fd-ad97046e985f",
+    "data": [
+      {
+        "text": "Are you experiencing numbness in your face?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d99c0aaa-a16b-445d-8266-0b86dc406dbb",
+    "data": [
+      {
+        "text": "Can you feel both sides of your face?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79ab2b72-5ca8-411c-b14c-cd776b08de51",
+    "data": [
+      {
+        "text": "Do you have any numbness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b673318-0d5f-4879-8efb-9f4061ee3b3b",
+    "data": [
+      {
+        "text": "Does your face feel numb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9675276-5b63-4c58-8a0e-921080c9ba8b",
+    "data": [
+      {
+        "text": "Well I hope to help you with that! Where is the numbness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c620c3ab-62f4-484c-8236-71f06d96aaca",
+    "data": [
+      {
+        "text": "Any other numbness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6f070d1-9ee2-49c4-81ac-a4f938b5c12e",
+    "data": [
+      {
+        "text": "where is the weakness in your mouth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3527d77a-d495-43df-82ae-963a94192bf3",
+    "data": [
+      {
+        "text": "Do you have numbness anywhere else?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e99fcfc8-e599-4208-9f0a-6d442faafaf6",
+    "data": [
+      {
+        "text": "Is the numbness constant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "451c1275-685e-4b26-8a04-77df7bdb88fb",
+    "data": [
+      {
+        "text": "Where do you feel numb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5116f145-659e-46db-817e-467bcb78787a",
+    "data": [
+      {
+        "text": "You mean numbness while eating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "043a8fb9-62cf-408b-a7e6-ad4406fb1a8f",
+    "data": [
+      {
+        "text": "Numbness in both cheeks?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "448ea535-540d-4d1a-a89f-1528d3547deb",
+    "data": [
+      {
+        "text": "Where do you feel numbness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e18ba8c-b35e-4b02-a1f7-c0a33edb8481",
+    "data": [
+      {
+        "text": "Do you have numbness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f19cc3ba-8f70-42af-aa7d-c5f8875752d4",
+    "data": [
+      {
+        "text": "Where is the numbness?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

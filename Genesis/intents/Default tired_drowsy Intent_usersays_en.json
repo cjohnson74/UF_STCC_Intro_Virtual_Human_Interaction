@@ -1,0 +1,85 @@
+[
+  {
+    "id": "17c3542a-67b0-49f6-962d-ddc87ea73fd7",
+    "data": [
+      {
+        "text": "How quickly do you get tired?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e31b6a20-f77a-4ab2-84d9-148ee8698be0",
+    "data": [
+      {
+        "text": "How is your energy level?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e9e93cd-2217-47ff-b7f6-7a5a54ec55e1",
+    "data": [
+      {
+        "text": "Do you feel drowsy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a424371-2b4c-4101-a52a-2d4dc1d71683",
+    "data": [
+      {
+        "text": "Do you get tired easily?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1a4ccaf-639e-4139-bda1-00e6dce3b031",
+    "data": [
+      {
+        "text": "do you get tired ",
+        "userDefined": false
+      },
+      {
+        "text": "throughout the day",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1af44bb7-f4c8-44ad-bc1d-a7b7b9e7ac26",
+    "data": [
+      {
+        "text": "do you get more tired as the day goes on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "01c51e71-b0bb-491a-8a95-50e9aabadaec",
+    "data": [
+      {
+        "text": "What is your hearing like?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "993b1552-0eab-4b00-8874-aee00772b6d0",
+    "data": [
+      {
+        "text": "Tell me about your hearing.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c832f2fa-0a83-4473-9d20-16ee994ba718",
+    "data": [
+      {
+        "text": "tell me about your hearing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6682c26-2f05-4733-bcf8-312fc24d7692",
+    "data": [
+      {
+        "text": "what\u0027s the status on your hearing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "281f08fc-cb25-4644-a693-0e4f81805dbd",
+    "data": [
+      {
+        "text": "any hearing issues?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca422187-93e2-43fe-b3b2-9bb69eab0e03",
+    "data": [
+      {
+        "text": "how is your hearing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

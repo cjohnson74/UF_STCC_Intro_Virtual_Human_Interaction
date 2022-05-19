@@ -1,0 +1,41 @@
+[
+  {
+    "id": "3389929e-ad04-4df7-8ba9-f41b0e16d154",
+    "data": [
+      {
+        "text": "Do feel like you have food stuck every time you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3120c3dc-cc94-4048-a202-9f87e0ad98f8",
+    "data": [
+      {
+        "text": "Do you ever feel like food sticks in the back of your throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe6cf21b-393a-410f-966f-fa437bc3e93c",
+    "data": [
+      {
+        "text": "do you have a feeling of something sticking in your throat after you eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "c55bb39d-c161-4f0f-908d-4ee3e7095658",
+    "data": [
+      {
+        "text": "Do you suffer from depression?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c9024f6-e114-4681-99f3-178900a9c09a",
+    "data": [
+      {
+        "text": "how is your mood?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf99f33b-e5f1-4a11-9176-db3408fe0096",
+    "data": [
+      {
+        "text": "are you unhappy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e2c6721-27d0-4130-bebf-c2edc9adc124",
+    "data": [
+      {
+        "text": "Are you depressed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14d7e07f-3b46-45a0-81ea-ab5ce61683a6",
+    "data": [
+      {
+        "text": "what is your lifestyle like",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ffa3592-5fbd-4fb9-b11e-5b03937c012d",
+    "data": [
+      {
+        "text": "Are you experiencing any depression?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecdffe9c-dc37-4920-a5dd-0e5aab859ec2",
+    "data": [
+      {
+        "text": "Who is depressed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

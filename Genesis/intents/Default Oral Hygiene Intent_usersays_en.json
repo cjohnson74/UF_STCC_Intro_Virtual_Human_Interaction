@@ -1,0 +1,41 @@
+[
+  {
+    "id": "faf530fc-e94e-4496-adb3-e47ff46e3627",
+    "data": [
+      {
+        "text": "do you have denchers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35200b2c-4176-423e-b82e-06e35471a404",
+    "data": [
+      {
+        "text": "do you have dentures",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdfec988-1ad6-46ae-a54a-9a7c621b6ba7",
+    "data": [
+      {
+        "text": "How is your oral hygiene?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

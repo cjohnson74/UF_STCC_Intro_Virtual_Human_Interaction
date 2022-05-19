@@ -1,0 +1,106 @@
+[
+  {
+    "id": "eb033bbb-3cbf-471f-ab8e-280d043b6c02",
+    "data": [
+      {
+        "text": "Has someone done an endoscopy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bbe468d-ef78-4b8c-b925-b451efc6596e",
+    "data": [
+      {
+        "text": "Have you ever had a videoflouroscopic swallow study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfc85acb-c9f7-4f2d-856f-e049bcb7ed7d",
+    "data": [
+      {
+        "text": "Do you have an neglect?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07543ba3-bfbe-438b-bde2-3cddb2d1e3da",
+    "data": [
+      {
+        "text": "Animus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bbedeed-2d23-44b6-90a7-e666d57d8294",
+    "data": [
+      {
+        "text": "nexium",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2e81fea-ec45-4cfa-8473-ea7603fa864b",
+    "data": [
+      {
+        "text": "previous barium",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5527a79-6ff3-440a-91e3-7b6dd085409e",
+    "data": [
+      {
+        "text": "Did you have a barium rehab swallow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fcd28c4-a439-42ec-bd29-70a0df79049d",
+    "data": [
+      {
+        "text": "Do you have an esophageal stricture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

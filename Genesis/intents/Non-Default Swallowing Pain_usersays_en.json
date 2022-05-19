@@ -1,0 +1,93 @@
+[
+  {
+    "id": "e1210eb9-c3ed-4f7d-9593-7841f01ae2ad",
+    "data": [
+      {
+        "text": "Pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "312ce70e-52ad-4858-84ca-8749f3674466",
+    "data": [
+      {
+        "text": "anxious about your pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f24e74ca-6d26-4e2a-a46e-03c20fc978af",
+    "data": [
+      {
+        "text": "tell me about your pain progression",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55f60291-ae97-4b1d-bf6e-56c04ed83f85",
+    "data": [
+      {
+        "text": "how has your pain progressed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67c31e60-8f3a-42f0-bc6a-c5da4564c42b",
+    "data": [
+      {
+        "text": "what the pain gradual or sudden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d81126b6-78d2-4a50-ad53-9404b6a97754",
+    "data": [
+      {
+        "text": "do your pain start suddenly or gradually",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56583e24-2cd8-48c5-ab62-56ab7c7bb3a8",
+    "data": [
+      {
+        "text": "Do certain foods cause more pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

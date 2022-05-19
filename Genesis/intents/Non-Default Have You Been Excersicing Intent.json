@@ -1,0 +1,35 @@
+{
+  "id": "9ba29690-53dd-4949-a902-9b57476edfc3",
+  "name": "Non-Default Have You Been Excersicing Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You know, I gotta be honest, doc, my daughter had her baby about 3 months ago.  We\u0027ve been so excited about our granddaughter, I\u0027ve kinda lost track of my exercises and even before I used to forget about my exercises often. If my wife doesn\u0027t remind me, I can barely remember to do them."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
